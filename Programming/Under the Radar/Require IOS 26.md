@@ -21,10 +21,10 @@
 - **Benefits of a Day One Release:** Releasing an updated app on the first day of a new iOS launch can lead to <mark style="background: #FFB8EBA6;">press and attention from Apple</mark>. However, it also means competing with many other apps for that attention and launching to the smallest possible audience of early adopters.
 ### Concerns
 
-- **Losing New Users:** The primary business concern is that by requiring the latest iOS, an app becomes unavailable to new users who have not yet updated. Since acquiring new users is challenging, proactively cutting off a portion of that market is a difficult decision.
+- **Losing New Users:** The primary business concern is that <mark style="background: #FF5582A6;">by requiring the latest iOS, an app becomes unavailable to new users who have not yet updated</mark>. Since acquiring new users is challenging, proactively cutting off a portion of that market is a difficult decision.
     
-- **Existing User Experience:** While existing users on older OS versions can keep the last compatible version of an app, they will not receive future bug fixes. This can leave them with a buggy experience if a problem is discovered after support is dropped.
+- **Existing User Experience:** While <mark style="background: #FF5582A6;">existing users on older OS versions can keep the last compatible version of an app, they will not receive future bug fixes</mark>. This can leave them with a buggy experience if a problem is discovered after support is dropped.
     
-- **Technical Debt and Awkwardness:** Supporting older iOS versions, especially in SwiftUI, is described as "awkward" and "cumbersome." The way modifiers are chained in SwiftUI makes it difficult to have conditional code for different OS versions within the same view structure.
+- **Technical Debt and Awkwardness:** Supporting older iOS versions, especially in SwiftUI, is described as "awkward" and "cumbersome." <mark style="background: #FFB86CA6;">The way modifiers are chained in SwiftUI makes it difficult to have conditional code for different OS versions within the same view structure.</mark>
     
 - **Testing and QA Complexity:** Supporting multiple OS versions increases the testing burden. Developers need to perform deep testing on older systems to ensure that new features or changes for the latest OS don't inadvertently break something for users on previous versions.
