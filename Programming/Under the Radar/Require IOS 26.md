@@ -3,7 +3,7 @@
 
 - **The Annual Dilemma:** The hosts discuss the yearly question for iOS developers: whether to drop support for the previous iOS version (in this case, iOS 18) and require the new one (iOS 26) right away.
     
-- **Developer vs. Business Needs:** The conversation centers on the conflict between the developer's desire for a simpler, more productive workflow by only supporting the latest iOS, and the business need to avoid alienating existing users and cutting off potential new customers on older systems.
+- **Developer vs. Business Needs:** The conversation centers on the conflict between the developer's desire for a simpler, <mark style="background: #BBFABBA6;">more productive workflow by only supporting the latest iOS</mark>, and the business need to avoid alienating existing users and <mark style="background: #FF5582A6;">cutting off potential new customers on older systems.</mark>
     
 - **Data-Driven Decisions:** David Smith emphasizes using data to inform this decision, citing his own app, Widgetsmith. He notes that even a year after a new iOS release, a small but significant percentage of new downloads still come from users on the older OS.
     
