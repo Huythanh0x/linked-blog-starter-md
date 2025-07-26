@@ -10,3 +10,12 @@
 - **A "Crazy" but Effective Solution:** David proposes a unique strategy: creating a parallel, <mark style="background: #D2B3FFA6;">duplicated version of the app's view hierarchy</mark>. This allows developers to build a "pure" iOS 26 experience without breaking compatibility for users on iOS 18, as the app essentially runs two different versions of the UI based on the user's operating system.
     
 - **Sponsorship:** The episode is sponsored by Sentry, an error monitoring and tracing platform, which is presented as a tool to help developers spend less time on debugging and more on building features.
+### Insights
+
+- **Adoption Timelines:** David provides an insightful timeline for new iOS adoption. He notes that the broad, automatic update rollout typically doesn't happen until late November, coinciding with the period after new iPhones have launched and initial bugs are fixed. By December, a significant majority (around 70% for Widgetsmith) of new downloads come from the latest OS.
+    
+- **The "All or Nothing" Nature of Support:** The hosts point out that the <mark style="background: #FFB86CA6;">effort to support one older version (N-1) is often nearly the same as supporting multiple older versions (N-2, N-3). </mark>This suggests that developers either go all-in on the new OS or maintain broader backward compatibility.
+    
+- **Impact on Design:** Marco raises the concern that maintaining backward compatibility might subconsciously hold back a developer from doing a more aggressive and "pure" redesign for the new OS.
+    
+- **Benefits of a Day One Release:** Releasing an updated app on the first day of a new iOS launch can lead to press and attention from Apple. However, it also means competing with many other apps for that attention and launching to the smallest possible audience of early adopters.
