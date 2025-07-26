@@ -27,4 +27,4 @@
     
 - **Technical Debt and Awkwardness:** Supporting older iOS versions, especially in SwiftUI, is described as "awkward" and "cumbersome." <mark style="background: #FFB86CA6;">The way modifiers are chained in SwiftUI makes it difficult to have conditional code for different OS versions within the same view structure.</mark>
     
-- **Testing and QA Complexity:** Supporting multiple OS versions increases the testing burden. Developers need to perform deep testing on older systems to ensure that new features or changes for the latest OS don't inadvertently break something for users on previous versions.
+- **Testing and QA Complexity:** <mark style="background: #FFB86CA6;">Supporting multiple OS versions increases the testing burden</mark>. Developers need to perform deep testing on older systems to ensure that new features or changes for the latest OS don't inadvertently break something for users on previous versions.
