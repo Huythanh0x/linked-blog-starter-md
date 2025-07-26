@@ -1,0 +1,1 @@
+Gives people **quick access** to their favorite features on supported iPhone and Apple Watch models

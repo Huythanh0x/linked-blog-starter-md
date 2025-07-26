@@ -1,0 +1,6 @@
+- [[Abstract Entity]]
+- Column
+- Relation
+	- JoinColumn
+	- ManyToOne()
+- Primary key

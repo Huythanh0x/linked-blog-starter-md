@@ -1,0 +1,1 @@
+Ensuring that each module has access only to the repositories it needs, following the principle of separation of concerns.

@@ -1,0 +1,1 @@
+> The system defines colors that look good on various backgrounds and appearance modes

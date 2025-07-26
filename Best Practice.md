@@ -1,0 +1,11 @@
+### Apple
+- Prioritize [[privacy]]
+- Secure the data you collect and store
+- Audit your [[accessibility support]]
+- [[Localize]] your app
+	- both left-to-right and right-to-left languages
+	- timezone, date time format
+- Test and debug your app thoroughly
+	- Built-in Xcode debugger
+	- Some 3rd libs
+- [[Optimize performance]]

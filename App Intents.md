@@ -1,0 +1,1 @@
+> to expose your app’s functionality to system services like Siri and the Shortcuts app

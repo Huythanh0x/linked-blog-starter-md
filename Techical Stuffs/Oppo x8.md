@@ -1,0 +1,1 @@
+The same as [[Xiaomi Mi 13]]

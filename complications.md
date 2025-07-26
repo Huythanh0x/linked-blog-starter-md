@@ -1,0 +1,1 @@
+> relevant, potentially dynamic data and graphics right on the watch face
