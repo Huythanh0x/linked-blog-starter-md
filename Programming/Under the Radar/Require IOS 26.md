@@ -1,7 +1,7 @@
 #UnderTheRadar
 ### Highlights
 
-- **The Annual Dilemma:** The hosts discuss the yearly question for iOS developers: whether to drop support for the previous iOS version (in this case, iOS 18) and require the new one (iOS 26) right away.
+- **The Annual Dilemma:** The hosts discuss the yearly question for iOS developers: <mark style="background: #ADCCFFA6;">whether to drop support for the previous iOS version</mark> (in this case, iOS 18) and require the new one (iOS 26) right away.
     
 - **Developer vs. Business Needs:** The conversation centers on the conflict between the developer's desire for a simpler, <mark style="background: #BBFABBA6;">more productive workflow by only supporting the latest iOS</mark>, and the business need to avoid alienating existing users and <mark style="background: #FF5582A6;">cutting off potential new customers on older systems.</mark>
     
@@ -18,4 +18,13 @@
     
 - **Impact on Design:** Marco raises the concern that maintaining backward compatibility might subconsciously hold back a developer from doing a more aggressive and "pure" redesign for the new OS.
     
-- **Benefits of a Day One Release:** Releasing an updated app on the first day of a new iOS launch can lead to press and attention from Apple. However, it also means competing with many other apps for that attention and launching to the smallest possible audience of early adopters.
+- **Benefits of a Day One Release:** Releasing an updated app on the first day of a new iOS launch can lead to <mark style="background: #FFB8EBA6;">press and attention from Apple</mark>. However, it also means competing with many other apps for that attention and launching to the smallest possible audience of early adopters.
+### Concerns
+
+- **Losing New Users:** The primary business concern is that by requiring the latest iOS, an app becomes unavailable to new users who have not yet updated. Since acquiring new users is challenging, proactively cutting off a portion of that market is a difficult decision.
+    
+- **Existing User Experience:** While existing users on older OS versions can keep the last compatible version of an app, they will not receive future bug fixes. This can leave them with a buggy experience if a problem is discovered after support is dropped.
+    
+- **Technical Debt and Awkwardness:** Supporting older iOS versions, especially in SwiftUI, is described as "awkward" and "cumbersome." The way modifiers are chained in SwiftUI makes it difficult to have conditional code for different OS versions within the same view structure.
+    
+- **Testing and QA Complexity:** Supporting multiple OS versions increases the testing burden. Developers need to perform deep testing on older systems to ensure that new features or changes for the latest OS don't inadvertently break something for users on previous versions.
