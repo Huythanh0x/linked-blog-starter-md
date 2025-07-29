@@ -44,3 +44,5 @@ Many of the packages that get pulled into your app <mark style="background: #FF5
 
  <mark style="background: #CACFD9A6;">But can it _validate_? Can it _correct itself_? Can it _know_ when it’s broken?</mark>
 ![[Pasted image 20250729204604.png]]
+
+LLM failed even the **basic cases**. That is the *gap*, without telling, they don't know.
