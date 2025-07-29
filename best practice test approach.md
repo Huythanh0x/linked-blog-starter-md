@@ -15,3 +15,5 @@ the more important it is for your team to follow a reliable testing workflow.
 > is a metric related to unit testing. The idea is to measure *the percentage of lines and execution paths* in the code covered by at least one test case
 
 - **Line coverge** -> <mark style="background: #FF5582A6;">you can have 100% line coverage but still have untested scenarios in your application</mark>
+
+### Test driven development
