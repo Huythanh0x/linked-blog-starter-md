@@ -58,4 +58,5 @@ LLM failed even the **basic cases**. That is the *gap*, without telling, they do
 >  I came up with this workflow by testing and building a full-stack personal finance app in my spare time
 #### Step 1: Laying the Foundation
 Trying to get your LLM to *glue it all* **(full stack app)** together for you cohesively just doesn't work.
-Solid foundation and leveraging: [[UI framework]], [[Template]], [[Styling]]. So that the
+Solid foundation and leveraging: [[UI framework]], [[Template]], [[Styling]]. So that the LLM working consistently across the app.
+
