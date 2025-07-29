@@ -23,4 +23,7 @@ TDD involves three primary steps:
 - writing a *failing test*
 - implementing the **minimum code** necessary to *pass the test*
 - and finally refactoring the code while ensuring that *all tests pass*
-
+#### Benifit
+**Higher Code Coverage** -> blind spot
+ **Early Bug Detection:** -> avoid fix bug in stg or production
+ 
