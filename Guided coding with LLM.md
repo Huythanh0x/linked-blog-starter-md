@@ -1,5 +1,8 @@
-#summarized-ai-studio
-Original 
+---
+tags:
+  - summarized-ai-studio
+date: 2023-10-27
+---
 ### **Key Insights for Your Learning Curve**
 
 *   **AI as a "Guided Coding" Partner, Not a Magic Wand**: The author emphasizes that this isn't about "vibe coding" in the sense of mindlessly prompting an AI. It's a structured collaboration. The AI is a "pair programmer" that handles the boilerplate and repetitive tasks, but you, the developer, are the architect and the quality control. For a solo dev, this is crucial; the AI becomes your first team member.
