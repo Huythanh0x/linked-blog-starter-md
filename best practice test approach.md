@@ -21,4 +21,6 @@ the more important it is for your team to follow a reliable testing workflow.
 
 TDD involves three primary steps: 
 - writing a *failing test*
-- implementing the **minimum code** necessary to pass the test, and finally refactoring the code while ensuring that all tests pass
+- implementing the **minimum code** necessary to *pass the test*
+- and finally refactoring the code while ensuring that *all tests pass*
+
