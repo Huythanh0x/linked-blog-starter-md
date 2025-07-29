@@ -40,4 +40,6 @@ Many of the packages that get pulled into your app <mark style="background: #FF5
 
 
 ### The Problem with Raw Vibes (tester perspective)
+> Vibe coding is missing a **backbone**. It’s missing **intention**
 
+ <mark style="background: #CACFD9A6;">But can it _validate_? Can it _correct itself_? Can it _know_ when it’s broken?</mark>
