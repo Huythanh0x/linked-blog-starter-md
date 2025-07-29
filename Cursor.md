@@ -60,3 +60,8 @@ LLM failed even the **basic cases**. That is the *gap*, without telling, they do
 Trying to get your LLM to *glue it all* **(full stack app)** together for you cohesively just doesn't work.
 Solid foundation and leveraging: [[UI framework]], [[Template]], [[Styling]]. So that the LLM working consistently across the app.
 
+**Central "source of truth"** the LLM can always reference to see how the app is defined as it builds new features.
+I could have this with something like: `app.module`, `AndroidManifest`, ...
+
+#### Step 2: Getting the Most Out of Your AI Assistant
+
