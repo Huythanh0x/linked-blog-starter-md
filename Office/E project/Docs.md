@@ -22,7 +22,7 @@ yarn run typeorm -- -d ./typeOrm.config.ts migration:generate ./src/migrations/r
 ```
 
 ```sh
-yarn run typeorm -- -d ./typeOrm.config.ts migration:generate ./src/migrations/tenant/updateTenantDBForRolePlaying
+yarn run typeorm -- -d ./tenant.typeOrm.config.ts migration:generate ./src/migrations/tenant/updateTenantDBForRolePlaying
 ```
 
 #### Check DB creds
