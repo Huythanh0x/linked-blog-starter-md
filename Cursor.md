@@ -55,3 +55,4 @@ LLM failed even the **basic cases**. That is the *gap*, without telling, they do
  Even manually need to <mark style="background: #FF5582A6;">validate the generated (unit) tests</mark>
 
 [[3 hours vibe coding]]
+[[How negative is Vibe Coding]]
