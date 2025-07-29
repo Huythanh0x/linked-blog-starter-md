@@ -77,3 +77,5 @@ I often like telling the LLM to `think about 3 different strategies/approaches, 
 Actively adding new rules and asking for feedback from LLM
 >Can you review for breadth and clarity and think of a few ways it could be improved, if necessary. Remember, these documents are to be used as context for AI-assisted coding workflows.
 
+#### Step 3: Defining the "What" and the "How" (PRD & Plan)
+[[vertical slice method]]
