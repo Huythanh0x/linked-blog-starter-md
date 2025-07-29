@@ -64,4 +64,9 @@ Solid foundation and leveraging: [[UI framework]], [[Template]], [[Styling]]. So
 I could have this with something like: `app.module`, `AndroidManifest`, ...
 
 #### Step 2: Getting the Most Out of Your AI Assistant
+Create a **comprehensive set of rules** for your editor and LLM to follow.
+1. Start *building something*
+2. Look out for times when the LLM (repeatedly) _doesn't meet your expectations_ and define rules for them
+3. Constantly ask the LLM to help you improve your workflow
+#### Define rules
 
