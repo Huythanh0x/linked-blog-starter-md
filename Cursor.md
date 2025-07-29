@@ -57,3 +57,5 @@ LLM failed even the **basic cases**. That is the *gap*, without telling, they do
 ### 3 hours vibe coding
 >  I came up with this workflow by testing and building a full-stack personal finance app in my spare time
 #### Step 1: Laying the Foundation
+Trying to get your LLM to *glue it all* **(full stack app)** together for you cohesively just doesn't work.
+
