@@ -31,6 +31,6 @@ original reference: https://dev.to/wasp/a-structured-workflow-for-vibe-coding-fu
 2.  **Become a Great "AI Prompt Engineer"**: Your ability to <mark style="background: #ADCCFFA6;">write clear, concise, and context-rich prompts</mark> is a new, essential skill. Learn to structure your requests, provide examples, and define rules to get the best possible output from the AI.
 3.  **Think Like an Architect**: As a solo developer, you are the product manager, developer, and DevOps engineer. The workflow in the tutorial forces you to think about the product (PRD), the implementation (Plan), and the deployment. Embrace this holistic view of the development process.
 4.  **Embrace Incremental Complexity**: Start simple and build on it. The vertical slice approach is perfect for a solo developer as it allows you to create value incrementally. Don't try to build the entire complex application at once.
-5.  **Build a Reusable "Rulebook"**: As you work on projects, build up your own set of `.cursor/rules/` files. These will become your personal knowledge base and a huge time-saver on future projects.
+5.  **Build a Reusable "Rulebook"**: As you work on projects, build up your own set of `.cursor/rules/` files. These will become your personal [[knowledge base]] and a huge time-saver on future projects.
 
 By adopting and adapting this structured workflow, you can significantly accelerate your journey to becoming a proficient and effective solo developer, capable of building complex, full-stack applications.
