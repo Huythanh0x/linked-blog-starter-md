@@ -4,7 +4,9 @@ the more important it is for your team to follow a reliable testing workflow.
 [[unit testing]] and [[integration testing]].
 
 ### Best practice
-- Use code coverage tools:
+- Use [[code coverage tools]]
+- [[Automate test]]
+- Test all multiple devices (old -> high end devices)
 
 
 
