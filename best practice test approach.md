@@ -26,4 +26,6 @@ TDD involves three primary steps:
 #### Benifit
 **Higher Code Coverage** -> blind spot
  **Early Bug Detection:** -> avoid fix bug in stg or production
+ **Improved Code Design** -> loosely decoupoled
+ **Clearer Documentation** -> treat test as document -> expected behavior for each function
  
