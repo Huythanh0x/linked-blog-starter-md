@@ -1,7 +1,6 @@
 ---
 tags:
   - summarized-ai-studio
-date: 2023-10-27
 ---
 ### **Key Insights for Your Learning Curve**
 
