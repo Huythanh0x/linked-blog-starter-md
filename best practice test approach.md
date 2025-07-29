@@ -17,3 +17,8 @@ the more important it is for your team to follow a reliable testing workflow.
 - **Line coverge** -> <mark style="background: #FF5582A6;">you can have 100% line coverage but still have untested scenarios in your application</mark>
 
 ### Test driven development
+> focuses on writing automated tests before implementing the actual code
+
+TDD involves three primary steps: 
+- writing a *failing test*
+- implementing the **minimum code** necessary to pass the test, and finally refactoring the code while ensuring that all tests pass
