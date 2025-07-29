@@ -28,4 +28,4 @@ TDD involves three primary steps:
  **Early Bug Detection:** -> avoid fix bug in stg or production
  **Improved Code Design** -> loosely decoupoled
  **Clearer Documentation** -> treat test as document -> expected behavior for each function
- 
+ **Regression Bugs** -> avoid break old feature because of new feature
