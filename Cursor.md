@@ -48,4 +48,6 @@ Many of the packages that get pulled into your app <mark style="background: #FF5
 LLM failed even the **basic cases**. That is the *gap*, without telling, they don't know.
 
 ### What Every Vibe Coder Should Add
-`.windsurfrules` or `.cursorrules`
+- `.windsurfrules` or `.cursorrules`
+- Regression tests for known **fail states**
+**Code that feels good isn’t always good.**
