@@ -1,6 +1,7 @@
 ---
 tags:
   - summarized-ai-studio
+original reference: https://dev.to/wasp/a-structured-workflow-for-vibe-coding-full-stack-apps-352l
 ---
 ### **Key Insights for Your Learning Curve**
 
