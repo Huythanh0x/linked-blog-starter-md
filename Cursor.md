@@ -81,4 +81,4 @@ Actively adding new rules and asking for feedback from LLM
 [[vertical slice method]]
 #code-prompt
 > From this PRD, create an actionable, step-by-step plan using a modified vertical slice implementation approach that's suitable for LLM-assisted coding. Before you create the plan, think about a few different plan styles that would be suitable for this project and the implementation style before selecting the best one. Give your reasoning for why you think we should use this plan style. Remember that we will constantly refer to this plan to guide our coding implementation so it should be well structured, concise, and actionable, while still providing enough information to guide the LLM.
-
+#### Step 4: Building End-to-End - Vertical Slices in Action
