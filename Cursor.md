@@ -50,4 +50,7 @@ LLM failed even the **basic cases**. That is the *gap*, without telling, they do
 ### What Every Vibe Coder Should Add
 - `.windsurfrules` or `.cursorrules`
 - Regression tests for known **fail states**
-**Code that feels good isn’t always good.**
+> **Code that feels good isn’t always good.**
+
+ Even manually need to <mark style="background: #FF5582A6;">validate the generated (unit) tests</mark>
+ 
