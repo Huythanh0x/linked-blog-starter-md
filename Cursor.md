@@ -84,5 +84,19 @@ Actively adding new rules and asking for feedback from LLM
 #### Step 4: Building End-to-End - Vertical Slices in Action
 [![Image description](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcyvbcp8xrihvz71pg6kb.png)](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcyvbcp8xrihvz71pg6kb.png)
 A different approach to a team.
-Team: create full feature list, break down task, infra setup, db design, UI design,....
-Vibe: feature by feature (independent full stack feature)
+**Team:** create full feature list, break down task, infra setup, db design, UI design,....
+**Vibe:** feature by feature (*independent full stack feature*)
+-> <mark style="background: #BBFABBA6;">Once the basis for these features was working smoothly</mark>, we could improve the complexity of them, and add on other sub-features, <mark style="background: #D2B3FFA6;">with little to no issues</mark>!
+
+#### Step 5: Closing the Loop - AI-Assisted Documentation
+**Document for LLM are much more important:** keeping track of why things were built a certain way and how the current implementation works
+
+Materials: #mind-map
++ Key files related to the implemented feature: `auth.grahql`, `auth.resolver`, `auth.service`,...
++ Provide the relevant sections of the *PRD and the Plan that described the feature.*
++ Reference *the rule file* with the *Doc creation task*
+- It focus on the **core logic**, how the different parts connect (DB -> Server -> Client), and any **key decisions made**, *referencing* the specific files where the implementation details can be found.
+`ai/docs/`
++ For Humans: a clear, human-readable record of the feature for onboarding or *future development*.
++ For the AI: It built up a knowledge base within the project that could be *fed back into the AI's context* in later stages. This helped *maintain consistency* and reduced the chances of the AI forgetting previous decisions or implementations.
+ Have a [[companion]] that has a huge knowledge set that helps you refine ideas and test assumptions is amazing as well
