@@ -36,5 +36,5 @@ Write your own tests. (Or at least *pair program* them with your coding copilot)
 Many of the packages that get pulled into your app <mark style="background: #FF5582A6;">aren’t versioned correctly</mark>
 
 #### You actual [[best practice test approach]]
--> Fill in later when I actually 
+-> Fill in later when I actually have interest in this topic - `testing`
 
