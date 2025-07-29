@@ -38,3 +38,6 @@ Many of the packages that get pulled into your app <mark style="background: #FF5
 #### You actual [[best practice test approach]]
 -> Fill in later when I actually have interest in this topic - `testing`
 
+
+### The Problem with Raw Vibes (tester perspective)
+
