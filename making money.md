@@ -1,2 +1,9 @@
 There are several ways that guarantee money
-[[Full ]]
+[[Full time dev]]
+[[MMO]]
+[[Teaching English]]
+[[Solo dev]]
+
+And some way with risk
+[[Stock]]
+[[Forex]]
