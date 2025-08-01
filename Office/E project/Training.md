@@ -20,7 +20,7 @@
 | trainingDetailId     | varchar   | Yes      | Yes    |                                                  |                                                 |
 | trainingId           | varchar   | Yes      |        |                                                  | FK [Training_data.id](http://training_data.id/) |
 | status               | tinyInt   | yes      |        | 0: In processing  <br>1: abort  <br>2: completed |                                                 |
-| averagescore         | float     |          |        | 0                                                |                                                 |
+| overallScore         | float     |          |        | 0                                                |                                                 |
 | scoreQuestion        | float     |          |        | 0                                                |                                                 |
 | scoreClosing         | float     |          |        | 0                                                |                                                 |
 | scoreLogical         | float     |          |        | 0                                                |                                                 |
