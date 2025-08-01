@@ -11,7 +11,7 @@
 | productId      | varchar |          |        | null                                                         | FK: training_product                                                     |
 | background     | varchar |          |        | null                                                         | FK: [training_role_personality.id](http://training_role_personality.id/) |
 | voicingModel   | tinyInt |          |        | 0                                                            | 0: no detecting  <br>1: Gemini  <br>2: eleventLab                        |
-| trainingStatus | tinyInt | Yes      |        | 0: IN_PROGRESS<br>1: FINISHED                                |                                                                          |
+
 
 ### Training details
 |                      |           |          |        |                                                  |                                                 |
@@ -20,7 +20,7 @@
 | trainingDetailId     | varchar   | Yes      | Yes    |                                                  |                                                 |
 | trainingId           | varchar   | Yes      |        |                                                  | FK [Training_data.id](http://training_data.id/) |
 | status               | tinyInt   | yes      |        | 0: In processing  <br>1: abort  <br>2: completed |                                                 |
-| score                | float     |          |        | 0                                                |                                                 |
+| averagescore         | float     |          |        | 0                                                |                                                 |
 | scoreQuestion        | float     |          |        | 0                                                |                                                 |
 | scoreClosing         | float     |          |        | 0                                                |                                                 |
 | scoreLogical         | float     |          |        | 0                                                |                                                 |
@@ -31,5 +31,4 @@
 | evaluationLogical    | varchar   |          |        |                                                  |                                                 |
 | evaluationSuggestion | varchar   |          |        |                                                  |                                                 |
 | evaluationListening  | varchar   |          |        |                                                  |                                                 |
-| createdAt            | datetime  | yes      |        | Current timestamp                                |                                                 |
-| deletedAt            | datetime  |          |        |                                                  |                                                 |
+
