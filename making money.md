@@ -1,9 +1,11 @@
-There are several ways that guarantee money
+### There are several ways that guarantee money
 [[Full time dev]]
 [[MMO]]
 [[Teaching English]]
+[[Freelancing]]
+### WIth opportunity
 [[Solo dev]]
-
-And some way with risk
+[[Reverse Engineering]]
+### And some way with risk
 [[Stock]]
 [[Forex]]
