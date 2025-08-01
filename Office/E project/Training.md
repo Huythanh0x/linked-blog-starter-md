@@ -13,3 +13,5 @@
 | voicingModel   | tinyInt |          |        | 0                                                            | 0: no detecting  <br>1: Gemini  <br>2: eleventLab                        |
 | trainingStatus | tinyInt | Yes      |        | 0: IN_PROGRESS<br>1: FINISHED                                |                                                                          |
 
+### Training details
+
