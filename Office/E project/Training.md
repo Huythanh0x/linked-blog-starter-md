@@ -14,4 +14,22 @@
 | trainingStatus | tinyInt | Yes      |        | 0: IN_PROGRESS<br>1: FINISHED                                |                                                                          |
 
 ### Training details
-
+|                      |           |          |        |                                                  |                                                 |
+| -------------------- | --------- | -------- | ------ | ------------------------------------------------ | ----------------------------------------------- |
+| Physical name        | Data type | Not Null | Unique | Default                                          | Extra                                           |
+| trainingDetailId     | varchar   | Yes      | Yes    |                                                  |                                                 |
+| trainingId           | varchar   | Yes      |        |                                                  | FK [Training_data.id](http://training_data.id/) |
+| status               | tinyInt   | yes      |        | 0: In processing  <br>1: abort  <br>2: completed |                                                 |
+| score                | float     |          |        | 0                                                |                                                 |
+| scoreQuestion        | float     |          |        | 0                                                |                                                 |
+| scoreClosing         | float     |          |        | 0                                                |                                                 |
+| scoreLogical         | float     |          |        | 0                                                |                                                 |
+| scoreSuggestion      | float     |          |        | 0                                                |                                                 |
+| scoreListening       | float     |          |        | 0                                                |                                                 |
+| evaluationQuestion   | varchar   |          |        |                                                  |                                                 |
+| evaluationClosing    | varchar   |          |        |                                                  |                                                 |
+| evaluationLogical    | varchar   |          |        |                                                  |                                                 |
+| evaluationSuggestion | varchar   |          |        |                                                  |                                                 |
+| evaluationListening  | varchar   |          |        |                                                  |                                                 |
+| createdAt            | datetime  | yes      |        | Current timestamp                                |                                                 |
+| deletedAt            | datetime  |          |        |                                                  |                                                 |
