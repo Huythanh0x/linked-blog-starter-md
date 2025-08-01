@@ -1,1 +1,2 @@
-There are serveral way
+There are several ways that guarantee money
+[[Full ]]
