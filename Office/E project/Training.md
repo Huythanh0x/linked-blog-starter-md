@@ -26,6 +26,7 @@
 | scoreLogical         | float     |          |        | 0                                                |                                                 |
 | scoreSuggestion      | float     |          |        | 0                                                |                                                 |
 | scoreListening       | float     |          |        | 0                                                |                                                 |
+| overallEvaluation    | varchar   |          |        |                                                  |                                                 |
 | evaluationQuestion   | varchar   |          |        |                                                  |                                                 |
 | evaluationClosing    | varchar   |          |        |                                                  |                                                 |
 | evaluationLogical    | varchar   |          |        |                                                  |                                                 |
