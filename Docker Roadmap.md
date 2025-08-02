@@ -1,5 +1,12 @@
-# Docker Roadmap ✅
-
+### 📦 Prerequisites (From Side Panel)
+- [ ] Package Managers
+- [ ] Users / Groups Permissions
+- [ ] Shell Commands
+- [ ] Shell Scripting
+- [ ] Linux Fundamentals
+- [ ] Programming Languages
+- [ ] Application Architecture
+- [ ] Web Development
 ## ☑️ Introduction
 - [ ] What are Containers?
 - [ ] Why do we need Containers?
@@ -65,15 +72,3 @@
 - [ ] Docker Swarm
 - [ ] Kubernetes
 - [ ] PaaS Options
-
----
-
-### 📦 Prerequisites (From Side Panel)
-- [ ] Package Managers
-- [ ] Users / Groups Permissions
-- [ ] Shell Commands
-- [ ] Shell Scripting
-- [ ] Linux Fundamentals
-- [ ] Programming Languages
-- [ ] Application Architecture
-- [ ] Web Development
