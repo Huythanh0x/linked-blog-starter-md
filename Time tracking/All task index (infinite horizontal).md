@@ -28,4 +28,7 @@
 ### Development Client
 - [ ] [IOS dev roadmap](https://roadmap.sh/ios) 🔺 
 
-## Side i
+## Side interested
+### Self-hosted
+- [ ] [Cloudflare roadmap](https://roadmap.sh/cloudflare)
+- [ ] 
