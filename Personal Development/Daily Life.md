@@ -1,4 +1,4 @@
-## What is my typical day look like
+## **What is my typical day look like**
 ### Weekdays 
 - **2h** for [[Health]]
 	- **1h** for [[back pain exercise]] / [[Swimming]]
