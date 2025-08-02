@@ -7,3 +7,6 @@
 **Self-actualization needs:** One [[full potential]] and [[personal growth]], [[meaningful contribution]]
 
 ### Skip the level?
+> it's possible for individuals to *seemingly skip* or prioritize certain levels of Maslow's hierarchy of needs over others
+
+**Prioritizing Esteem over Love and Belonging:**
