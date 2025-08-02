@@ -4,7 +4,7 @@
 - [ ] Random [[Exercise]]🔺 
 ## Office 
 ### Prioritized
-- [ ] [Docker roadmap](https://roadmap.sh/docker) ⏫ #docker
+- [ ] [Docker roadmap](https://roadmap.sh/docker) ⏫ #docker [[Docker Roadmap]]
 - [ ] [Beginner DevOps roadmap](https://roadmap.sh/devops?r=devops-beginner) #docker
 - [ ] [Backend beginner](https://roadmap.sh/backend?r=backend-beginner)
 ### Non-prioritized
