@@ -36,4 +36,5 @@
 	- The topics focus on my [[Personal Development - Index]] or [[Solo dev]]
 - [[Obsidian]] a note taking app
 	- Write my notes of learning daily
-	- Also prac
+	- Also practice writing skill
+- [[Medium.com]] and [[Kindle]]: to practice Reading skill and also support my career as developer
