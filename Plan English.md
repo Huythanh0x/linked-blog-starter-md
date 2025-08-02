@@ -29,5 +29,7 @@
 	- Focus on 44 IPA
 	- Check pronunciation in specific sentence
 - [[NativeCamp]] website to connect to tutor (Phillipino or native speaker [US, UK, Canada])
-	- [[30-minute]] lesson each day could be free
-	- 
+	- [[30-minute]] lesson each day could be free talk
+	- Could be in specific daily news, [[TOEIC]], [[IELTS]]
+- Apple podca
+###
