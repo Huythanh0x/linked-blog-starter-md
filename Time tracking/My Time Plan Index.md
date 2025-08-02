@@ -2,4 +2,7 @@
 
 ## Main category
 
-### [[English]]
+### [[Plan English]]
+### [[Plan Solo Dev]]
+### [[Plan Web dev]]
+
