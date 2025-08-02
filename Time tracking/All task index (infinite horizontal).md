@@ -22,6 +22,6 @@
 
 ## Solo dev
 ### Books
-- [[App Empire]]
-- 
+- [ ] [[App Empire]]
+- [x] [[Finish What you started]]
 
