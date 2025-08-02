@@ -24,3 +24,6 @@
 - (Optional) To teach English at local English center.
 
 ### My tools
+- [[Study4]] website to practice [[TOEIC]]. Set 12 tests in 2023, 2024, 2025
+- [[Elsa Speak]] application for pronuncation
+	- 
