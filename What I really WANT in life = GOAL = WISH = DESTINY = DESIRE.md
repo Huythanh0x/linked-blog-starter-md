@@ -1,4 +1,3 @@
-
 # Break down of general goals
 ## **Purpose and Direction**
 [[Impact and Significance]]
