@@ -27,9 +27,8 @@
 
 ### Development Client
 - [ ] [IOS dev roadmap](https://roadmap.sh/ios) 🔺 
-
 ## Side interested
 ### Self-hosted
-- [ ] [Cloudflare roadmap](https://roadmap.sh/cloudflare)
-- [ ] [Prompt Engineering](https://roadmap.sh/prompt-engineering)
-- [ ] 
+- [ ] ~~[Cloudflare roadmap](https://roadmap.sh/cloudflare)~~
+- [ ] ~~[Prompt Engineering](https://roadmap.sh/prompt-engineering)~~
+- [ ] ~~[Android reverse engineering awesome](https://github.com/user1342/Awesome-Android-Reverse-Engineering~~)
