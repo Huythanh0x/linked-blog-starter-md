@@ -16,5 +16,7 @@
 - [ ] [Devops  roadmap](https://roadmap.sh/devops) #devops
 ```
 ## English
-- [ ]
+- [ ] Daily [[NativeCamp]]
+- [ ] [[Elsa Speak]] 42 IPA
+- [ ] [[TOEIC 900 cert]] at [[Study4]]
 
