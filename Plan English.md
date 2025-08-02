@@ -21,4 +21,4 @@
 - Be proficient in English, actually talk in various topics (to be specific, around [[IELTS]] 7.5)
 	- To ward the goal [[Solo dev]] so I need to do customer support, get idea, marketing
 	- Talk to the college in English environment - [[career switch]]
-	- 
+- (Optional) 
