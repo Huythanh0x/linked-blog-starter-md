@@ -6,5 +6,5 @@
 - **2h** for [[Daily Routine]]
 - **0.5h** [[English NC]]
 - **0.5h** [[Kindle]]
-- **3.5h** [[personal growth]]/[[Side Project]]
+- **3h** [[personal growth]]/[[Side Project]]
 
