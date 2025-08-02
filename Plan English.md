@@ -40,10 +40,10 @@
 - [[Medium.com]] and [[Kindle]]: to practice Reading skill and also support my career as developer
 - TODO// I'm thinking of vocab review and vocab learning. But skip for now as all above are already overwhelmed
 ### Break down plan
-> 1h a day maximum
-
+> 30 min 
 #### Short-term
 - 15 min [[Elsa Speak]] daily within break
 - 30 min - 1 lesson [[NativeCamp]] with tutor
 - 30 min of [[TOEIC]] in [[Study4]]
 #### Longterm
+//TODO later. I could only plan for the next few months #skip-for-now
