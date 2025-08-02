@@ -4,7 +4,7 @@
 - **8h** for [[Sleep]]
 - **0.5h** [[Kindle]]
 - **2h** for [[Daily Routine]]
-- **1h** for [[back pain exercise]] 
+- **1h** for [[back pain exercise]] / [[Swimming]]
 - **0.5h** [[English NC]]
 - **3.5h** [[personal growth]]/[[Side Project]]
 
