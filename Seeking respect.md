@@ -1,1 +1,1 @@
-This is one of the [[Mas]]
+This is one of the [[Maslow's hierarchy]]
