@@ -1,0 +1,1 @@
+> Where my mind got cleaned by external concept, not just another 
