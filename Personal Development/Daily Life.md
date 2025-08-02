@@ -1,7 +1,7 @@
 ### What is my typical day look like
 #### Category based
 - **1h** for [[back pain exercise]] / [[Swimming]]
-- **1h** [[Break]] -> s
+- **1h** [[Break]] -> [[Elsa Speak]]/[[Exercise]]
 - **8h** for [[Sleep]]
 - **8h** for [[Office]]
 - **2h** for [[Daily Routine]]
