@@ -1,4 +1,5 @@
 > Around 120 minutes for daily activities
+> **ALL are must. DON'T skip any**
 ### List
 **15"** Morning (brush teeth + wash face)
 **20"** Poop
