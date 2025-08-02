@@ -33,5 +33,7 @@
 	- Could be in specific daily news, [[TOEIC]], [[IELTS]]
 - [[Apple podcast]] Listen to podcast daily
 	- Improve listening skill
-	- The topics focus on my [[Personal Development - Index]] or [[Solo]]
-###
+	- The topics focus on my [[Personal Development - Index]] or [[Solo dev]]
+- [[Obsidian]] a note taking app
+	- Write my notes of learning daily
+	- Also prac
