@@ -6,6 +6,7 @@
 - 15 min [[Elsa Speak]] daily within break
 - 30 min - 1 lesson [[NativeCamp]] with tutor
 - 30 min of [[TOEIC]] in [[Study4]]
+	- Take the actual test and analyze f
 #### Longterm
 //TODO later. I could only plan for the next few months #skip-for-now
 ### My initial context (2/8/2025)
