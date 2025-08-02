@@ -2,3 +2,5 @@
 ![[Pasted image 20250802134107.png]]
 
 ### The curse of freedom
+> self-imposed prison
+> 
