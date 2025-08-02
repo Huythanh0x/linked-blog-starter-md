@@ -4,4 +4,6 @@
 **Safety needs:** Environment
 **Love and belonging needs:** connection and interpersonal relationship
 **Esteem need:** confidence, achievement, [[Seeking respect]], [[competent and successful]]
-**Self-actualization needs:** One [[full po
+**Self-actualization needs:** One [[full potential]] and [[personal growth]], [[meaningful contribution]]
+
+### Skip the level?
