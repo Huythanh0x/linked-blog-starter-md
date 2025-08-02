@@ -5,8 +5,7 @@
 ## Office 
 ### Prioritized
 - [ ] [Docker roadmap](https://roadmap.sh/docker) ⏫ #docker [[Docker Roadmap]]
-- [ ] [Beginner DevOps roadmap](https://roadmap.sh/devops?r=devops-beginner) #docker
-- [ ] [Backend beginner](https://roadmap.sh/backend?r=backend-beginner)
+- [ ] [Backend beginner](https://roadmap.sh/backend?r=backend-beginner) [[Backend beginner]]
 ### Non-prioritized
 ```
 - [ ] [Backend roadmap](https://roadmap.sh/backend) 🔼
@@ -14,6 +13,7 @@
 - [ ] [Study Postman](https://academy.postman.com/page/self-study-learning) #post-man
 - [ ] [GraghQL roadmap](https://roadmap.sh/graphql)
 - [ ] [Devops  roadmap](https://roadmap.sh/devops) #devops
+- [ ] [Beginner DevOps roadmap](https://roadmap.sh/devops?r=devops-beginner) #docker
 ```
 ## English
 - [ ] Daily [[NativeCamp]]
