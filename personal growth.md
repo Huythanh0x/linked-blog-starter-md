@@ -1,3 +1,3 @@
 > Everything related to my growth in life
 
-Grouped under[[Person Dev]]
+Grouped under[[Personal Development - Index]]
