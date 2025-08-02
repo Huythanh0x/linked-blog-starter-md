@@ -6,4 +6,5 @@
 > freedom is being able to choose your prison
 ![[Pasted image 20250802134107.png]]
 
-#### **ren Yeager
+#### Eren Yeager
+*Single-minded focus* on freedom **blinds** him to other values and the well-being of those around him.
