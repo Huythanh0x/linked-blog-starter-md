@@ -28,4 +28,6 @@
 - [[Elsa Speak]] application for pronunciation
 	- Focus on 44 IPA
 	- Check pronunciation in specific sentence
-- [[NativeCamp]] website to connect to tutor (Phillipino o)
+- [[NativeCamp]] website to connect to tutor (Phillipino or native speaker [US, UK, Canada])
+	- [[30-minute]] lesson each day could be free
+	- 
