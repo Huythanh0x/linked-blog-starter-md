@@ -1,3 +1,4 @@
+#freedom
 > Ultimate goal, the ability to make your own choices and live life on your own terms
 ### The curse of freedom
 #### The Allure and Trap of Freedom
