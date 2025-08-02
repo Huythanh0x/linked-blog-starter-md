@@ -1,4 +1,5 @@
 ## Office 
+### Prioritized
 - [ ] [Docker roadmap](https://roadmap.sh/docker) ⏫ #docker
 - [ ] [Beginer Devops roadmap](https://roadmap.sh/devops?r=devops-beginner) #docker
 - [ ] [Backend beginner](https://roadmap.sh/backend?r=backend-beginner)
@@ -8,8 +9,9 @@
 - [ ] [GraghQL roadmap](https://roadmap.sh/graphql)
 - [ ] [Devops  roadmap](https://roadmap.sh/devops) #devops
 ## Health
-- [ ] Hourly break
-- [ ] Daily s
+- [ ] Hourly [[break]]
+- [ ] Daily [[Swimming]]
+- [ ] Random [[Exercise]]
 
 ## English
 
