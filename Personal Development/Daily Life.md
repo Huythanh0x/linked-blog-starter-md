@@ -16,9 +16,9 @@
 	- **1h** [[Break]] -> [[Elsa Speak]]/[[Exercise]]
 - **8h** for [[Sleep]]
 - **2h** for [[Daily Routine]]
-- 12h
-- **3h** for [[Friends]]/[[Librarian]]
-- **0.5h** [[English NC]]
-- **0.5h** [[Kindle]]
-- **8h** [[Side Project]]
+- **12h** for [[Personal Development - Index]]
+	- **3h** for [[Friends]]/[[Librarian]]
+	- **0.5h** [[English NC]]
+	- **0.5h** [[Kindle]]
+	- **8h** [[Side Project]]
 
