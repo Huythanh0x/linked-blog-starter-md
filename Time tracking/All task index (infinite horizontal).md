@@ -26,5 +26,6 @@
 - [x] [[Finish What you started]]
 
 ### Development Client
-- [ ] [IOS dev roadmap](https://roadmap.sh/ios)
-- [ ] 
+- [ ] [IOS dev roadmap](https://roadmap.sh/ios) 🔺 
+
+## Side i
