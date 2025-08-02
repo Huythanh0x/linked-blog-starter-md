@@ -6,6 +6,7 @@
 - What I have learned so far:
 	- Vocab: 3000 oxford words by CERF. Still retain over 80% of that. But most passively
 	- Grammar: Grammar in use (Book), the essential version
+	- Reading: still read the docs daily, but still struggle on technical docs. But comfortable with Medium article and Reddit post.
 	- Listening: Still listen to podcast in Apple podcast sometimes.
 	- Writing: self write anything and use the AI to correct sentence and rephrase my sentence.
 - Comfortable to talk a bout general conversation topic. With some grammar mistakes and also hm uh here and there
