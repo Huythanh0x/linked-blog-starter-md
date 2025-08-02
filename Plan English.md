@@ -1,6 +1,13 @@
 > So basically I wan to be proficient in English.
 > Got the TOEIC cert -> got the IELTS cert
-
+### Break down plan
+> 30 min at minimum and 60 min at maximum
+#### Short-term
+- 15 min [[Elsa Speak]] daily within break
+- 30 min - 1 lesson [[NativeCamp]] with tutor
+- 30 min of [[TOEIC]] in [[Study4]]
+#### Longterm
+//TODO later. I could only plan for the next few months #skip-for-now
 ### My initial context (2/8/2025)
 - Vietnamese, 25 years olds. Started learning English seriously since 1st year in university.
 - What I have learned so far:
@@ -39,11 +46,3 @@
 	- Also practice writing skill
 - [[Medium.com]] and [[Kindle]]: to practice Reading skill and also support my career as developer
 - TODO// I'm thinking of vocab review and vocab learning. But skip for now as all above are already overwhelmed
-### Break down plan
-> 30 min 
-#### Short-term
-- 15 min [[Elsa Speak]] daily within break
-- 30 min - 1 lesson [[NativeCamp]] with tutor
-- 30 min of [[TOEIC]] in [[Study4]]
-#### Longterm
-//TODO later. I could only plan for the next few months #skip-for-now
