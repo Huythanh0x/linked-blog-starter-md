@@ -8,4 +8,4 @@
 - **0.5h** [[English NC]]
 - **0.5h** [[Kindle]]
 - **2h** [[personal growth]]/[[Side Project]]
-
+#### Category based
