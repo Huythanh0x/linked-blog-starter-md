@@ -13,7 +13,7 @@ Create a **comprehensive set of rules** for your editor and LLM to follow.
 2. Look out for times when the LLM (repeatedly) _doesn't meet your expectations_ and define rules for them
 3. Constantly ask the LLM to help you improve your workflow
 #### Define rules
-`.cursor/rules/`directory with multiple files.
+ jkl;`.cursor/rules/`directory with multiple files.
 
 I often like telling the LLM to `think about 3 different strategies/approaches, pick the best one, and give your rationale for why you chose it.` So I created a rule for it, `7-possible-solutions-thinking.mdc`
 
