@@ -12,4 +12,7 @@
 - **1h** for [[back pain exercise]] / [[Swimming]]
 - **1h** [[Break]] -> [[Elsa Speak]]/[[Exercise]]
 - **8h** for [[Sleep]]
-- **2h** for 
+- **2h** for [[Friends]]/[[Librarian]]
+- **2h** for [[Daily Routine]]
+- **0.5h** [[English NC]]
+- 
