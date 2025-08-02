@@ -14,6 +14,8 @@
 - Stop using speaking english skill for a while (since the cert taken) and joined to a Japanese company. And since then, I only used English passively (Reading and Listener for the docs)
 - Took a mock TOEIC test and get score of 902 (R+L)
 ### My goals
-#### Short-terms (in months)
-- Got an [[TOEIC 900 cert]] (R+L) -> apply for 70$ raise in my company
-- 
+#### Short-term (in months)
+- Got an [[TOEIC 900 cert]] (R+L) -> apply for 70$ raise in my company.
+- Be confident and comfortable to talk in general topics again.
+#### Long-term (years)
+- Be 
