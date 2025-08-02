@@ -34,7 +34,6 @@
 - Crave [[aliveness]], not routine.
 - [[Yearning for new experiences]]: travel, sex, risk, art, challenge
 > “There’s more to life than this routine.”
-
 ## **Stability and Foundation**
 - Desire to build something lasting: relationships, career, legacy.
 > “I’m ready to build, not just chase.”
