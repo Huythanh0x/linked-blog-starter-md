@@ -6,6 +6,5 @@
 - **2h** for [[Daily Routine]]
 - **1h** for [[back pain exercise]] 
 - **0.5h** [[English NC]]
-- **1h** Technical docs
-- **3.5h** Side project
+- **3.5h** [[personal growth]]/[[Side Project]]
 
