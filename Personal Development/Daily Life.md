@@ -1,5 +1,5 @@
-### What is my typical day look like
-#### Weekdays 
+## What is my typical day look like
+### Weekdays 
 - **2h** for [[Health]]
 	- **1h** for [[back pain exercise]] / [[Swimming]]
 	- **1h** [[Break]] -> [[Elsa Speak]]/[[Exercise]]
@@ -10,7 +10,7 @@
 	- **0.5h** [[English NC]]
 	- **0.5h** [[Kindle]]
 	- **2h** [[personal growth]]
-#### Weekends
+### Weekends
 - **2h** for health
 	- **1h** for [[back pain exercise]] / [[Swimming]]
 	- **1h** [[Break]] -> [[Elsa Speak]]/[[Exercise]]
@@ -21,4 +21,3 @@
 	- **0.5h** [[English NC]]
 	- **0.5h** [[Kindle]]
 	- **8h** [[Side Project]]
-
