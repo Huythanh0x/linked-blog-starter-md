@@ -25,5 +25,7 @@
 
 ### My tools
 - [[Study4]] website to practice [[TOEIC]]. Set 12 tests in 2023, 2024, 2025
-- [[Elsa Speak]] application for pronuncation
-	- 
+- [[Elsa Speak]] application for pronunciation
+	- Focus on 44 IPA
+	- Check pronunciation in specific sentence
+- [[NativeCamp]] website to connect to tutor (Phillipino o)
