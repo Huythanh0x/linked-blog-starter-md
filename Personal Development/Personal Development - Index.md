@@ -1,2 +1,2 @@
-[[Daily Life]]
+[[Daily Life Plan]]
 [[Health And Well-being]]

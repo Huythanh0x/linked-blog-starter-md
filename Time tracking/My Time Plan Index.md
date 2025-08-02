@@ -1,4 +1,4 @@
-[[Daily Life]]
+[[Daily Life Plan]]
 ## Main category
 
 ### [[Plan English]]

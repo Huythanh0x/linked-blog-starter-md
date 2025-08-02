@@ -7,7 +7,7 @@
 - **8h** for [[Office]]
 - **2h** for [[Daily Routine]]
 - **3h** for [[Personal Development - Index]]
-	- **0.5h** [[English NC]]
+	- **0.5h** [[English NC]] -> [[]]
 	- **0.5h** [[Kindle]]
 	- **2h** [[personal growth]]
 ### Weekends
