@@ -4,7 +4,9 @@
 ### My initial context (2/8/2025)
 - Vietnamese, 25 years olds. Started learning English seriously since 1st year in univeristy.
 - What I have learned so far:
-	- 3000 oxford words. Still re
+	- 3000 oxford words by CERF. Still retain over 80% of that. But most passively
+	- Grammar in use (Book), the essential version
+	- Listening. Still listen to podcast in Apple postca
 - Comfortable to talk a bout general conversation topic. With some grammar mistakes and also hm uh here and there
 - Used to have a 6.5 [[IELTS cert]](Academic) in Dec, 2022. Speaking 6.0 and Writing 6.0
 - Stop using speaking english skill for a while (since the cert taken) and joined to a Japanese company. And since then, I only used English passively (Reading and Listener for the docs)
