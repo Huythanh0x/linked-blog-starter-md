@@ -39,3 +39,9 @@
 	- Also practice writing skill
 - [[Medium.com]] and [[Kindle]]: to practice Reading skill and also support my career as developer
 - TODO// I'm thinking of vocab review and vocab learning. But skip for now as all above are already overwhelmed
+### Break down plan
+> 1h a day maximum
+
+#### Short-term
+- [[Elsa Speak]] da
+#### Longterm
