@@ -31,4 +31,5 @@
 ## Side interested
 ### Self-hosted
 - [ ] [Cloudflare roadmap](https://roadmap.sh/cloudflare)
+- [ ] [Prompt Engineering](https://roadmap.sh/prompt-engineering)
 - [ ] 
