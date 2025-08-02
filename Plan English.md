@@ -18,4 +18,5 @@
 - Got an [[TOEIC 900 cert]] (R+L) -> apply for 70$ raise in my company.
 - Be confident and comfortable to talk in general topics again.
 #### Long-term (years)
-- Be 
+- Be proficient in English, actually talk in various topics (to be specific, around [[IELTS]] 7.5)
+	- To ward the goal [[Solo dev]] so I need to support, 
