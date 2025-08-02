@@ -43,5 +43,7 @@
 > 1h a day maximum
 
 #### Short-term
-- [[Elsa Speak]] da
+- 15 min [[Elsa Speak]] daily within break
+- 30 min - 1 lesson [[NativeCamp]] with tutor
+- 30 min of [[TOEIC]] in [[Study4]]
 #### Longterm
