@@ -1,0 +1,1 @@
+[[making money]] and [[Solo dev]] with a lot of [[Freedom]]
