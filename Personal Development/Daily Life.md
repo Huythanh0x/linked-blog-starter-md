@@ -15,4 +15,6 @@
 - **2h** for [[Friends]]/[[Librarian]]
 - **2h** for [[Daily Routine]]
 - **0.5h** [[English NC]]
-- 
+- **0.5h** [[Kindle]]
+- **2h** [[personal growth]]/[[Side Project]]
+
