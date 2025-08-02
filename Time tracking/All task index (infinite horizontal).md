@@ -20,3 +20,8 @@
 - [ ] [[Elsa Speak]] 42 IPA
 - [ ] [[TOEIC 900 cert]] at [[Study4]]
 
+## Solo dev
+### Books
+- [[App Empire]]
+- 
+
