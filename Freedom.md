@@ -1,4 +1,4 @@
-> ultimate goal, the ability to make your own choices and live life on your own terms
+> Ultimate goal, the ability to make your own choices and live life on your own terms
 ### The curse of freedom
 #### The Allure and Trap of Freedom
 > self-imposed prison
@@ -9,6 +9,5 @@
 The intense work schedule, while *chosen freely*, becomes a new kind of prison.
 #### Eren Yeager
 *Single-minded focus* on freedom **blinds** him to other values and the well-being of those around him.
-
 #### [[Balance]]
 Unfettered freedom, without considering the consequences -> [[self-destructive]]
