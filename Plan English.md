@@ -31,5 +31,7 @@
 - [[NativeCamp]] website to connect to tutor (Phillipino or native speaker [US, UK, Canada])
 	- [[30-minute]] lesson each day could be free talk
 	- Could be in specific daily news, [[TOEIC]], [[IELTS]]
-- Apple podca
+- [[Apple podcast]] Listen to podcast daily
+	- Improve listening skill
+	- The topics focus on my [[Personal Development - Index]] or [[Solo]]
 ###
