@@ -3,4 +3,5 @@
 **Physiological needs:** to survive
 **Safety needs:** Environment
 **Love and belonging needs:** connection and interpersonal relationship
-Esteem need:
+**Esteem need:** confidence, achievement, [[Seeking respect]], [[competent and successful]]
+**Self-actualization needs:** One [[full po
