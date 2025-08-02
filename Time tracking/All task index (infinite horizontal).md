@@ -8,6 +8,8 @@
 - [ ] [GraghQL roadmap](https://roadmap.sh/graphql)
 - [ ] [Devops  roadmap](https://roadmap.sh/devops) #devops
 ## Health
+- [ ] Hourly break
+- [ ] Daily s
 
 ## English
 
