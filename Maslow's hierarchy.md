@@ -9,4 +9,4 @@
 ### Skip the level?
 > it's possible for individuals to *seemingly skip* or prioritize certain levels of Maslow's hierarchy of needs over others
 
-**Prioritizing Esteem over Love and Belonging:**
+**Prioritizing Esteem over Love and Belonging:** self-worth and fulfillment -> *a lack of social connection.*
