@@ -8,4 +8,8 @@
 - **0.5h** [[English NC]]
 - **0.5h** [[Kindle]]
 - **2h** [[personal growth]]/[[Side Project]]
-#### Weekdays 4
+#### Weekkends
+- **1h** for [[back pain exercise]] / [[Swimming]]
+- **1h** [[Break]] -> [[Elsa Speak]]/[[Exercise]]
+- **8h** for [[Sleep]]
+- **2h** for 
