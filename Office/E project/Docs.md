@@ -34,7 +34,7 @@ docker exec -it Sales-Role-Playing-postgres env | grep POSTGRES
 
 #### List out all schemas
 ```sh
-docker exec -it Sales-Role-Playing-postgres psql -U postgres -d enjoywork -c "\dn;"
+docker exec -it SalesRolePlayingAPI-postgres psql -U postgres -d enjoywork -c "\dn;"
 ```
 #### Inline query all service-owners
 
