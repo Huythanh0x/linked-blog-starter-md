@@ -3,6 +3,6 @@
 #### Monthly fee
 
 #### Plan
-+ Monthly: 746$ ~~(+70$)~~ →Annually: 9698$ → 
++ Monthly: 715$ ~~(+70$)~~ →Annually: 8580$ → 
 
 242tr
