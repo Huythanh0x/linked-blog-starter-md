@@ -5,6 +5,8 @@
 ---
 Total: *250m* VND
 #### Monthly fee
+> So 
+
 | Name                                 | Price ₫   | Price $ (monthly) | Tag         |
 | ------------------------------------ | --------- | ----------------- | ----------- |
 | DomainName: thanh0x.com              | 288       | 24                | #self-host  |
@@ -20,7 +22,7 @@ Total: *250m* VND
 | Office lunch                         | 960       | 80                | #food       |
 | Motobike ensurance                   | 66        | 5                 | #mandortory |
 | Ensurance                            | 6700      | 560               | #mandortory |
-| **SUM**                              | **32662** | **2158**          |             |
+| **SUM**                              | **33700** | **2810**          |             |
 
 #### Plan
 
