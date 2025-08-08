@@ -8,7 +8,9 @@
 	- Uncle: **20m**
 - Current Balance:
 	- Bank: **1.2m**
-	- Owe by sister: **5.4m**
+	- Owe by sister: **5.750m**
+	- Mom: send **1m** to hospital to support
+	- Brother: **2.5m** to support uncle
 ### Current status (Aug 2025)
 #### Income
 + **Main source** Monthly: 715$ →Annually: 8580$
