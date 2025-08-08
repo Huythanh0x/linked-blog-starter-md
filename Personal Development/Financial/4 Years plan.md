@@ -23,7 +23,6 @@ Total: *250m* VND
 | Motobike ensurance                   | 66        | 5                 | #mandortory |
 | Ensurance                            | 6700      | 560               | #mandortory |
 | **SUM**                              | **33700** | **2810**          |             |
-
 #### Plan
 
 242tr
