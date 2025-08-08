@@ -7,4 +7,5 @@
 [[Fridge]] 4.6m
 [[Air condition]] 7.8m
 [[Ceiling]] 600
-
+[[monitor pipe]] 600
+[[Pow]]
