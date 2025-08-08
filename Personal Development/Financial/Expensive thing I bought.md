@@ -10,4 +10,8 @@
 [[monitor pipe]] 600
 [[Power bank]] 300
 [[Light for monitor]] 200
-[[Tension/ Resiste]]
+[[Tension/ Resistant band]] 500
+[[Light sensor]] 200
+[[Drill]] 840
+[[Smart plug]] 200
+
