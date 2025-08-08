@@ -4,7 +4,7 @@
 - **Bonus** Monthly: 70$ -> Annually: 840$
 ---
 Total: *250m* VND
-#### Monthly fee
+#### Recursive fee
 > So basically for my daily live to `sevive` purpose only. I need to spend **33700** vnd
 
 | Name                                 | Price ₫   | Price $ (monthly) | Tag         |
@@ -23,6 +23,4 @@ Total: *250m* VND
 | Motobike ensurance                   | 66        | 5                 | #mandortory |
 | Ensurance                            | 6700      | 560               | #mandortory |
 | **SUM**                              | **33700** | **2810**          |             |
-#### Plan
-
-242tr
+#### Monthly spending
