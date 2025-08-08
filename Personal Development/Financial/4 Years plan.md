@@ -19,19 +19,20 @@ Total: *250m* VND
 | Xisat                                | 360       | 30                | #heath      |
 | Hair cut                             | 360       | 30                | #daily      |
 | La roche posay                       | 400       | 33                | #health     |
-| Office lunch                         | 960       | 80                | #food       |
+| Office lunch + Office commute        | 960       | 280               | #food       |
 | Motobike ensurance                   | 66        | 5                 | #mandortory |
 | Ensurance                            | 6700      | 560               | #mandortory |
-| **SUM**                              | **33700** | **2810**          |             |
+| **SUM**                              | **36000** | **3010**          |             |
 #### Monthly spending
-| Name                       | Money | Tags                | Comment                              |
-| -------------------------- | ----- | ------------------- | ------------------------------------ |
-| NativeCamp/Cambly          | 750   | English, Investment | Official NC: `30m` daily             |
-| Gold                       | 6000  | #Saving             | send to MsLan                        |
-| Bank savings               | 0     | #Saving             | Split Tpbank and Techcombank         |
-| Bill and monthly (minimum) | 2810  | #Bill               | Mandatory, hopefully won’t exceed    |
-| Buy daily use              | 1000  | #Shopping           | Buy [[the thing I need]]             |
-| Another savings (USDT)     | 4000  | #Saving             | May withdraw this for urgent         |
-| Real spare money           | 600   | #SpareMoney         | The save to buy [[the thing I want]] |
-|                            |       |                     |                                      |
+| Name                       | Money | Tags                  | Comment                              |
+| -------------------------- | ----- | --------------------- | ------------------------------------ |
+| NativeCamp/Cambly          | 750   | #English, #Investment | Official NC: `30m` daily             |
+| Gold                       | 6000  | #Saving               | send to MsLan                        |
+| Bank savings               | 0     | #Saving               | Split Tpbank and Techcombank         |
+| Bill and monthly (minimum) | 2810  | #Bill                 | Mandatory, hopefully won’t exceed    |
+| Buy daily use              | 1000  | #Shopping             | Buy [[the thing I need]]             |
+| Another savings (USDT)     | 4000  | #Saving               | May withdraw this for urgent         |
+| Real spare money           | 600   | #SpareMoney           | The save to buy [[the thing I want]] |
+|                            |       |                       |                                      |
+
 
