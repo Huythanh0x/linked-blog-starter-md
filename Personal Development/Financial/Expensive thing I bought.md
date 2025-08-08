@@ -1,4 +1,6 @@
 [[Apple Watch s10]] 7.2m
 [[Thinkpad keyboard ii]] 1.5m
 [[Logitech m575]] 700
-[[Dig]]
+[[Digi 3 in one wireless charger]] 340
+[[Mattress]]x2 500
+
