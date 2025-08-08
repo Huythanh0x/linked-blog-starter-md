@@ -24,13 +24,13 @@ Total: *250m* VND
 | Ensurance                            | 6700      | 560               | #mandortory |
 | **SUM**                              | **33700** | **2810**          |             |
 #### Monthly spending
-| Name                          | Money | Current | Target | Tags                | Comment                           |
-| ----------------------------- | ----- | ------- | ------ | ------------------- | --------------------------------- |
-| NativeCamp/Cambly             | 750   | 0       | 18000  | English, Investment | Official NC: `30m` daily          |
-| Gold                          | 4000  | 4000    | 114000 | Emergency           | send to MsLan                     |
-| Bank savings                  | 5000  | 20000   | 100000 | Savings             | Split Tpbank and Techcombank      |
-| Bill and monthly (minimum)    | 2500  | 0       | -1     | Bill                | Mandatory, hopefully won’t exceed |
-| Buy daily use                 | 1000  | 0       | 0      | Shopping            | Buy whatever I need. Monthly →    |
-| Another savings (USDT / Wise) | 4000  | 5000    | 96000  | Savings             | May withdraw this for urgent      |
-| Real spare money              | 600   | 2800    | 0      | Secret-budget       | The save to buy the thing I want  |
-| Owe by relatives              | 0     | 0       | 0      |                     |                                   |
+| Name                          | Money | Tags                | Comment                           |
+| ----------------------------- | ----- | ------------------- | --------------------------------- |
+| NativeCamp/Cambly             | 750   | English, Investment | Official NC: `30m` daily          |
+| Gold                          | 6000  | Emergency           | send to MsLan                     |
+| Bank savings                  | 0     | Savings             | Split Tpbank and Techcombank      |
+| Bill and monthly (minimum)    | 2500  | Bill                | Mandatory, hopefully won’t exceed |
+| Buy daily use                 | 1000  | Shopping            | Buy whatever I need. Monthly →    |
+| Another savings (USDT / Wise) | 4000  | Savings             | May withdraw this for urgent      |
+| Real spare money              | 600   | Secret-budget       | The save to buy the thing I want  |
+| Owe by relatives              | 0     |                     |                                   |
