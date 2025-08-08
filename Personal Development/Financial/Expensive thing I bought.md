@@ -8,4 +8,6 @@
 [[Air condition]] 7.8m
 [[Ceiling]] 600
 [[monitor pipe]] 600
-[[Pow]]
+[[Power bank]] 300
+[[Light for monitor]] 200
+[[Tension/ Resiste]]
