@@ -1,6 +1,8 @@
 ### Current balance
-- Gold: 30m
-- USD (coin): 
+- Gold: **30m**
+- USD (coin): **33.8m**
+- Stock: **2.8m**
+- Savings (Bank): 10m
 ### Current status (Aug 2025)
 #### Income
 + **Main source** Monthly: 715$ →Annually: 8580$
