@@ -8,8 +8,8 @@ Total: *250m* VND
 | Name                                 | Price ₫   | Price $ (monthly) | Tag         |
 | ------------------------------------ | --------- | ----------------- | ----------- |
 | DomainName: thanh0x.com              | 288       | 24                | #self-host  |
-| DomainName: composemultiplatform.dev | 288       | 24                | #self-host  |
-| Electric bill                        | 9600      | 800               | #family     |
+| DomainName: composemultiplatform.dev | 325       | 27                | #self-host  |
+| Electric bill                        | 14400     | 1200              | #family     |
 | Viettel Internet                     | 2160      | 180               | #family     |
 | Oil and gas                          | 600       | 50                |             |
 | Breakfast                            | 5400      | 450               | #food       |
