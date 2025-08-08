@@ -16,8 +16,8 @@ Total: *250m* VND
 | Coffee                               | 1680      | 140               | #food       |
 | Xisat                                | 360       | 30                | #heath      |
 | Hair cut                             | 360       | 30                | #daily      |
-| La roche posay                       | 720       | 60                | #health     |
-| Office lunch                         | 2640      | 220               | #food       |
+| La roche posay                       | 400       | 33                | #health     |
+| Office lunch                         | 960       | 80                | #food       |
 | Motobike ensurance                   | 66        |                   | #mandortory |
 | Ensurance                            | 6700      |                   | #mandortory |
 | **SUM**                              | **32662** | **2158**          |             |
