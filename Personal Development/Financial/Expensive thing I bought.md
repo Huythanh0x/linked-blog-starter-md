@@ -19,5 +19,8 @@
 [[Weight]] 150
 [[ARM]] 350
 [[Airpods pro 2]] 4.8m
+[[jig]] 200
+[[Ipad battery]] 500
+[[Foldable table]] 270
 
 
