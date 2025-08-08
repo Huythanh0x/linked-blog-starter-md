@@ -1,4 +1,6 @@
-### 
+### Current balance
+- Gold: 30m
+- USD (coin): 
 ### Current status (Aug 2025)
 #### Income
 + **Main source** Monthly: 715$ →Annually: 8580$
