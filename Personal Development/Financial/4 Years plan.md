@@ -34,5 +34,11 @@ Total: *250m* VND
 | Another savings (USDT)     | 4000  | #Saving               | May withdraw this for urgent                             |
 | Real spare money           | 600   | #SpareMoney           | The save to buy [[the thing I want]]                     |
 | **TOTAL**                  |       |                       |                                                          |
-****
-
+**SUM UP**
+- Savings:
+	- Gold: *6000*
+	- USDT *4000*
+- Using:
+	- Bill: *3010*
+	- Buy daily use: *1000*
+	- Save up 
