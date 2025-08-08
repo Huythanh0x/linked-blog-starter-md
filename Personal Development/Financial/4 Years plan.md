@@ -7,8 +7,8 @@
 	- Grandma: **10m**
 	- Uncle: **20m**
 - Current Balance:
-	- Bank: **1.2**
-	- 
+	- Bank: **1.2m**
+	- Owe by sister: **5.4m**
 ### Current status (Aug 2025)
 #### Income
 + **Main source** Monthly: 715$ →Annually: 8580$
