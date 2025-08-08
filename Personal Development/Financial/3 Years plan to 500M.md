@@ -1,4 +1,7 @@
-### Current balance
+> According to my calculation.
+> Base start: *77*. Month saving: *12.5*
+> I would take roughly **3 years** to reach 500M
+### Current balance: {77M}
 - Gold: **30m**
 - USD (coin): **33.8m**
 - Stock: **2.8m**
@@ -11,6 +14,9 @@
 	- Owe by sister: **5.750m**
 	- Mom: send **1m** to hospital to support
 	- Brother: **2.5m** to support uncle
+### My family saving
+- My mother: **45m**
+- My brother: **45m**
 ### Current status (Aug 2025)
 #### Income
 + **Main source** Monthly: 715$ →Annually: 8580$
@@ -48,7 +54,8 @@ Total: *250m* VND
 | Another savings (USDT)         | 4000  | #Saving               | May withdraw this for urgent                             |
 | Real spare money               | 600   | #SpareMoney           | The save to buy [[the thing I want]]                     |
 | **TOTAL**                      |       |                       |                                                          |
-**SUM UP**
+
+**SUM UP**: still uncertain *600*
 - <mark style="background: #D2B3FFA6;">Savings:</mark>
 	- Gold: *6000*
 	- USDT *4000*
