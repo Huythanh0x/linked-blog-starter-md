@@ -2,7 +2,13 @@
 - Gold: **30m**
 - USD (coin): **33.8m**
 - Stock: **2.8m**
-- Savings (Bank): 10m
+- Savings (Bank): **10m**
+- Debt by relative:
+	- Grandma: **10m**
+	- Uncle: **20m**
+- Current Balance:
+	- Bank: **1.2**
+	- 
 ### Current status (Aug 2025)
 #### Income
 + **Main source** Monthly: 715$ →Annually: 8580$
