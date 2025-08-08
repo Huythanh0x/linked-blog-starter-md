@@ -13,5 +13,8 @@
 [[Tension/ Resistant band]] 500
 [[Light sensor]] 200
 [[Drill]] 840
-[[Smart plug]] 200
+[[Smart plug]] 500
+[[Milk powder]] 350
+[[Coffee]] 350
+
 
