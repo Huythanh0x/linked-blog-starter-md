@@ -18,8 +18,8 @@ Total: *250m* VND
 | Hair cut                             | 360       | 30                | #daily      |
 | La roche posay                       | 400       | 33                | #health     |
 | Office lunch                         | 960       | 80                | #food       |
-| Motobike ensurance                   | 66        |                   | #mandortory |
-| Ensurance                            | 6700      |                   | #mandortory |
+| Motobike ensurance                   | 66        | 5                 | #mandortory |
+| Ensurance                            | 6700      | 560               | #mandortory |
 | **SUM**                              | **32662** | **2158**          |             |
 
 #### Plan
