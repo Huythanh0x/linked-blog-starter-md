@@ -5,7 +5,7 @@
 ---
 Total: *250m* VND
 #### Monthly fee
-> So 
+> So basically for my daily live to `sevive` purpose only. I need to spend **33700** vnd
 
 | Name                                 | Price ₫   | Price $ (monthly) | Tag         |
 | ------------------------------------ | --------- | ----------------- | ----------- |
