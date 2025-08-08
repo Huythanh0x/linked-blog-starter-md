@@ -22,6 +22,7 @@ Total: *250m* VND
 | Office lunch + Office commute        | 960       | 280               | #food       |
 | Motobike ensurance                   | 66        | 5                 | #mandortory |
 | Ensurance                            | 6700      | 560               | #mandortory |
+| Kravasign                            | 225       | 20                |             |
 | **SUM**                              | **36000** | **3010**          |             |
 #### Monthly spending
 | Name                       | Money | Tags                  | Comment                                                  |
@@ -41,4 +42,6 @@ Total: *250m* VND
 - Using:
 	- Bill: *3010*
 	- Buy daily use: *1000*
-	- Save up 
+	- Save up for the thing I want: *600*
+- Self development:
+	- 
