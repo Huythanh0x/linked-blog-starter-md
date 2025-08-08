@@ -22,5 +22,8 @@
 [[jig]] 200
 [[Ipad battery]] 500
 [[Foldable table]] 270
+[[Pilow]] 720
+[[Smart plug]] 280
+[[Xiaomi battery]] 350
 
 
