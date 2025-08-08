@@ -16,5 +16,8 @@
 [[Smart plug]] 500
 [[Milk powder]] 350
 [[Coffee]] 350
+[[Weight]] 150
+[[ARM]] 350
+[[Airpods pro 2]] 4.8m
 
 
