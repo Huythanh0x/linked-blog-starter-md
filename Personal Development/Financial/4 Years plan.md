@@ -1,6 +1,7 @@
 ### Current status (Aug 2025)
 #### Income
-Monthly: 715$ ~~(+70$)~~ →Annually: 8580$
++ **Main source** Monthly: 715$ →Annually: 8580$
+- **Bonus** Monthly: 70$ -> Annually: 
 #### Monthly fee
 
 #### Plan
