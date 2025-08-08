@@ -25,5 +25,7 @@
 [[Pilow]] 720
 [[Smart plug]] 280
 [[Xiaomi battery]] 350
+[[Nose washer]] 120
+[[Light]] 120
 
 
