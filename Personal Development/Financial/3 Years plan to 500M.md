@@ -4,7 +4,7 @@
 ### Current balance: {77M}
 - Gold: **30m**
 - USD (coin): **33.8m**
-- Stock: **2.8m**
+- [[Stock]]: **2.8m**
 - Savings (Bank): **10m**
 - Debt by relative:
 	- Grandma: **10m**
@@ -59,7 +59,7 @@ Total: *250m* VND
 - <mark style="background: #D2B3FFA6;">Savings:</mark>
 	- Gold: *6000*
 	- USDT *4000*
-	- **Stock?** *2500*
+	- **[[Stock]]?** *2500*
 - <mark style="background: #FFF3A3A6;">Using:</mark>
 	- Bill: *3010*
 	- Buy daily use: *1000*
