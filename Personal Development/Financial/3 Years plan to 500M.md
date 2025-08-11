@@ -66,6 +66,7 @@ Total: *250m* VND
 	- Save up for the thing I want: *600*
 - <mark style="background: #BBFABBA6;">Self development:</mark>
 	- English: *800*
+	- 
 - <mark style="background: #ADCCFFA6;">Investment:</mark>
 	- **Apple cert?** 2700/12 = *200*
 	- Still uncertain *600*
