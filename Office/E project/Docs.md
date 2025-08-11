@@ -76,19 +76,15 @@ docker exec -it Sales-Role-Playing-postgres psql -U postgres -d enjoywork -c "
 SELECT 'users' as table_name, COUNT(*) as row_count FROM \"enjoyworks_tenant\".users
 
 UNION ALL
-
 SELECT 'trainings', COUNT(*) FROM \"enjoyworks_tenant\".trainings
 
 UNION ALL
-
 SELECT 'training_details', COUNT(*) FROM \"enjoyworks_tenant\".training_details
 
 UNION ALL
-
 SELECT 'products', COUNT(*) FROM \"enjoyworks_tenant\".products
 
 UNION ALL
-
 SELECT 'training_role_personality', COUNT(*) FROM \"enjoyworks_tenant\".training_role_personality
 
 UNION ALL
