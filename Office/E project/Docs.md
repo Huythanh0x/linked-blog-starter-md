@@ -100,6 +100,7 @@ SELECT 'corporations', COUNT(*) FROM \"enjoyworks_tenant\".corporations
 ORDER BY table_name;"
 ```
 
+###
 # Feature
 ### Login
 - Integrate the Google Auth Service
@@ -124,8 +125,3 @@ ORDER BY table_name;"
 - Fix bug
 > Estimation
 - Google Auth integration: 2h
-
-
-````
-
-```
