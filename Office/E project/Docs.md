@@ -93,6 +93,10 @@ SELECT 'owners', COUNT(*) FROM \"enjoyworks_tenant\".owners
 UNION ALL
 SELECT 'chat_messages', COUNT(*) FROM \"enjoyworks_tenant\".chat_messages
 
+UNION ALL
+SELECT 'corporations', COUNT(*) FROM \"enjoyworks_tenant\".corporations
+
+
 ORDER BY table_name;"
 ```
 
