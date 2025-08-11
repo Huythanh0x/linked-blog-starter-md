@@ -45,7 +45,7 @@ docker exec -it Sales-Role-Playing-postgres psql -U postgres -d enjoywork -c "SE
 #### Inline query all owners (default-tenant)
 
 ```sh
-docker exec -it SalesRolePlayingAPI-postgres psql -U postgres -d enjoywork -c "SELECT * FROM \"default_tenant\".owners;"
+docker exec -it Sales-Role-Playing-postgres psql -U postgres -d enjoywork -c "SELECT * FROM \"enjoyworks_tenant\".owners;"
 ```
 
 #### Inline query all users (default-tenant)
