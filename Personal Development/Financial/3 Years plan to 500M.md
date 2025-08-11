@@ -55,7 +55,7 @@ Total: *250m* VND
 | Real spare money               | 600   | #SpareMoney           | The save to buy [[the thing I want]]                     |
 | **TOTAL**                      |       |                       |                                                          |
 
-**SUM UP**: still uncertain *600*
+**SUM UP**: still uncertain *200*
 - <mark style="background: #D2B3FFA6;">Savings:</mark>
 	- Gold: *6000*
 	- USDT *4000*
@@ -66,7 +66,7 @@ Total: *250m* VND
 	- Save up for the thing I want: *600*
 - <mark style="background: #BBFABBA6;">Self development:</mark>
 	- English: *800*
-	- 
+	- Swimming: *400*
 - <mark style="background: #ADCCFFA6;">Investment:</mark>
 	- **Apple cert?** 2700/12 = *200*
-	- Still uncertain *600*
+	- Still uncertain *200*
