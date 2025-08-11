@@ -90,6 +90,9 @@ SELECT 'training_role_personality', COUNT(*) FROM \"enjoyworks_tenant\".training
 UNION ALL
 SELECT 'owners', COUNT(*) FROM \"enjoyworks_tenant\".owners
 
+UNION ALL
+SELECT 'chat_messages', COUNT(*) FROM \"enjoyworks_tenant\".chat_messages
+
 ORDER BY table_name;"
 ```
 
