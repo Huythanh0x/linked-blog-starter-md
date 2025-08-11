@@ -100,7 +100,70 @@ SELECT 'corporations', COUNT(*) FROM \"enjoyworks_tenant\".corporations
 ORDER BY table_name;"
 ```
 
-###
+#### Create test data for training and training details
+**Add 5 users**
+```sh
+docker exec -i Sales-Role-Playing-postgres psql -U postgres -d enjoywork <<'SQL'
+SET search_path TO "enjoyworks_tenant";
+
+-- Create 5 demo users if not existing
+INSERT INTO users ("email","password","name","status","feedBackCount","lastLogin","isVerified")
+SELECT 'demo_user_'||i||'@example.com', NULL, 'Demo User '||i, 1, 0, now(), 1
+FROM generate_series(1,5) AS g(i)
+ON CONFLICT ("email") DO NOTHING;
+
+-- Verify
+SELECT "userId","email","createdAt" FROM users WHERE email LIKE 'demo_user_%@example.com' ORDER BY "email";
+SQL
+```
+**Add 10 trainings for each user**
+```sh
+docker exec -i Sales-Role-Playing-postgres psql -U postgres -d enjoywork <<'SQL'
+SET search_path TO "enjoyworks_tenant";
+
+-- Insert 10 trainings per demo user
+WITH new_trainings AS (
+  INSERT INTO trainings ("trainingType","trainingMode","level","topic","userId")
+  SELECT
+    0,                               -- CHAT
+    (j % 2),                         -- 0: Persuasion, 1: Negotiation
+    (j % 4),                         -- 0..3: Basic..Demon
+    'Seed Topic #'||j,
+    u."userId"
+  FROM (SELECT "userId" FROM users WHERE email LIKE 'demo_user_%@example.com') u
+  CROSS JOIN generate_series(1,10) AS j
+  RETURNING "trainingId","userId"
+),
+insert_details AS (
+  INSERT INTO training_details (
+    "status","score","scoreQuestion","scoreClosing","scoreLogical",
+    "scoreSuggestion","scoreListening","trainingId","overallEvaluation"
+  )
+  SELECT
+    2,                                        -- COMPLETED
+    ROUND((random()*40 + 60)::numeric, 2),    -- overall score: 60..100
+    ROUND((random()*10)::numeric, 2),
+    ROUND((random()*10)::numeric, 2),
+    ROUND((random()*10)::numeric, 2),
+    ROUND((random()*10)::numeric, 2),
+    ROUND((random()*10)::numeric, 2),
+    t."trainingId",
+    'Auto seeded'
+  FROM new_trainings t
+  RETURNING "trainingDetailId","trainingId"
+)
+-- Link details back to training
+UPDATE trainings tr
+SET "trainingDetailId" = d."trainingDetailId"
+FROM insert_details d
+WHERE d."trainingId" = tr."trainingId";
+
+-- Quick sanity checks
+SELECT COUNT(*) AS total_users FROM users WHERE email LIKE 'demo_user_%@example.com';
+SELECT COUNT(*) AS total_trainings FROM trainings t JOIN users u ON u."userId"=t."userId" WHERE u.email LIKE 'demo_user_%@example.com';
+SELECT COUNT(*) AS total_details FROM training_details d JOIN trainings t ON t."trainingId"=d."trainingId" JOIN users u ON u."userId"=t."userId" WHERE u.email LIKE 'demo_user_%@example.com';
+SQL
+```
 # Feature
 ### Login
 - Integrate the Google Auth Service
