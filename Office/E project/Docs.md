@@ -54,6 +54,10 @@ docker exec -it Sales-Role-Playing-postgres psql -U postgres -d enjoywork -c "SE
 docker exec -it Sales-Role-Playing-postgres psql -U postgres -d enjoywork -c "SELECT * FROM \"enjoyworks_tenant\".training_role_personality;"
 ```
 
+#### List out all tables (default-tenant)
+```sh
+docker exec -it Sales-Role-Playing-postgres psql -U postgres -d enjoywork -c "SELECT table_name FROM information_schema.tables WHERE table_schema = 'enjoyworks_tenant' ORDER BY table_name;"
+```
 
 #### List all migrations
 ```sh
