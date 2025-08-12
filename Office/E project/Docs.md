@@ -61,7 +61,7 @@ docker exec -it Sales-Role-Playing-postgres psql -U postgres -d enjoywork -c "SE
 
 #### List all migrations
 ```sh
-docker exec -it Sales-Role-Playing-postgres psql -U postgres -d medimony -c "SELECT * FROM "migrations";"
+docker exec -it Sales-Role-Playing-postgres psql -U postgres -d enjoywork -c "SELECT * FROM "migrations";"
 ```
 
 #### Remove all migrations
