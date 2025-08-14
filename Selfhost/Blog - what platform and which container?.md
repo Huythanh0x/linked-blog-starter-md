@@ -6,7 +6,7 @@
 | 119     | blog       | 123             | alternative ghost blog (clone pk5) |
 | 118     | ghost      | 123             | alternative ghost blog (empty)     |
 | ~~120~~ | next-ghost | 123             |                                    |
-| 124     | blog-wp    | 123 (by domain) |                                    |
+| 124     | blog-wp    | 123 (by router) |                                    |
 | 156     | petking5   | 156             |                                    |
 
 **109**
