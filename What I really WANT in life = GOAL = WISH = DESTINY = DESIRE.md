@@ -37,3 +37,7 @@
 ## **Stability and Foundation**
 - Desire to build something lasting: relationships, career, legacy.
 > “I’m ready to build, not just chase.”
+
+---
+Out of all above things. 
+These are some [[Actionable steps]]
