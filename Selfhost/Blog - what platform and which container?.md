@@ -6,4 +6,5 @@
 | 119   | blog       | 123        |
 | 118   | ghost      | 123        |
 | 120   | next-ghost | 123        |
-| 124   |            |            |
+| 124   | blog-wp    | dynamic    |
+| 156   | petking5   | 156        |
