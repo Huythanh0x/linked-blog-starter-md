@@ -15,3 +15,9 @@ Main content:
 + About solo dev
 + About [[productivity]]
 ### Blog.thanh0x.com 
+Main content:
++ Personal(health, finnancial, self inviestment, ...) 
++ Art(Design, Film edit, art, drawing, ...) 
++ Solo dev(Design, marketing, learning skill, manage time, ads, networking, ....) 
++ Productivity(Mirror of the original content under [[Blo]]
++ Side technical (Android dev specifically, IOS dev specifically, AOSP ROM dev, ....) + Rerverse Engineering( Chrome, Android, IOS,...)
