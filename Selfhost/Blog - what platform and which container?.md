@@ -9,15 +9,16 @@
 | **124** | blog-wp    | *123 (by router)* |                                    |
 | **114** | petking5   | *156*             |                                    |
 ## Conclusion
-### **AnotherTimeTracker.com/blog** ~ **AnotherTimeTracker.thanh0x.com**
+### AnotherTimeTracker.com/blog ~ AnotherTimeTracker.thanh0x.com**
 Main content:
 + About the product specifically
 + About solo dev
 + About [[productivity]]
 ### Blog.thanh0x.com 
 Main content:
-+ Personal(health, finnancial, self inviestment, ...) 
++ Personal(health, financial, self investment, ...) 
 + Art(Design, Film edit, art, drawing, ...) 
 + Solo dev(Design, marketing, learning skill, manage time, ads, networking, ....) 
-+ Productivity(Mirror of the original content under [[Blo]]
-+ Side technical (Android dev specifically, IOS dev specifically, AOSP ROM dev, ....) + Rerverse Engineering( Chrome, Android, IOS,...)
++ Productivity(Mirror of the original content under [[Blog - what platform and which container?#**AnotherTimeTracker.com/blog** ~ **AnotherTimeTracker.thanh0x.com**]]
++ Side technical (Android dev specifically, IOS dev specifically, AOSP ROM dev, ....) 
++ [[Reverse Engineering]]( Chrome, Android, IOS,...)
