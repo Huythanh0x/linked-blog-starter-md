@@ -8,6 +8,10 @@
 | ~~120~~ | next-ghost | 123               |                                    |
 | **124** | blog-wp    | *123 (by router)* |                                    |
 | **114** | petking5   | *156*             |                                    |
-### Conclusion
-#### **AnotherTimeTracker.com/blog** ~ **AnotherTimeTracker.thanh0x.com**
-> 
+## Conclusion
+### **AnotherTimeTracker.com/blog** ~ **AnotherTimeTracker.thanh0x.com**
+Main content:
++ About the product specifically
++ About solo dev
++ About [[productivity]]
+### Blog.thanh0x.com 
