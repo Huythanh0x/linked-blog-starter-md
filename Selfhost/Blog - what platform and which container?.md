@@ -9,7 +9,7 @@
 | **124** | blog-wp    | *123 (by router)* |                                    |
 | **114** | petking5   | *156*             |                                    |
 ## Conclusion
-### AnotherTimeTracker.com/blog ~ AnotherTimeTracker.thanh0x.com**
+### AnotherTimeTracker.com/Blog ~ AnotherTimeTracker.thanh0x.com
 Main content:
 + About the product specifically
 + About solo dev
@@ -22,3 +22,5 @@ Main content:
 + Productivity(Mirror of the original content under [[Blog - what platform and which container?#**AnotherTimeTracker.com/blog** ~ **AnotherTimeTracker.thanh0x.com**]]
 + Side technical (Android dev specifically, IOS dev specifically, AOSP ROM dev, ....) 
 + [[Reverse Engineering]]( Chrome, Android, IOS,...)
+### ComposeMutliplatform.dev
+> **Forward domain to** Blog.thanh0x.com/android for now
