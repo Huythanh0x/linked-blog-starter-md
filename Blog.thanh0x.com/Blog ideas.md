@@ -20,4 +20,7 @@
 ### Tools
 - Apple Focus mode + Timer (Siri)
 - Siri (Timer, StopWatch, Tracking, Reminder, Workout, ....)
-- 
+- Apple Calendar
+- Apple Reminder -> move to [[Things 3]]
+- [[Obsidian]]
+- Apple Calendar + Reminders
