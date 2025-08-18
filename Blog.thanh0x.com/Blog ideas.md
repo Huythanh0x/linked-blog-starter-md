@@ -17,3 +17,7 @@
 - Prioritized task
 - Go to sleep 
 - Automated Reminders and routines
+### Tools
+- Apple Focus mode + Timer (Siri)
+- Siri (Timer, StopWatch, Tracking, Reminder, Workout, ....)
+- 
