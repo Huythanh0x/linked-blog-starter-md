@@ -16,9 +16,10 @@
 - [ ] [Beginner DevOps roadmap](https://roadmap.sh/devops?r=devops-beginner) #docker
 ```
 ## English
+
+- [ ] [[TOEIC 900 cert]] at [[Study4]]
 - [ ] Daily [[NativeCamp]]
 - [ ] [[Elsa Speak]] 42 IPA
-- [ ] [[TOEIC 900 cert]] at [[Study4]]
 
 ## Solo dev
 ### Books
