@@ -15,3 +15,5 @@
 - Habit chain
 - 5 minutes rule
 - Prioritized task
+- Go to sleep 
+- Automated Reminders and routines
