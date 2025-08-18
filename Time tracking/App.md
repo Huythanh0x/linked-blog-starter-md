@@ -6,3 +6,5 @@ Clockify
 Clickup 
 Super productivity
 Time Traggo
+KanbanFlow
+Harvest
