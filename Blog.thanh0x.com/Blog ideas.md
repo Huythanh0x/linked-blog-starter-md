@@ -25,4 +25,4 @@
 - [[Obsidian]] (Second brains, review daily, tracking todo list)
 - Apple Calendar + Reminders
 - Apple Reminder + Siri
-- 
+- Apple Health + Apple Wath
