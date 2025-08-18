@@ -22,5 +22,7 @@
 - Siri (Timer, StopWatch, Tracking, Reminder, Workout, ....)
 - Apple Calendar
 - Apple Reminder -> move to [[Things 3]]
-- [[Obsidian]]
+- [[Obsidian]] (Second brains, review daily, tracking todo list)
 - Apple Calendar + Reminders
+- Apple Reminder + Siri
+- 
