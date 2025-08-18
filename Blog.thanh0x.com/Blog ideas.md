@@ -5,8 +5,13 @@
 - 10 minutes rule
 - 2 minutes rule
 - Pomodoro
-- Flowdoro
+- Flow-doro
 - Getting things done
 - 80/20 rules
 - Second brans
-- Task bath
+- Task batching
+- Daily stands-up (review and replan)
+- Deep work
+- Habit chain
+- 5 minutes rule
+- Prioritized task
