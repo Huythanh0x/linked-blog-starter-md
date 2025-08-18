@@ -27,3 +27,4 @@
 - Apple Reminder + Siri
 - Apple Health + Apple Wath
 
+![[Pasted image 20250818095945.png]]

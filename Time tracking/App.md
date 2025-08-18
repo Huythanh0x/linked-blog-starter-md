@@ -2,7 +2,7 @@
 
 Toggle
 Timery
-Clockify
+[Clockify](https://clockify.me) **My closest ideal app so far**
 Clickup 
 Super productivity
 Time Traggo
