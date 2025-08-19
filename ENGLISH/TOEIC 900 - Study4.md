@@ -25,26 +25,16 @@
     - ~25 mins on Part 5 & 6
     - ~50 mins on Part 7
 ### 🔁 Review Strategy
-
 #### 🎧 Listening Revise
-
 - Re-listen to entire audio or missed questions
-    
 - Open transcript → Check:
-    
     - Keywords you **didn't hear clearly**
-        
     - Sentences you **didn’t understand**
-        
     - New words → add to vocabulary list
-        
-
 #### 📖 Reading Revise
-
 - Note down:
-    
     - Unknown vocabulary (include part of speech + sentence)
-        
+
     - Key grammar structures
         
     - Why each **wrong answer is wrong**, not just why right one is correct
