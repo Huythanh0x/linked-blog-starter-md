@@ -14,31 +14,17 @@
 ### 🧪 Test-Taking Strategy
 
 #### 🟦 Listening (Parts 1–4)
-
 - Always **read the questions before audio starts** (Part 3 & 4)
-    
 - **Predict answers** before hearing audio
-    
-- **Don't chase missed info** – stay focused on what's next
-    
+- **Don't chase missed info** – stay focused on what's next    
 - Mark "?" if unsure → review during **Listening Revise**
-    
-
 #### 🟧 Reading (Parts 5–7)
-
 - **Grammar**: Solve fast – don't overthink if stuck
-    
 - **Vocabulary**: Eliminate obviously wrong answers
-    
 - **Long reading (Part 7)**: Skim questions → scan passage
-    
 - Keep pace: **~75 mins total**, spend:
-    
     - ~25 mins on Part 5 & 6
-        
     - ~50 mins on Part 7
-        
-
 ---
 
 ### 🔁 Review Strategy
