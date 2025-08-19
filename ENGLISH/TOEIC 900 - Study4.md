@@ -44,7 +44,6 @@
 - Group by topic (e.g. email, office, scheduling)
 - Recycle in daily thoughts or notes
 ---
-
 ### 🧱 Grammar Rule Focus (TOEIC essentials)
 - Subject–Verb agreement
 - Tense usage (especially present perfect, future forms)
@@ -57,10 +56,8 @@
 - If tired, do **review only**, not new tests    
 - Your score goal is high, but your real power is **review and reflection**, not speed
 ---
-
 ### 🔂 Feedback Loop
 - After each test set (1 test = 4 steps):
     - Note what caused wrong answers (keyword missed, grammar, vocab, careless)
     - Tag question type (L-Part 2, R-Part 6, etc.)
-        
     - Add these patterns into "Mistake Tracker" in Obsidian
