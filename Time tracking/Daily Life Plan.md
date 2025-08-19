@@ -9,7 +9,7 @@
 - **3h** for [[Personal Development - Index]]
 	- **0.5h** [[English NC]] -> [[Plan English#Short-term]]
 	- **0.5h** [[Kindle]]
-	- **0.5h** for [[TOEIC]] ->  [[Plan English#Short-term]]
+	- **0.5h** for [[TOEIC 900 - Study4]] ->  [[Plan English#Short-term]]
 	- **2h** [[personal growth]]
 ### Weekends
 - **2h** for health

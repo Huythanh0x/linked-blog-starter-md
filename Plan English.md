@@ -5,7 +5,7 @@
 #### Short-term
 - 15 min [[Elsa Speak]] daily within break
 - 30 min - 1 lesson [[NativeCamp]] with tutor
-- 30 min of [[TOEIC]] in [[Study4]]
+- 30 min of [[TOEIC 900 - Study4]] in [[Study4]]
 	- Take the actual test and analyze from that (weakness)
 #### Longterm
 //TODO later. I could only plan for the next few months #skip-for-now
@@ -32,13 +32,13 @@
 - (Optional) To teach English at local English center.
 
 ### My tools
-- [[Study4]] website to practice [[TOEIC]]. Set 12 tests in 2023, 2024, 2025
+- [[Study4]] website to practice [[TOEIC 900 - Study4]]. Set 12 tests in 2023, 2024, 2025
 - [[Elsa Speak]] application for pronunciation
 	- Focus on 44 IPA
 	- Check pronunciation in specific sentence
 - [[NativeCamp]] website to connect to tutor (Phillipino or native speaker [US, UK, Canada])
 	- [[30-minute]] lesson each day could be free talk
-	- Could be in specific daily news, [[TOEIC]], [[IELTS]]
+	- Could be in specific daily news, [[TOEIC 900 - Study4]], [[IELTS]]
 - [[Apple podcast]] Listen to podcast daily
 	- Improve listening skill
 	- The topics focus on my [[Personal Development - Index]] or [[Solo dev]]
