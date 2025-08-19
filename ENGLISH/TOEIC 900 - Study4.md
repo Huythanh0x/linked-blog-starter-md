@@ -40,26 +40,16 @@
     - Why each **wrong answer is wrong**, not just why right one is correct
 ---
 ### 📘 Vocabulary Strategy
-
 - Create **short definitions** + **1 sentence example** (no full dictionary copy)
-    
 - Group by topic (e.g. email, office, scheduling)
-    
 - Recycle in daily thoughts or notes
-    
-
 ---
 
 ### 🧱 Grammar Rule Focus (TOEIC essentials)
-
 - Subject–Verb agreement
-    
 - Tense usage (especially present perfect, future forms)
-    
 - Prepositions (in, on, at, to, for)
-    
 - Articles (a, an, the) — often tested
-    
 - Word forms (noun vs. verb vs. adjective)
     
 
