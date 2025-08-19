@@ -13,5 +13,3 @@
 - **Weekends**: 120 mins → *Split into 2 sessions to avoid fatigue*
 ---
 ### Strategy [[TOEIC - Strategy]]
-
-#### 
