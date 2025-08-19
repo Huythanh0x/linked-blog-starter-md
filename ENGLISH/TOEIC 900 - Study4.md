@@ -1,4 +1,5 @@
 #things things:///show?id=FBJb9rqc6tjq5trHo1pNan
+#chatgpt https://chatgpt.com/c/68a3c8ec-9fc4-8322-9609-d22bbd150b3f
 ## TOEIC 900+ – Rules of Thumb
 
 ### 🎯 Goal Clarity
