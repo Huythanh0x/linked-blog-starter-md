@@ -2,7 +2,7 @@
 # 2024 Practice Set TOEIC Test 1
 ### Listening score {{XXX}}
 #### Revise Vocabulary
-- [[ENGLISH - GRAMMAR#Example Grammar]]
+- [[ENGLISH - GRAMMAR#Basic#Example Present]]
 #### Revise Grammar
 - [[ENGLISH - VOCABULARY#Example Topic#courtesy]]
 ### Reading score {{XXX}}
