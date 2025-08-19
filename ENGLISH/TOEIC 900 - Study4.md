@@ -12,7 +12,6 @@
 - **Weekdays**: 45–60 mins max → *One focused block, no multitasking*
 - **Weekends**: 120 mins → *Split into 2 sessions to avoid fatigue*
 ### 🧪 Test-Taking Strategy
-
 #### 🟦 Listening (Parts 1–4)
 - Always **read the questions before audio starts** (Part 3 & 4)
 - **Predict answers** before hearing audio
@@ -25,8 +24,6 @@
 - Keep pace: **~75 mins total**, spend:
     - ~25 mins on Part 5 & 6
     - ~50 mins on Part 7
----
-
 ### 🔁 Review Strategy
 
 #### 🎧 Listening Revise
