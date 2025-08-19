@@ -4,5 +4,5 @@
 #### Revise Vocabulary
 - [[GRAMMAR#Basic#Example Present]]
 #### Revise Grammar
-- [[VOCABULARY#Example Topic#courtesy]]
+- [[VOCABULARY#Example Topic#courtesy ***/ˈkɜːtəsi/***]]
 ### Reading score {{XXX}}
