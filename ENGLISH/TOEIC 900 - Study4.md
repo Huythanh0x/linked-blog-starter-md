@@ -6,8 +6,7 @@
 - **Target Score**: 910–920 in mock to feel safe for real test
 - **Real Test Goal**: 900+
 - **Main Motivation**: $70 bonus (~9% raise on $800/month)
-    - *Short-term* Money
-    - *Long-term* Personal dev and money. Nex 
+    - Short-term
 ---
 
 ### ⏱️ Time Management
