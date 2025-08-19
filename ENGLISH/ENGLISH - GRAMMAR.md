@@ -1,5 +1,6 @@
 # Basic
 #### Example Present
-
+*Use the simple present tense when an action is happening right now or when it happens regularly*
+> I do 
 # Intermediate
 # Advanced
