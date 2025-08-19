@@ -51,27 +51,16 @@
 - Prepositions (in, on, at, to, for)
 - Articles (a, an, the) — often tested
 - Word forms (noun vs. verb vs. adjective)
-    
-
 ---
-
 ### 🧠 Mental Tips
-
 - Don’t aim for perfection → focus on **consistency + pattern recognition**
-    
-- If tired, do **review only**, not new tests
-    
+- If tired, do **review only**, not new tests    
 - Your score goal is high, but your real power is **review and reflection**, not speed
-    
-
 ---
 
 ### 🔂 Feedback Loop
-
 - After each test set (1 test = 4 steps):
-    
     - Note what caused wrong answers (keyword missed, grammar, vocab, careless)
-        
     - Tag question type (L-Part 2, R-Part 6, etc.)
         
     - Add these patterns into "Mistake Tracker" in Obsidian
