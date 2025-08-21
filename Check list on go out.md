@@ -8,7 +8,7 @@
 - [ ] Chargers
 - [ ] Powerbank
 ### Clothes
-- [ ] 3 sets
+- [x] 3 sets ✅ 2025-08-21
 - [ ] Underwear x3
 ### Personal
 - [ ] Tooth brush
