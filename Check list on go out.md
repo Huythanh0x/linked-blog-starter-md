@@ -1,9 +1,9 @@
 ### Tech things
 - [ ] Phone
-- [ ] Watch
-- [ ] Charger 3 in 1
+- [x] Watch ✅ 2025-08-21
+- [x] Charger 3 in 1 ✅ 2025-08-21
 - [ ] Airpods
-- [ ] Wallet (ID, License, Money)
+- [x] Wallet (ID, License, Money) ✅ 2025-08-21
 - [ ] Macbook
 - [x] Chargers ✅ 2025-08-21
 - [ ] Powerbank
