@@ -5,7 +5,7 @@
 - [ ] Airpods
 - [ ] Wallet (ID, License, Money)
 - [ ] Macbook
-- [ ] Chargers
+- [x] Chargers ✅ 2025-08-21
 - [ ] Powerbank
 ### Clothes
 - [x] 3 sets ✅ 2025-08-21
