@@ -1,13 +1,12 @@
 ### Tech things
 - [ ] Phone
 - [ ] Airpods
-
+- [ ] Macbook
+- [ ] Powerbank
 - [x] Watch ✅ 2025-08-21
 - [x] Charger 3 in 1 ✅ 2025-08-21
 - [x] Wallet (ID, License, Money) ✅ 2025-08-21
-- [ ] Macbook
-- [x] Chargers ✅ 2025-08-21
-- [ ] Powerbank
+ - [x] Chargers ✅ 2025-08-21
 ### Clothes
 - [x] 3 sets ✅ 2025-08-21
 - [x] Underwear x3 ✅ 2025-08-21
