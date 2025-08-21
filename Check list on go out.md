@@ -10,5 +10,6 @@
 ### Clothes
 - [ ] 3 sets
 - [ ] Underwear x3
-- 
+### Personal
 - [ ] Tooth brush
+- [ ] 
