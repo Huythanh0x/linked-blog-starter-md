@@ -13,4 +13,20 @@
 - **Weekdays**: 45–60 mins max → *One focused block, no multitasking*
 - **Weekends**: 120 mins → *Split into 2 sessions to avoid fatigue*
 ---
+### Time Plan
+
+| Step                                 | Time Needed             |
+| ------------------------------------ | ----------------------- |
+| Listening Test                       | 45 mins                 |
+| Listening Review (with note-taking)  | **60 mins**             |
+| Reading Test                         | 75 mins                 |
+| Reading Review (with detailed notes) | **60 mins**             |
+| **Total per test**                   | **~4 hours (240 mins)** |
+
+| Type               | Time                   |
+| ------------------ | ---------------------- |
+| Weekdays           | 5 × 60 mins = 5 hours  |
+| Weekends           | 2 × 120 mins = 4 hours |
+| **Total per week** | **9 hours**            |
+q> Around **5 weeks** to *complete*
 ### Strategy [[TOEIC - Strategy]]
