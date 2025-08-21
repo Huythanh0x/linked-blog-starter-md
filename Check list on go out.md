@@ -9,7 +9,8 @@
 - [ ] Powerbank
 ### Clothes
 - [x] 3 sets ✅ 2025-08-21
-- [ ] Underwear x3
+- [x] Underwear x3 ✅ 2025-08-21
 ### Personal
-- [ ] Tooth brush
-- [ ] 
+- [x] Tooth brush ✅ 2025-08-21
+- [x] Romano ✅ 2025-08-21
+- [x] Xisat ✅ 2025-08-21
