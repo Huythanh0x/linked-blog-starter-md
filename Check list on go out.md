@@ -1,6 +1,6 @@
 ### Tech things
 - [ ] Phone
-- [ ] - [ ] Airpods
+- [ ] Airpods
 
 - [x] Watch ✅ 2025-08-21
 - [x] Charger 3 in 1 ✅ 2025-08-21
