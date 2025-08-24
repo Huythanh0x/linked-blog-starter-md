@@ -54,3 +54,29 @@ curl 'https://app.famly.co/api/feed/feed/feed?heightTarget=1006' \
   -H 'x-famly-route: /account/feed/me' \
   -H 'x-famly-version: 3672fcbe2c'
 ```
+
+```sh
+curl 'https://app.famly.co/api/v2/images/tagged?childId=d440de72-802f-4f95-8983-2f62f038fbc0&limit=3000' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.6' \
+  -H 'baggage: sentry-environment=production,sentry-release=434a48c86a,sentry-public_key=db8a16bb638f4264985f17bb9507c208,sentry-trace_id=df4f85d1c2324e159ef06b70aae99a8a' \
+  -H 'content-type: application/json' \
+  -b 'intercom-id-fazkk12b=40610f69-889f-4d55-9c7e-8588834db547; intercom-session-fazkk12b=; intercom-device-id-fazkk12b=d55066d8-52f8-4795-80e8-55a630fbde72; __stripe_mid=3409f271-de05-4c24-9ec0-d642e75ecbf89e0e2f; __stripe_sid=47938c13-bd4a-4b0e-9ffd-8c8b933ae2a94dca64; famly.session-marker=08365979-00af-473e-9675-7632e7cac6da' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://app.famly.co/' \
+  -H 'sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "Brave";v="138"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-gpc: 1' \
+  -H 'sentry-trace: df4f85d1c2324e159ef06b70aae99a8a-b2472f2e81c5c295' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36' \
+  -H 'x-famly-accesstoken: 722cc5c2-69a4-47d8-8293-c8ce4ff445a5' \
+  -H 'x-famly-installationid: 56441cea-2bde-4733-b954-6f288ee36056' \
+  -H 'x-famly-platform: html' \
+  -H 'x-famly-request-uuid: 60b8ee2d-27b5-4d4d-8127-b42a561d9e44' \
+  -H 'x-famly-route: /account/childProfile/:childId/activity' \
+  -H 'x-famly-version: 434a48c86a'
+```
