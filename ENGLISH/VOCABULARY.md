@@ -41,3 +41,5 @@ People working for the government.
 
 #### renowned
 Kasem Ngam is a renowned speaker and author from Nonthaburi hailand.
+
+#### Building demolition
