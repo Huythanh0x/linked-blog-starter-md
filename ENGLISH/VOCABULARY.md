@@ -28,3 +28,4 @@ A stock of goods or products held by a business.
 **_/kəˈpæsəti/_**  
 The ability to produce goods or services.
 > The company has the capacity to increase production if demand rises.
+
