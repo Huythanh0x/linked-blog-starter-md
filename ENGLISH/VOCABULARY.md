@@ -29,3 +29,13 @@ A stock of goods or products held by a business.
 The ability to produce goods or services.
 > The company has the capacity to increase production if demand rises.
 
+#### lawmakers
+**/ˈlɔːˌmeɪkərz/**
+People who make laws.
+> We need to hear from the lawmakers responsible for the new regulations impacting land use.
+
+#### Government officials
+**/ˈɡʌvərnmənt əˈfɪʃəlz/**
+People working for the government.
+> We need to hear from the government officials responsible for the new regulations impacting land use.
+
