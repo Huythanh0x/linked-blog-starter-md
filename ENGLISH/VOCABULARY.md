@@ -55,6 +55,10 @@ The quality of being good or deserving praise; worthiness.
 **/ˈnɒvɪs/**
 A person new to or *inexperienced* in a field or situation; a beginner.
 > As a novice supervisor, I need to get all the training I can, but I'm not sure ...
+#### regular basis
+**/ˈreɡjələr ˈbeɪsɪs/**  
+Frequently or routinely; at consistent intervals.
+> The email doesn't provide any information about how often he attends webinars on a regular basis.
 #### renowned
 Kasem Ngam is a renowned speaker and author from Nonthaburi hailand.
 
