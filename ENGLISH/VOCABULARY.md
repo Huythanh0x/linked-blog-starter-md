@@ -79,5 +79,7 @@ Famous and *respected*.
 **/ˈbɪldɪŋ ˌdeməˈlɪʃən/**
 The act of tearing down or *destroying* a building, often using heavy machinery or explosives.
 > The building demolition is scheduled for next week, so the area will be closed off to the public.
-
 #### Industrial Machinery
+**/ɪnˈdʌstriəl məˈʃiːnəri/**
+Heavy-duty *equipment* used in manufacturing, construction, and other industrial processes.
+> The factory floor was filled with various types of industrial machinery, including lathes, milling machines, and robotic arms.
