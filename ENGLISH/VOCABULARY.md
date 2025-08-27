@@ -75,8 +75,10 @@ Small cakes baked in a cup-shaped mold, often decorated with frosting and other 
 **/rɪˈnaʊnd/**
 Famous and *respected*.
 > Kasem Ngam is a renowned speaker and author from Nonthaburi, Thailand.
-
 #### building demolition
+**/ˈbɪldɪŋ ˌdeməˈlɪʃən/**
+The act of tearing down or *destroying* a building, often using heavy machinery or explosives.
+> The building demolition is scheduled for next week, so the area will be closed off to the public.
 
 #### brochure
 
