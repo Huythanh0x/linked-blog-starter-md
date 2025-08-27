@@ -71,10 +71,10 @@ A *distinctive taste*, or a quality that enhances the taste of something.
 **/ˈkʌpˌkeɪks/**  
 Small cakes baked in a cup-shaped mold, often decorated with frosting and other toppings.
 > Cupcakes is fantastic
-
-
 #### renowned
-Kasem Ngam is a renowned speaker and author from Nonthaburi hailand.
+**/rɪˈnaʊnd/**
+Famous and *respected*.
+> Kasem Ngam is a renowned speaker and author from Nonthaburi, Thailand.
 
 #### building demolition
 
