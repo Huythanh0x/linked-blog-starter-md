@@ -59,6 +59,10 @@ A person new to or *inexperienced* in a field or situation; a beginner.
 **/ˈreɡjələr ˈbeɪsɪs/**  
 Frequently or *routinely*; at consistent intervals.
 > He attends webinars on a regular basis:
+#### special treats
+**/ˈspeʃəl triːts/**  
+Unusual or particularly enjoyable food items, often associated with celebrations or indulgences.
+> In addition to our superb ice cream, we'll offer strawberries dipped in chocolate, strawberry cupcakes, and strawberry milkshakes as special treats for the strawberry festival.
 #### renowned
 Kasem Ngam is a renowned speaker and author from Nonthaburi hailand.
 
