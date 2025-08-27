@@ -47,7 +47,6 @@ Tending to make critical judgments, often based on ***incomplete information***.
 **/feˈstɪvɪtiz/** -> **/ˈfestɪvəl/**
 Celebrations or special events, often with a joyful or celebratory atmosphere.
 > To mark the occasion, various festivities will be held throughout the day.
-
 #### merit
 **/ˈmerɪt/**
 The quality of being good or deserving praise; worthiness.
