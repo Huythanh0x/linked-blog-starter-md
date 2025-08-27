@@ -39,7 +39,12 @@ Having or providing beautiful views of the surrounding countryside.
 #### substantial
 **/səbˈstænʃəl/**  
 Considerable in size, amount, or importance.
-> Angelia Financial recently announced substantial changes to its benefits package that were greeted enthusiastically by its staff.
+> Angelia Financial recently announced *substantial changes* to its benefits package that were *greeted* enthusiastically by its staff.
+
+#### judgmental
+**/dʒʌdʒˈment(ə)l/**  
+Tending to make critical judgments, often based on ***incomplete information***.
+> It's important to avoid being judgmental and to listen to all sides of the story before forming an opinion.
 #### renowned
 Kasem Ngam is a renowned speaker and author from Nonthaburi hailand.
 
