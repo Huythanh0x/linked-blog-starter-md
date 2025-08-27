@@ -62,7 +62,11 @@ Frequently or *routinely*; at consistent intervals.
 #### special treats
 **/ˈspeʃəl triːts/**  
 Unusual or particularly enjoyable food items, often associated with celebrations or indulgences.
-> In addition to our superb ice cream, we'll offer strawberries dipped in chocolate, strawberry cupcakes, and strawberry milkshakes as special treats for the strawberry festival.
+> In addition to our superb ice cream, we'll offer strawberries dipped in chocolate, strawberry cupcakes, and strawberry milkshakes *as special treats* for the strawberry festival.
+#### flavor
+**/ˈfleɪvər/**  
+A *distinctive taste*, or a quality that enhances the taste of something.
+> Chocolate is the most popular ice cream flavor at Margot's House of Ice Cream.
 #### renowned
 Kasem Ngam is a renowned speaker and author from Nonthaburi hailand.
 
