@@ -48,6 +48,11 @@ Tending to make critical judgments, often based on ***incomplete information***.
 Celebrations or special events, often with a joyful or celebratory atmosphere.
 > To mark the occasion, various festivities will be held throughout the day.
 
+#### merit
+**/ˈmerɪt/**
+The quality of being good or deserving praise; worthiness.
+> It's a tricky question, and both options have some merit.
+
 #### renowned
 Kasem Ngam is a renowned speaker and author from Nonthaburi hailand.
 
