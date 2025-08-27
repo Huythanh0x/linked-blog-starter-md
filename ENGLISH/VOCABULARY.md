@@ -35,16 +35,19 @@ People working for the government.
 **/ˈsiːnɪk/**
 Having or providing beautiful views of the surrounding countryside.
 > The Crown Lagoon Hotel has 150 rooms, each with a scenic view of the city.
-
 #### substantial
 **/səbˈstænʃəl/**  
 Considerable in size, amount, or importance.
 > Angelia Financial recently announced *substantial changes* to its benefits package that were *greeted* enthusiastically by its staff.
-
 #### judgmental
 **/dʒʌdʒˈment(ə)l/**  
 Tending to make critical judgments, often based on ***incomplete information***.
 > It's important to avoid being judgmental and to listen to all sides of the story before forming an opinion.
+#### festivities -> festival
+**/feˈstɪvɪtiz/** -> **/ˈfestɪvəl/**
+Celebrations or special events, often with a joyful or celebratory atmosphere.
+> To mark the occasion, various festivities will be held throughout the day.
+
 #### renowned
 Kasem Ngam is a renowned speaker and author from Nonthaburi hailand.
 
