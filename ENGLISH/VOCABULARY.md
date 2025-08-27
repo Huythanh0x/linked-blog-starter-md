@@ -80,6 +80,4 @@ Famous and *respected*.
 The act of tearing down or *destroying* a building, often using heavy machinery or explosives.
 > The building demolition is scheduled for next week, so the area will be closed off to the public.
 
-#### brochure
-
 #### Industrial Machinery
