@@ -67,7 +67,6 @@ Unusual or particularly enjoyable food items, often associated with celebrations
 **/ˈfleɪvər/**  
 A *distinctive taste*, or a quality that enhances the taste of something.
 > Chocolate is the most popular ice cream flavor at Margot's House of Ice Cream.
-
 #### cupcakes
 **/ˈkʌpˌkeɪks/**  
 Small cakes baked in a cup-shaped mold, often decorated with frosting and other toppings.
