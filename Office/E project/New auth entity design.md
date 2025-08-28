@@ -31,11 +31,11 @@
 
 ### Memberships
 
-| Column Name       | Data Type | Constraints            |
-| ----------------- | --------- | ---------------------- |
-| *membershipId*    | uuid      |                        |
-| **tenantOwnerId** | uuid      |                        |
-| **userId**        | uuid      |                        |
-| role              | smallint  | MEMBER or TENANT_ADMIN |
+| Column Name       | Data Type | Constraints                        |
+| ----------------- | --------- | ---------------------------------- |
+| *membershipId*    | uuid      | PK, Generated                      |
+| **tenantOwnerId** | uuid      |                                    |
+| **userId**        | uuid      | Link to ***User*** or ***Owners*** |
+| role              | smallint  | MEMBER or TENANT_ADMIN             |
 
 
