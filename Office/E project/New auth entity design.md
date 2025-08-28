@@ -33,11 +33,11 @@
 ### Memberships 
 Connect between member<mark style="background: #BBFABBA6;">(user, owner)</mark> and <mark style="background: #FFB86CA6;">(tenant)</mark>
 
-| Column Name       | Data Type | Constraints                        |
-| ----------------- | --------- | ---------------------------------- |
-| *membershipId*    | uuid      | PK, Generated                      |
-| **tenantOwnerId** | uuid      |                                    |
-| **userId**        | uuid      | Link to ***User*** or ***Owners*** |
-| role              | smallint  | MEMBER or TENANT_ADMIN             |
+| Column Name       | Data Type | Constraints            |
+| ----------------- | --------- | ---------------------- |
+| *membershipId*    | uuid      | PK, Generated          |
+| **tenantOwnerId** | uuid      |                        |
+| **userId**        | uuid      | Link to ***User***     |
+| role              | smallint  | MEMBER or TENANT_ADMIN |
 
 
