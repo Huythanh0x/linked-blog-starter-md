@@ -7,8 +7,7 @@
 | schemaPassword       | varchar(255) |
 | userName             | varchar(255) |
 | userPassword         | varchar(255) |
-| status               | smallint     |
-| tenantOwnerId        | uuid         |
+
 ### User
 
 | Column Name      | Data Type    | Constraints      |
@@ -26,7 +25,7 @@
 | Column Name     | Data Type    | Constraints      |
 | --------------- | ------------ | ---------------- |
 | *tenantOwnerId* | uuid         | PK, Generated    |
-| **email**       | varchar(255) | NOT NULL, UNIQUE |
+| email           | varchar(255) | NOT NULL, UNIQUE |
 | name            | varchar(255) | NOT NULL         |
 | password        | varchar(255) | NOT NULL         |
 
