@@ -1,3 +1,5 @@
+### Tenant Connection (Tenants)
+
 ### User
 
 | Column Name      | Data Type    | Constraints      |
