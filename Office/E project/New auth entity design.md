@@ -10,7 +10,7 @@
 | status           | smallint     | NOT NULL         |
 | lastLogin        | timestamp    | NULLABLE         |
 | isVerified       | smallint     | NOT NULL         |
-### Tenant Owner
+### Tenant Owner (Owner)
 
 | Column Name     | Data Type    | Constraints      |
 | --------------- | ------------ | ---------------- |
@@ -21,10 +21,10 @@
 
 ### Memberships
 
-| Column Name     | Data Type | Constraints            |
-| --------------- | --------- | ---------------------- |
-| *tenantOwnerId* | uuid      |                        |
-| **userId**      | uuid      |                        |
-| role            | smallint  | MEMBER or TENANT_ADMIN |
+| Column Name   | Data Type | Constraints            |
+| ------------- | --------- | ---------------------- |
+| tenantOwnerId | uuid      |                        |
+| **userId**    | uuid      |                        |
+| role          | smallint  | MEMBER or TENANT_ADMIN |
 
 
