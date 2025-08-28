@@ -1,13 +1,13 @@
 ### Tenant Connection (Tenants)
 
-| Column Name          | Data Type    | Constraints          |
-| -------------------- | ------------ | -------------------- |
-| *tenantConnectionId* | uuid         | PK, Generated        |
-| schemaName           | varchar(255) |                      |
-| schemaPassword       | varchar(255) |                      |
-| userName             | varchar(255) |                      |
-| userPassword         | varchar(255) |                      |
-| **tenantOwnerId**    | uuid         | 1:1 with TenantOwner |
+| Column Name          | Data Type    | Constraints              |
+| -------------------- | ------------ | ------------------------ |
+| *tenantConnectionId* | uuid         | PK, Generated            |
+| schemaName           | varchar(255) |                          |
+| schemaPassword       | varchar(255) |                          |
+| userName             | varchar(255) |                          |
+| userPassword         | varchar(255) |                          |
+| **tenantOwnerId**    | uuid         | 1:1 with **TenantOwner** |
 
 ### User
 
@@ -30,7 +30,8 @@
 | name            | varchar(255) | NOT NULL         |
 | password        | varchar(255) | NOT NULL         |
 
-### Memberships
+### Memberships 
+Connec
 
 | Column Name       | Data Type | Constraints                        |
 | ----------------- | --------- | ---------------------------------- |
