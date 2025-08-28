@@ -21,10 +21,10 @@
 
 ### Memberships
 
-| Column Name   | Data Type | Constraints            |
-| ------------- | --------- | ---------------------- |
-| tenantOwnerId | uuid      |                        |
-| **userId**    | uuid      |                        |
-| role          | smallint  | MEMBER or TENANT_ADMIN |
+| Column Name       | Data Type | Constraints            |
+| ----------------- | --------- | ---------------------- |
+| **tenantOwnerId** | uuid      |                        |
+| **userId**        | uuid      |                        |
+| role              | smallint  | MEMBER or TENANT_ADMIN |
 
 
