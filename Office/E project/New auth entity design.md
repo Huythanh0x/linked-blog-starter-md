@@ -10,15 +10,15 @@
 | status           | smallint     | NOT NULL         |
 | lastLogin        | timestamp    | NULLABLE         |
 | isVerified       | smallint     | NOT NULL         |
-#### Tenants
+### Tenants
 
-| Column Name       | Data Type    | Constraints      |
-| ----------------- | ------------ | ---------------- |
-| **tenantOwnerId** | uuid         | PK, Generated    |
-| name              | varchar(255) | NOT NULL         |
-| password          | varchar(255) | NOT NULL         |
+| Column Name       | Data Type    | Constraints   |
+| ----------------- | ------------ | ------------- |
+| **tenantOwnerId** | uuid         | PK, Generated |
+| name              | varchar(255) | NOT NULL      |
+| password          | varchar(255) | NOT NULL      |
 
-
+###
 
 
 
