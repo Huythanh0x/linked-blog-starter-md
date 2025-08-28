@@ -1,12 +1,13 @@
 ### Tenant Connection (Tenants)
 
-| Column Name          | Data Type    |
-| -------------------- | ------------ |
-| *tenantConnectionId* | uuid         |
-| schemaName           | varchar(255) |
-| schemaPassword       | varchar(255) |
-| userName             | varchar(255) |
-| userPassword         | varchar(255) |
+| Column Name          | Data Type    | Constraints          |
+| -------------------- | ------------ | -------------------- |
+| *tenantConnectionId* | uuid         | PK, Generated        |
+| schemaName           | varchar(255) |                      |
+| schemaPassword       | varchar(255) |                      |
+| userName             | varchar(255) |                      |
+| userPassword         | varchar(255) |                      |
+| **tenantOwnerId**    | uuid         | 1:1 with TenantOwner |
 
 ### User
 
