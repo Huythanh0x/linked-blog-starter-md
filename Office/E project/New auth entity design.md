@@ -20,4 +20,10 @@
 
 ### Memberships
 
+| Column Name | Data Type    | Constraints                    |
+| ----------- | ------------ | ------------------------------ |
+| tenant_id   | uuid         |                                |
+| user_id     | uuid         |                                |
+| role        | varchar(255) | DEFAULT MEMBER or TENANT_ADMIN |
+
 
