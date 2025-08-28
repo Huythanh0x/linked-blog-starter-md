@@ -33,6 +33,7 @@
 
 | Column Name       | Data Type | Constraints            |
 | ----------------- | --------- | ---------------------- |
+| *membershipId*    | uuid      |                        |
 | **tenantOwnerId** | uuid      |                        |
 | **userId**        | uuid      |                        |
 | role              | smallint  | MEMBER or TENANT_ADMIN |
