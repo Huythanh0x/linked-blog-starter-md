@@ -1,20 +1,20 @@
 ### Tenant Connection (Tenants)
 
-| Column Name        | Data Type    |
-| ------------------ | ------------ |
-| tenantConnectionId | uuid         |
-| schemaName         | varchar(255) |
-| schemaPassword     | varchar(255) |
-| userName           | varchar(255) |
-| userPassword       | varchar(255) |
-| status             | smallint     |
-| tenantOwnerId      | uuid         |
+| Column Name          | Data Type    |
+| -------------------- | ------------ |
+| *tenantConnectionId* | uuid         |
+| schemaName           | varchar(255) |
+| schemaPassword       | varchar(255) |
+| userName             | varchar(255) |
+| userPassword         | varchar(255) |
+| status               | smallint     |
+| tenantOwnerId        | uuid         |
 ### User
 
 | Column Name      | Data Type    | Constraints      |
 | ---------------- | ------------ | ---------------- |
 | *userId*         | uuid         | PK, Generated    |
-| **email**        | varchar(255) | NOT NULL, UNIQUE |
+| email            | varchar(255) | NOT NULL, UNIQUE |
 | password         | varchar(255) | NULLABLE         |
 | stripeCustomerId | varchar(255) | NULLABLE         |
 | name             | varchar(255) | NULLABLE         |
