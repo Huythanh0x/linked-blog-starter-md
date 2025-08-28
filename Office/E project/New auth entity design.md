@@ -10,7 +10,7 @@
 | status           | smallint     | NOT NULL         |
 | lastLogin        | timestamp    | NULLABLE         |
 | isVerified       | smallint     | NOT NULL         |
-#### Tenant Owner
+#### Tenants
 
 | Column Name       | Data Type    | Constraints      |
 | ----------------- | ------------ | ---------------- |
@@ -18,11 +18,10 @@
 | name              | varchar(255) | NOT NULL         |
 | email             | varchar(255) | NOT NULL, UNIQUE |
 | password          | varchar(255) | NOT NULL         |
-| status            | smallint     | NOT NULL         |
-| lastLogin         | timestamp    | NULLABLE         |
-| createdAt         | datetime     | NULLABLE         |
-| updatedAt         | datetime     | NULLABLE         |
-| deletedAt         | datetime     | NULLABLE         |
+
+
+
+
 
 **Notes:**
 - Both entities extend `AbstractEntity` which likely provides the timestamp fields (createdAt, updatedAt, deletedAt)
