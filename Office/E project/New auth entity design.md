@@ -1,3 +1,5 @@
+### User
+
 | Column Name      | Data Type    | Constraints      |
 | ---------------- | ------------ | ---------------- |
 | *userId*         | uuid         | PK, Generated    |
@@ -8,3 +10,4 @@
 | status           | smallint     | NOT NULL         |
 | lastLogin        | timestamp    | NULLABLE         |
 | isVerified       | smallint     | NOT NULL         |
+### Tenant Owner
