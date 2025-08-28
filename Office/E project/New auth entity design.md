@@ -31,7 +31,7 @@
 | password        | varchar(255) | NOT NULL         |
 
 ### Memberships 
-Connec
+Connect between member<mark style="background: #BBFABBA6;">(user, owner)</mark> and <mark style="background: #FFB86CA6;">(tenant)</mark>
 
 | Column Name       | Data Type | Constraints                        |
 | ----------------- | --------- | ---------------------------------- |
