@@ -21,7 +21,7 @@
 | status           | smallint     | NOT NULL         |
 | lastLogin        | timestamp    | NULLABLE         |
 | isVerified       | smallint     | NOT NULL         |
-### Tenant Owner (Owner)
+v### Tenant Owner (Owner)
 
 | Column Name     | Data Type    | Constraints      |
 | --------------- | ------------ | ---------------- |
