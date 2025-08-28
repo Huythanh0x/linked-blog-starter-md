@@ -12,18 +12,18 @@
 | isVerified       | smallint     | NOT NULL         |
 ### Tenants
 
-| Column Name       | Data Type    | Constraints   |
-| ----------------- | ------------ | ------------- |
-| **tenantOwnerId** | uuid         | PK, Generated |
-| name              | varchar(255) | NOT NULL      |
-| password          | varchar(255) | NOT NULL      |
+| Column Name     | Data Type    | Constraints   |
+| --------------- | ------------ | ------------- |
+| *tenantOwnerId* | uuid         | PK, Generated |
+| name            | varchar(255) | NOT NULL      |
+| password        | varchar(255) | NOT NULL      |
 
 ### Memberships
 
-| Column Name | Data Type    | Constraints                    |
-| ----------- | ------------ | ------------------------------ |
-| tenant_id   | uuid         |                                |
-| user_id     | uuid         |                                |
-| role        | varchar(255) | DEFAULT MEMBER or TENANT_ADMIN |
+| Column Name     | Data Type    | Constraints                    |
+| --------------- | ------------ | ------------------------------ |
+| *tenantOwnerId* | uuid         |                                |
+| user_id         | uuid         |                                |
+| role            | varchar(255) | DEFAULT MEMBER or TENANT_ADMIN |
 
 
