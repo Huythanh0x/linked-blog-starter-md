@@ -23,7 +23,8 @@
 | Column Name     | Data Type    | Constraints                    |
 | --------------- | ------------ | ------------------------------ |
 | *tenantOwnerId* | uuid         |                                |
-| user_id         | uuid         |                                |
+| **userId**      | uuid         |                                |
 | role            | varchar(255) | DEFAULT MEMBER or TENANT_ADMIN |
+|                 |              |                                |
 
 
