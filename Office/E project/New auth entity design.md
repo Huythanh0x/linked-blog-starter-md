@@ -12,19 +12,19 @@
 | isVerified       | smallint     | NOT NULL         |
 #### Tenant Owner
 
-| Column Name   | Data Type    | Constraints      | Default    | Source Table  | Description                                                            |
-| ------------- | ------------ | ---------------- | ---------- | ------------- | ---------------------------------------------------------------------- |
-| tenantOwnerId | uuid         | PK, Generated    | -          | tenant_owners | Primary key for tenant owners                                          |
-| ownerId       | varchar(255) | PK               | -          | owners        | Primary key for owners                                                 |
-| name          | varchar(255) | NOT NULL         | -          | tenant_owners | Tenant owner's name                                                    |
-| email         | varchar(255) | NOT NULL, UNIQUE | -          | owners        | Owner's email address                                                  |
-| password      | varchar(255) | NOT NULL         | -          | owners        | Owner's password                                                       |
-| avatar        | varchar(500) | NULLABLE         | -          | owners        | Owner's avatar URL                                                     |
-| status        | smallint     | NOT NULL         | 1 (ACTIVE) | both          | Status code:<br>1: ACTIVE<br>0: INACTIVE<br>2: SUSPENDED<br>3: DELETED |
-| lastLogin     | timestamp    | NULLABLE         | -          | owners        | Last login timestamp                                                   |
-| createdAt     | datetime     | NULLABLE         | -          | both*         | Creation timestamp                                                     |
-| updatedAt     | datetime     | NULLABLE         | -          | both*         | Last update timestamp                                                  |
-| deletedAt     | datetime     | NULLABLE         | -          | both*         | Deletion timestamp                                                     |
+| Column Name       | Data Type    | Constraints      |
+| ----------------- | ------------ | ---------------- |
+| **tenantOwnerId** | uuid         | PK, Generated    |
+| ownerId           | varchar(255) | PK               |
+| name              | varchar(255) | NOT NULL         |
+| email             | varchar(255) | NOT NULL, UNIQUE |
+| password          | varchar(255) | NOT NULL         |
+| avatar            | varchar(500) | NULLABLE         |
+| status            | smallint     | NOT NULL         |
+| lastLogin         | timestamp    | NULLABLE         |
+| createdAt         | datetime     | NULLABLE         |
+| updatedAt         | datetime     | NULLABLE         |
+| deletedAt         | datetime     | NULLABLE         |
 
 **Notes:**
 - Both entities extend `AbstractEntity` which likely provides the timestamp fields (createdAt, updatedAt, deletedAt)
