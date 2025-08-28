@@ -15,11 +15,9 @@
 | Column Name       | Data Type    | Constraints      |
 | ----------------- | ------------ | ---------------- |
 | **tenantOwnerId** | uuid         | PK, Generated    |
-| ownerId           | varchar(255) | PK               |
 | name              | varchar(255) | NOT NULL         |
 | email             | varchar(255) | NOT NULL, UNIQUE |
 | password          | varchar(255) | NOT NULL         |
-| avatar            | varchar(500) | NULLABLE         |
 | status            | smallint     | NOT NULL         |
 | lastLogin         | timestamp    | NULLABLE         |
 | createdAt         | datetime     | NULLABLE         |
