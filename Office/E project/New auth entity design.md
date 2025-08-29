@@ -50,8 +50,9 @@ Connect between member<mark style="background: #BBFABBA6;">(user, owner)</mark> 
 ##### Tenant Login
 return `tenantOwnerId` and `memberShipID`
 - *tenantOwnerId* -> query **tenantDB**
-- *memberShipID* -> query **owner data**
+- *memberShipID* -> query **member data**
 ##### User Login
 return the `tenantOwnerId` and `memberShipID` and `userID`
 - *tenantOwnerId* -> query **tenantDB**
-- 
+- - *memberShipID* -> query **member data**
+- *userId* -> query user under tenantOwner directly without the *memberShip*
