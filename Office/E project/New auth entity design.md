@@ -43,5 +43,7 @@ Connect between member<mark style="background: #BBFABBA6;">(user, owner)</mark> 
 
 ### Update tenant schema
 - Remove `owners` -> move to `members`
-- Create mapping **email-tennaOwnerId** -> `memberships`
-- Link `members` to `users` so that after login with member creds -> can return 
+- Create mapping **Email-TenantOwnerId** -> `memberships`
+- Link `members` to `users` so that after login with member creds -> can return `users` indentity for later query
+### Update the flow
+#### Login
