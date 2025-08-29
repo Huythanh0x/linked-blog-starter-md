@@ -41,3 +41,7 @@ Connect between member<mark style="background: #BBFABBA6;">(user, owner)</mark> 
 | role              | smallint  | MEMBER or TENANT_ADMIN           |
 
 
+### Update tenant schema
+- Remove `owners` -> move to `members`
+- Create mapping **email-tennaOwnerId** -> `memberships`
+- Link `members` to `users` so that after login with member creds -> can return 
