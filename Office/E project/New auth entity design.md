@@ -57,3 +57,5 @@ AuthTenantPayload {
 	memberID
 }
 ```
+So that from payload.
+- Tenant access 
