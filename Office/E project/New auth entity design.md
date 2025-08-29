@@ -48,5 +48,6 @@ Connect between member<mark style="background: #BBFABBA6;">(user, owner)</mark> 
 ### Update the flow
 #### Login
 ##### Tenant Login
-return `tenantOw`
+return `tenantOwnerId` and `memberShipID`
+- TennatOwnerId -> query
 ##### User Login
