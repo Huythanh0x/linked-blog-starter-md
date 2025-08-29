@@ -47,15 +47,6 @@ Connect between member<mark style="background: #BBFABBA6;">(user, owner)</mark> 
 - Link `members` to `users` so that after login with member creds -> can return `users` indentity for later query
 ### Update the flow
 #### Login
-+ Using the cred in `members` to login and reeturn back the `memberID` if ADMIN, `userId` if USER
-```sh
-AuthPayload {
-	userID
-}
-
-AuthTenantPayload {
-	memberID
-}
-```
-So that from payload.
-- Tenant access 
+##### Tenant Login
+return `tenantOw`
+##### User Login
