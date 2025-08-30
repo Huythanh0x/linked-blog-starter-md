@@ -8,3 +8,6 @@
 - Have a *primary color style* for entire project **RED**
 - Have both *outline* and *solid* icon
 - Prefer single colormode first (LIGHT OR DARK)
+### 4 banner styles
+![[Pasted image 20250830144735.png]]
+- Rotate lef
