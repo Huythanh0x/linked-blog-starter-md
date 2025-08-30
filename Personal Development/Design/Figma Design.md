@@ -7,4 +7,4 @@
 - Create common UI
 - Have a *primary color style* for entire project **RED**
 - Have both *outline* and *solid* icon
-- Prefer single color
+- Prefer single colormode first (LIGHT OR DARK)
