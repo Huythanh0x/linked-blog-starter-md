@@ -3,3 +3,4 @@
 - [x] Get around to see the sample app from communities
 ### Key notes
 #### Have a guide line for items (common views)
+![[Pasted image 20250830144146.png]]
