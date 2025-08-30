@@ -20,3 +20,7 @@
 - Cards style
 ### Clean authentication scren
 ![[Pasted image 20250830212356.png]]
+
+### Landing page
+![[Pasted image 20250830222426.png]]
+- Bl
