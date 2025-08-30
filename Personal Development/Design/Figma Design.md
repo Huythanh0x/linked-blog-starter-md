@@ -6,4 +6,5 @@
 ![[Pasted image 20250830144146.png]]
 - Create common UI
 - Have a *primary color style* for entire project **RED**
-- Have both outline and soli
+- Have both *outline* and *solid* icon
+- 
