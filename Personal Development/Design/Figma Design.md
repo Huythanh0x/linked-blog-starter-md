@@ -23,4 +23,6 @@
 
 ### Landing page
 ![[Pasted image 20250830222426.png]]
-- Bl
+- Blog
+- Short description (heading and sub heading). Screen shot of core features
+- List cards of core features
