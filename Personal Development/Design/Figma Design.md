@@ -25,4 +25,7 @@
 ![[Pasted image 20250830222426.png]]
 - Blog
 - Short description (heading and sub heading). Screen shot of core features
-- List cards of core features
+- List cards of core features(Pomodoro-short break-long break), organize task, Overview reports, Daily goal, Stucture goasl
+- 
+- 
+- 
