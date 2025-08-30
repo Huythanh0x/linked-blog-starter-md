@@ -10,4 +10,7 @@
 - Prefer single colormode first (LIGHT OR DARK)
 ### 4 banner styles
 ![[Pasted image 20250830144735.png]]
-- Rotate lef
+- Rotate left 30*
+- portrait
+- Rotate right 30*
+- Fan 
