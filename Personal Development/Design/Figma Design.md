@@ -27,5 +27,5 @@
 - Short description (heading and sub heading). Screen shot of core features
 - List cards of core features(Pomodoro-short break-long break), organize task, Overview reports, Daily goal, Stucture goasl
 - The advantage: offline first, apple friendly, data encrypted,...
-- 
+- FAQ
 - 
