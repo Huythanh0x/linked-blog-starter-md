@@ -1,0 +1,3 @@
+- [x] Watch 1h video about Figma
+- [ ] Capture screenshots for target app
+- [ ] Get around to see the sample app 
