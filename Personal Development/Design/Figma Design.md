@@ -5,10 +5,13 @@
 #### Have a guide line for items (common views)
 ![[Pasted image 20250830144146.png]]
 ![[Pasted image 20250830205553.png]]
+![[Pasted image 20250830205905.png]]
+![[Pasted image 20250830205923.png]]
 - Create common UI
 - Have a *primary color style* for entire project **RED**
 - Have both *outline* and *solid* icon
-- Prefer single colormode first (LIGHT OR DARK)
+- Setup typography for the fonts
+- Prefer single color mode first (LIGHT OR DARK)
 ### 4 banner/cover styles
 ![[Pasted image 20250830144735.png]]
 - Rotate left 30*
