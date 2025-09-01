@@ -28,4 +28,7 @@
 - List cards of core features(Pomodoro-short break-long break), organize task, Overview reports, Daily goal, Stucture goasl
 - The advantage: offline first, apple friendly, data encrypted,...
 - FAQ
-- 
+### Good features
+![[Pasted image 20250901172754.png]]
+Task statistic
+
