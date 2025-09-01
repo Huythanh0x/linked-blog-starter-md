@@ -44,3 +44,6 @@ Do we really need a kind of filter and make reports based on the filter (range, 
 What about like traggo to create fixed report types
 
 ### Today's task
+
+### What about the ideas of Todo list but each item have a time tracking button?
+And there would be a complete list of things I want to achive?
