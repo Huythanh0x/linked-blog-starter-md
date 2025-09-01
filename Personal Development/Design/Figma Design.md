@@ -18,6 +18,8 @@
 - portrait
 - Rotate right 30*
 - Cards style
+### Color
+![[Pasted image 20250901213240.png]]
 ### Clean authentication scren
 ![[Pasted image 20250830212356.png]]
 
