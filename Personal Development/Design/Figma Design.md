@@ -37,4 +37,8 @@ Task statistic
 ![[Pasted image 20250901173207.png]]
 ### Customize the view main view?
 ![[Pasted image 20250901173818.png]]
-Is this really neccessary. Put them in to sepearated settings and on holding title to preview re
+Is this really neccessary. Put them in to sepearated settings and on holding title to preview reports like Timery is really good
+
+### Search and Filter. 
+Do we really need a kind of filter and make reports based on the filter (range, cateogry).
+What about 
