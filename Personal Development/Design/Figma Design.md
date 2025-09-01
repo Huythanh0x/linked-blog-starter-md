@@ -41,4 +41,5 @@ Is this really neccessary. Put them in to sepearated settings and on holding tit
 
 ### Search and Filter. 
 Do we really need a kind of filter and make reports based on the filter (range, cateogry).
-What about 
+What about like traggo to create fixed report types
+
