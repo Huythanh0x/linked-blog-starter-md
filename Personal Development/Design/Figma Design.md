@@ -33,3 +33,4 @@
 Task statistic
 
 ### Kanban on mobile device?
+![[Pasted image 20250901173140.png]]
