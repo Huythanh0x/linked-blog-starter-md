@@ -55,3 +55,7 @@ ANd then I put entire todo list with timeblock into calendar
 
 #### What about a simple like this
 ![[Pasted image 20250901211534.png]]
+
+
+### Work-life balance like chart showing details.
+![[Pasted image 20250901212537.png]]
