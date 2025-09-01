@@ -53,3 +53,5 @@ ANd then I put entire todo list with timeblock into calendar
 ### Calendar task view
 ![[Pasted image 20250901204242.png]]
 
+#### What about a simple like this
+![[Pasted image 20250901211534.png]]
