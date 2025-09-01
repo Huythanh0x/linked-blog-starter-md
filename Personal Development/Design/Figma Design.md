@@ -35,3 +35,6 @@ Task statistic
 ### Kanban on mobile device?
 ![[Pasted image 20250901173140.png]]
 ![[Pasted image 20250901173207.png]]
+### Customize the view main view?
+![[Pasted image 20250901173818.png]]
+Is this really neccessary. Put them in to sepearated settings and on holding title to preview re
