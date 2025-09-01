@@ -50,3 +50,6 @@ And there would be a complete list of things I want to achive?
 Basically like the time blocking and todolist into one. 
 ANd then I put entire todo list with timeblock into calendar
 ![[Pasted image 20250901174658.png]]
+### Calendar task view
+![[Pasted image 20250901204242.png]]
+
