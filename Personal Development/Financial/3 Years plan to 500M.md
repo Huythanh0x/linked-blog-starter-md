@@ -70,4 +70,3 @@ Total: *250m* VND
 	- Swimming: *400*
 - <mark style="background: #ADCCFFA6;">Investment:</mark>
 	- **Apple cert?** 2700/12 = *200*
-	- Still uncertain *200*
