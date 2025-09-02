@@ -1,7 +1,7 @@
 > According to my calculation.
 > Base start: *77*. Month saving: *12.5*
 > I would take roughly **3 years** to reach 500M
-### Current balance: {77M}
+### Current balance: {100M}
 
 - Gold: **36m**
 - USD (coin): **39m**
@@ -12,7 +12,7 @@
 	- Uncle: **20m**
 - Current Balance:
 	- Bank: **1.2m**
-	- Owe by sister: **5.750m**
+	- Cash: **10m**
 	- Mom: send **1m** to hospital to support
 	- Brother: **2.5m** to support uncle
 ### My family saving
