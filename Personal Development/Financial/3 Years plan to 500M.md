@@ -2,6 +2,7 @@
 > Base start: *77*. Month saving: *12.5*
 > I would take roughly **3 years** to reach 500M
 ### Current balance: {77M}
+
 - Gold: **36m**
 - USD (coin): **39m**
 - [[Stock]]: **3.1m**
