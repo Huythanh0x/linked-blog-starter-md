@@ -3,7 +3,7 @@
 > I would take roughly **3 years** to reach 500M
 ### Current balance: {100M}
 
-- Gold: **36m**
+- Gold: **46m**
 - USD (coin): **39m**
 - [[Stock]]: **3.1m**
 - Savings (Bank): **10m**
@@ -12,7 +12,7 @@
 	- Uncle: **20m**
 - Current Balance:
 	- Bank: **1.2m**
-	- Cash: **10m**
+	- Cash: **0m**
 	- Mom: send **1m** to hospital to support
 	- Brother: **2.5m** to support uncle
 ### My family saving
