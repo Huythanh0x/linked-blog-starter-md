@@ -64,6 +64,10 @@
 ##### Lunch (30)
 ##### ELSA Speaking (20) #english 
 ### 13:10 -> 17:40
+#### For Saturday
+##### Fly as solo dev #solodev
+##### 17:30: Review weekly #daily-review
+#### For Sunday
 ##### Fly as solo dev #solodev
 ##### 17:30: Review weekly #daily-review
 
