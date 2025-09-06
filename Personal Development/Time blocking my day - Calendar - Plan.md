@@ -6,8 +6,11 @@
 ##### English with TOEIC
 
 ###  8:15 -> 8:30
-##### Big 3 - Excercise
+##### Big 3 - Exercise
 
 ### 8:30 -> 12:00
 ##### Doing task 
-##### 11 AM
+##### 11:00 : Meeting
+
+### 12:00 -> 13:00
+##### 
