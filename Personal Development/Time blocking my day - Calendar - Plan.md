@@ -13,4 +13,9 @@
 ##### 11:00 : Meeting
 
 ### 12:00 -> 13:00
-##### 
+##### Big 3
+##### Lunch
+##### ELSA Speaking
+### 13:10 -> 17:35
+##### Doing task 
+##### 17:30: Creat report fil
