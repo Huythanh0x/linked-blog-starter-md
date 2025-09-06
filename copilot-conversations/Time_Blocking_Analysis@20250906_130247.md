@@ -319,3 +319,65 @@ Thank you for catching that! It's essential to consider all elements when analyz
 - [[Health And Well-being]]
 - [[part of something greater]]
 [Timestamp: 2025/09/06 13:11:33]
+
+**user**: Oke then analyze again and categorize them by weekdays, weekends and overall.
+All entry must belong to a tag
+[Timestamp: 2025/09/06 13:12:35]
+
+**ai**: Understood. Here's the analysis of your time blocking, categorized by weekdays, weekends, and overall, ensuring all entries are associated with a tag:
+
+**Weekday Time Allocation:**
+
+| Category | Tag(s) | Time Allotment (approximate) |
+|---|---|---|
+| Sleep |  | 7.5 hours |
+| Daily Routines | #daily | 1 hour 30 minutes |
+| English | #english | 1 hour 40 minutes |
+| Health | #health | 2 hours 10 minutes |
+| Office Tasks | #office | 8 hours 5 minutes |
+| Solo Development | #solodev | 2 hours 45 minutes |
+| Light Reading | #solodev | 15 minutes |
+| Review daily | #daily-review | 10 minutes |
+
+**Weekend Time Allocation:**
+
+| Category | Tag(s) | Time Allotment (approximate) |
+|---|---|---|
+| Sleep |  | 7.5 hours |
+| Daily Routines | #daily | 1 hour 30 minutes |
+| English | #english | 2 hours 40 minutes |
+| Health | #health | 2 hours 10 minutes |
+| Solo Development | #solodev | 7 hours 40 minutes |
+| Light Reading | #solodev | 15 minutes |
+| Relationship | #relationship | 4 hours 30 minutes |
+| Review Weekly | #daily-review | 10 minutes |
+
+**Overall Weekly Time Allocation:**
+
+| Category | Tag(s) | Time Allotment (approximate) |
+|---|---|---|
+| Sleep |  | 52.5 hours |
+| Daily Routines | #daily | 10.5 hours |
+| English | #english | 11 hours |
+| Health | #health | 15.17 hours |
+| Office Tasks | #office | 40.4 hours |
+| Solo Development | #solodev | 21.4 hours |
+| Light Reading | #solodev | 1.75 hours |
+| Relationship | #relationship | 4.5 hours |
+| Review Weekly | #daily-review | 10 minutes |
+
+**Notes:**
+
+*   I've included the relevant tags for each category.
+*   "Sleep" doesn't have a specific tag in your plan, so I've left that blank.
+*   The time allotments are approximate based on the blocks you've defined.
+
+Is there anything else I can help you analyze or any other way I can refine this information?
+
+
+#### Sources:
+
+- [[Time_Blocking_Analysis@20250906_130247]]
+- [[Translate to Chinese]]
+- [[All task index (infinite horizontal)]]
+[Timestamp: 2025/09/06 13:12:42]
