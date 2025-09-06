@@ -57,16 +57,15 @@
 
 ### 8:25 -> 10:30
 ##### TOEIC full test 
-##### Fly as solo dev #solodev
 ### 10:30 -> 12:00
-#####
+##### Fly as solo dev #solodev
 ### 12:00 -> 13:10
 ##### Big 3 (20)
 ##### Lunch (30)
 ##### ELSA Speaking (20)
 ### 13:10 -> 17:40
-##### Doing task 
-##### 17:30: Create report file
+##### Fly as solo dev #solodev
+##### 17:30: Review weekly
 
 ### 17:40 -> 18:00
 ##### Big 3 (20)
