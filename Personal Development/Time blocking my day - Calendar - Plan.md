@@ -7,7 +7,7 @@
 ##### English with TOEIC #english 
 
 ###  8:15 -> 8:25
-##### Big 3 - Exercise #heath 
+##### Big 3 - Exercise #health 
 
 ### 8:25 -> 12:00
 ##### Doing task #office 
@@ -25,7 +25,7 @@
 ##### Big 3 (20) #health 
 
 ### 18:00 -> 19:00
-##### Swimming or some indoor exercise #heath 
+##### Swimming or some indoor exercise #health 
 
 ### 19:10 -> 19:30
 ##### Dinner #daily 
@@ -63,7 +63,7 @@
 ### 10:30 -> 12:00
 ##### Fly as solo dev #solodev
 ### 12:00 -> 13:10
-##### Big 3 (20) #heath 
+##### Big 3 (20) #health  
 ##### Lunch (30) #daily 
 ##### ELSA Speaking (20) #english 
 ### 13:10 -> 17:40
@@ -74,10 +74,10 @@
 ##### Out with friend or family #relationship
 
 ### 17:40 -> 18:00
-##### Big 3 (20) #heath 
+##### Big 3 (20) #health 
 
 ### 18:00 -> 19:00 
-##### Swimming or some indoor exercise #heath 
+##### Swimming or some indoor exercise #health
 
 ### 19:10 -> 19:30
 ##### Dinner #daily 
