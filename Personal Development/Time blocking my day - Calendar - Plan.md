@@ -1,6 +1,7 @@
+## Weekdays
 ### 6:30 -> 7:15
-##### Daily(20) 
-##### Breakfast(20)
+##### Daily(20m) 
+##### Breakfast(20m)
 
 ### 7:15 -> 8:15
 ##### English with TOEIC
@@ -36,9 +37,9 @@
 ##### Flight as solo dev
 
 ### 22:15 -> 22:55
-##### Daily evening (20)
+##### Daily evening (20m)
 ##### Big 3 (10)
-#### Review daily (10)
+#### Review daily (10m)
 
 ### 23:00 -> 6:30
 #### Sleep (7.5h)
