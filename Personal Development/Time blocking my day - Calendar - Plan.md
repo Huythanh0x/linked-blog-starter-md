@@ -58,6 +58,8 @@
 ### 8:25 -> 10:30
 #### For Saturday
 ##### TOEIC full test #english
+#### For Sunday
+##### Leet code #solodev 
 ### 10:30 -> 12:00
 ##### Fly as solo dev #solodev
 ### 12:00 -> 13:10
