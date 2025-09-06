@@ -14,15 +14,15 @@
 ##### 11:00 : Meeting
 
 ### 12:00 -> 13:00
-##### Big 3 (15)
+##### Big 3 (20)
 ##### Lunch (30)
-##### ELSA Speaking
+##### ELSA Speaking (20)
 ### 13:10 -> 17:40
 ##### Doing task 
 ##### 17:30: Create report file
 
 ### 17:40 -> 18:00
-##### Big 3
+##### Big 3 (20)
 
 ### 18:00 -> 19:00
 ##### Swimming or some indoor exercise
