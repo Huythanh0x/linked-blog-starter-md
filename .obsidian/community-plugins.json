@@ -1,11 +1,8 @@
 [
   "highlightr-plugin",
   "obsidian-style-settings",
-  "note-refactor-obsidian",
   "obsidian-icon-folder",
   "homepage",
-  "obsidian-mind-map",
   "copilot",
-  "obsidian-git",
-  "obsidian-tasks-plugin"
+  "obsidian-git"
 ]
