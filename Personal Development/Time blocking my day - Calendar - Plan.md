@@ -39,7 +39,7 @@
 ### 22:15 -> 22:55
 ##### Daily evening (20m) #daily 
 ##### Big 3 (10) #health 
-##### Review daily (10m)
+##### Review daily (10m) #daily-review
 
 ### 23:00 -> 6:30
 ##### Sleep (7.5h)
