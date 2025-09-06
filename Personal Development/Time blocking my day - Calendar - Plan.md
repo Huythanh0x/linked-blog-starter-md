@@ -8,4 +8,6 @@
 ###  8:15 -> 8:30
 ##### Big 3 - Excercise
 
-### Office 
+### 8:30 -> 12:00
+##### Doing task 
+##### 11 AM
