@@ -1,9 +1,7 @@
 [
   "highlightr-plugin",
-  "obsidian-style-settings",
   "obsidian-icon-folder",
   "homepage",
   "copilot",
-  "obsidian-git",
-  "obsidian-minimal-settings"
+  "obsidian-git"
 ]
