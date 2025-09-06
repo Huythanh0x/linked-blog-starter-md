@@ -21,6 +21,14 @@
 ##### 17:30: Create report file
 
 ### 17:40 -> 18:00
-##### 
+##### Big 3
+
+### 18:00 -> 19:00
+##### Swimming or some indoor exercise
+
+### 19:10 -> 19:30
+#### Some light reading
+
+###
 
 
