@@ -14,8 +14,8 @@
 ##### 11:00 : Meeting
 
 ### 12:00 -> 13:00
-##### Big 3
-##### Lunch
+##### Big 3 (15)
+##### Lunch (30)
 ##### ELSA Speaking
 ### 13:10 -> 17:40
 ##### Doing task 
