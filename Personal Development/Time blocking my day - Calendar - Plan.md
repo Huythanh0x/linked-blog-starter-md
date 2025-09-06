@@ -32,7 +32,7 @@
 ### 19:30 -> 19:45
 ##### Light reading (Article/Blog based)
 
-
-
+### 19: 45 -> 22:00
+##### Flight as solo dev
 
 
