@@ -1,6 +1,6 @@
 ---
 epoch: 1757138567614
-modelKey: gemini-2.5-pro-preview-06-05|google
+modelKey: gemini-2.0-flash|google
 topic: "Time Blocking Analysis"
 
 
@@ -197,3 +197,75 @@ To calculate the overall weekly allocation, I'll multiply the weekday values by 
 
 
 [Timestamp: 2025/09/06 13:09:48]
+
+**user**: I think you caculate it wrong. Please have a look back and calculate again. If you are uncertain any aspect. Ask me
+[Timestamp: 2025/09/06 13:10:16]
+
+**ai**: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-04-17:streamGenerateContent?alt=sse: [404 ] models/gemini-2.5-flash-preview-04-17 is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+
+[Timestamp: 2025/09/06 13:10:18]
+
+**user**: I think you caculate it wrong. Please have a look back and calculate again. If you are uncertain any aspect. Ask me
+[Timestamp: 2025/09/06 13:10:29]
+
+**ai**: You're right to double-check! I'll review the calculations again to make sure everything is accurate.
+
+Here's a breakdown of how I calculated the weekly totals, and please let me know if you spot any discrepancies:
+
+**Weekday Calculations (Multiplied by 5):**
+
+*   Sleep: Not applicable (daily figure used)
+*   Daily Routines: (1.5 hours/day) \* 5 = 7.5 hours
+*   English: (1 hour 40 minutes/day) \* 5 = 8.33 hours (8 hours 20 minutes)
+*   Health: (1 hour 20 minutes/day) \* 5 = 6.67 hours (6 hours 40 minutes)
+*   Office: (8 hours 5 minutes/day) \* 5 = 40.42 hours (40 hours 25 minutes)
+*   Solo Development: (2 hours 45 minutes/day) \* 5 = 13.75 hours (13 hours 45 minutes)
+*   Light Reading: (15 minutes/day) \* 5 = 1.25 hours (1 hour 15 minutes)
+
+**Weekend Calculations (Total for both days):**
+
+*   Sleep: Not applicable (daily figure used)
+*   Daily Routines: (1.5 hours/day) \* 2 = 3 hours
+*   English: 2 hours 40 minutes
+*   Health: (1 hour 20 minutes/day) \* 2 = 2.67 hours (2 hours 40 minutes)
+*   Solo Development: 7 hours 40 minutes
+*   Light Reading: (15 minutes/day) \* 2 = 0.5 hours (30 minutes)
+*   Relationship: 4 hours 30 minutes (Sunday only)
+*   Review Weekly: 10 minutes
+
+**Combined Weekly Totals:**
+
+*   Sleep: 7.5 hours/day \* 7 days = 52.5 hours
+*   Daily Routines: 7.5 hours (weekdays) + 3 hours (weekends) = 10.5 hours
+*   English: 8.33 hours (weekdays) + 2.67 hours (weekends) = 11 hours
+*   Health: 6.67 hours (weekdays) + 2.67 hours (weekends) = 9.3 hours
+*   Office: 40.42 hours
+*   Solo Development: 13.75 hours (weekdays) + 7.67 hours (weekends) = 21.4 hours
+*   Light Reading: 1.25 hours (weekdays) + 0.5 hours (weekends) = 1.75 hours
+*   Relationship: 4.5 hours
+*   Review Weekly: 10 minutes
+
+**Recalculated Table:**
+
+| Category | Time Allotment (approximate) |
+|---|---|
+| Sleep | 52.5 hours |
+| Daily Routines | 10.5 hours |
+| English | 11 hours |
+| Health | 9.3 hours |
+| Office | 40.4 hours |
+| Solo Development | 21.4 hours |
+| Light Reading | 1.75 hours |
+| Relationship | 4.5 hours |
+| Review Weekly | 10 minutes |
+
+Could you please point out which specific calculation you believe is incorrect? This will help me focus on the right area and ensure accuracy.
+
+
+#### Sources:
+
+- [[Time_Blocking_Analysis@20250906_130247]]
+- [[back pain exercise]]
+- [[Finish What you started]]
+[Timestamp: 2025/09/06 13:10:36]
