@@ -34,7 +34,7 @@
 ##### Light reading (Article/Blog based)
 
 ### 19: 45 -> 22:15
-##### Flight as solo dev
+##### Fly as solo dev
 
 ### 22:15 -> 22:55
 ##### Daily evening (20m)
@@ -55,9 +55,10 @@
 ###  8:15 -> 8:25
 ##### Big 3 - Exercise
 
-### 8:25 -> 12:00
-##### Doing task 
-##### 11:00 : Meeting
+### 8:25 -> 10:30
+##### TOEIC full test 
+##### Fly as solo dev
+### 10:30 -> 12:00
 
 ### 12:00 -> 13:10
 ##### Big 3 (20)
