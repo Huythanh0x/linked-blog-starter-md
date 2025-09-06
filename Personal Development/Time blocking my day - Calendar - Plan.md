@@ -22,7 +22,7 @@
 ##### 17:30: Create report file #office
 
 ### 17:40 -> 18:00
-##### Big 3 (20) #health 
+##### Big 3 (20m) #health 
 
 ### 18:00 -> 19:00
 ##### Swimming or some indoor exercise #health 
@@ -38,7 +38,7 @@
 
 ### 22:15 -> 22:55
 ##### Daily evening (20m) #daily 
-##### Big 3 (10) #health 
+##### Big 3 (10m) #health 
 ##### Review daily (10m) #daily-review
 
 ### 23:00 -> 6:30
@@ -63,9 +63,9 @@
 ### 10:30 -> 12:00
 ##### Fly as solo dev #solodev
 ### 12:00 -> 13:10
-##### Big 3 (20) #health  
-##### Lunch (30) #daily 
-##### ELSA Speaking (20) #english 
+##### Big 3 (20m) #health  
+##### Lunch (30m) #daily 
+##### ELSA Speaking (20m) #english 
 ### 13:10 -> 17:40
 #### For Saturday
 ##### Fly as solo dev #solodev
@@ -74,7 +74,7 @@
 ##### Out with friend or family #relationship
 
 ### 17:40 -> 18:00
-##### Big 3 (20) #health 
+##### Big 3 (20m) #health 
 
 ### 18:00 -> 19:00 
 ##### Swimming or some indoor exercise #health
