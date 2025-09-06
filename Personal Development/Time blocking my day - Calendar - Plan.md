@@ -22,23 +22,23 @@
 ##### 17:30: Create report file
 
 ### 17:40 -> 18:00
-##### Big 3 (20)
+##### Big 3 (20) #health 
 
 ### 18:00 -> 19:00
-##### Swimming or some indoor exercise
+##### Swimming or some indoor exercise #heath 
 
 ### 19:10 -> 19:30
 #### Dinner
 
 ### 19:30 -> 19:45
-##### Light reading (Article/Blog based)
+##### Light reading (Article/Blog based) #solodev 
 
 ### 19: 45 -> 22:15
 ##### Fly as solo dev #solodev
 
 ### 22:15 -> 22:55
 ##### Daily evening (20m)
-##### Big 3 (10)
+##### Big 3 (10) #health 
 #### Review daily (10m)
 
 ### 23:00 -> 6:30
@@ -50,10 +50,10 @@
 ##### Breakfast(20m)
 
 ### 7:15 -> 8:15
-##### English with TOEIC
+##### English with TOEIC #english
 
 ###  8:15 -> 8:25
-##### Big 3 - Exercise
+##### Big 3 - Exercise #health 
 
 ### 8:25 -> 10:30
 ##### TOEIC full test #english
