@@ -269,3 +269,53 @@ Could you please point out which specific calculation you believe is incorrect? 
 - [[back pain exercise]]
 - [[Finish What you started]]
 [Timestamp: 2025/09/06 13:10:36]
+
+**user**: For example Health category, it cannot be just 1h20.
+There is a lot of Big 3 category and also the Swimming
+[Timestamp: 2025/09/06 13:11:28]
+
+**ai**: You are absolutely right! My apologies, I missed a key detail. I was only considering the explicitly timed "Big 3" blocks and not the "Swimming or some indoor exercise".
+
+Let's recalculate the Health category, taking the swimming into account:
+
+**Weekday Health:**
+
+*   Big 3: 20 minutes + 20 minutes + 20 minutes + 10 minutes = 70 minutes
+*   Swimming: 60 minutes
+*   Total Weekday Health: 70 minutes + 60 minutes = 130 minutes = 2 hours 10 minutes
+
+**Weekend Health:**
+
+*   Big 3: 20 minutes + 20 minutes + 20 minutes + 10 minutes = 70 minutes
+*   Swimming: 60 minutes
+*   Total Weekend Health: 70 minutes + 60 minutes = 130 minutes = 2 hours 10 minutes
+
+**New Weekly Health Calculation:**
+
+*   Weekday Health: (2 hours 10 minutes/day) \* 5 days = 10 hours 50 minutes
+*   Weekend Health: (2 hours 10 minutes/day) \* 2 days = 4 hours 20 minutes
+*   Total Weekly Health: 10 hours 50 minutes + 4 hours 20 minutes = 15 hours 10 minutes
+
+**Updated Table with Corrected Health Calculation:**
+
+| Category | Time Allotment (approximate) |
+|---|---|
+| Sleep | 52.5 hours |
+| Daily Routines | 10.5 hours |
+| English | 11 hours |
+| **Health** | **15.17 hours** |
+| Office | 40.4 hours |
+| Solo Development | 21.4 hours |
+| Light Reading | 1.75 hours |
+| Relationship | 4.5 hours |
+| Review Weekly | 10 minutes |
+
+Thank you for catching that! It's essential to consider all elements when analyzing the time allocation. Is there anything else you'd like me to double-check?
+
+
+#### Sources:
+
+- [[Time_Blocking_Analysis@20250906_130247]]
+- [[Health And Well-being]]
+- [[part of something greater]]
+[Timestamp: 2025/09/06 13:11:33]
