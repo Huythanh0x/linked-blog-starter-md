@@ -72,7 +72,6 @@
 ##### 17:30: Review weekly #daily-review
 #### For Sunday
 ##### Out with friend or family #relationship
-##### 17:30: Review weekly #daily-review
 
 ### 17:40 -> 18:00
 ##### Big 3 (20) #heath 
