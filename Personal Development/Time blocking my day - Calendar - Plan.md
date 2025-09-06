@@ -27,8 +27,12 @@
 ##### Swimming or some indoor exercise
 
 ### 19:10 -> 19:30
-#### Some light reading
+#### Dinner
 
-###
+### 19:30 -> 19:45
+##### Light reading (Article/Blog based)
+
+
+
 
 
