@@ -14,9 +14,9 @@
 ##### 11:00 : Meeting #office 
 
 ### 12:00 -> 13:10
-##### Big 3 (20) #health 
-##### Lunch (30) #daily 
-##### ELSA Speaking (20) #english 
+##### Big 3 (20m) #health 
+##### Lunch (30m) #daily 
+##### ELSA Speaking (20m) #english 
 ### 13:10 -> 17:40
 ##### Doing task #office 
 ##### 17:30: Create report file #office
