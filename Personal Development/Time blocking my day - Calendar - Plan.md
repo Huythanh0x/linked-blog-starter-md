@@ -68,7 +68,7 @@
 ##### Fly as solo dev #solodev
 ##### 17:30: Review weekly #daily-review
 #### For Sunday
-##### Fly as solo dev #solodev
+##### Out with friend or family #relationship
 ##### 17:30: Review weekly #daily-review
 
 ### 17:40 -> 18:00
