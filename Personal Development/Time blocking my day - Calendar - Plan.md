@@ -28,7 +28,7 @@
 ##### Swimming or some indoor exercise #heath 
 
 ### 19:10 -> 19:30
-#### Dinner #daily 
+##### Dinner #daily 
 
 ### 19:30 -> 19:45
 ##### Light reading (Article/Blog based) #solodev 
@@ -39,10 +39,10 @@
 ### 22:15 -> 22:55
 ##### Daily evening (20m) #daily 
 ##### Big 3 (10) #health 
-#### Review daily (10m)
+##### Review daily (10m)
 
 ### 23:00 -> 6:30
-#### Sleep (7.5h)
+##### Sleep (7.5h)
 
 ## Weekends #Weekends
 ### 6:30 -> 7:15
@@ -78,7 +78,7 @@
 ##### Swimming or some indoor exercise #heath 
 
 ### 19:10 -> 19:30
-#### Dinner #daily 
+##### Dinner #daily 
 
 ### 19:30 -> 19:45
 ##### Light reading (Article/Blog based) #solodev 
@@ -89,7 +89,7 @@
 ### 22:15 -> 22:55
 ##### Daily evening (20m) #daily 
 ##### Big 3 (10m) #Health
-#### Review daily (10m) #daily-review 
+##### Review daily (10m) #daily-review 
 
 ### 23:00 -> 6:30
-#### Sleep (7.5h)
+##### Sleep (7.5h)
