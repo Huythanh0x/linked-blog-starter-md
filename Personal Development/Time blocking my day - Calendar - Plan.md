@@ -1,4 +1,4 @@
-## Weekdays
+## Weekdays #Weekdays
 ### 6:30 -> 7:15
 ##### Daily(20m) 
 ##### Breakfast(20m)
@@ -34,7 +34,7 @@
 ##### Light reading (Article/Blog based)
 
 ### 19: 45 -> 22:15
-##### Fly as solo dev
+##### Fly as solo dev #solodev
 
 ### 22:15 -> 22:55
 ##### Daily evening (20m)
@@ -44,7 +44,7 @@
 ### 23:00 -> 6:30
 #### Sleep (7.5h)
 
-## Weekends
+## Weekends #Weekends
 ### 6:30 -> 7:15
 ##### Daily(20m) 
 ##### Breakfast(20m)
@@ -57,9 +57,9 @@
 
 ### 8:25 -> 10:30
 ##### TOEIC full test 
-##### Fly as solo dev
+##### Fly as solo dev #solodev
 ### 10:30 -> 12:00
-
+#####
 ### 12:00 -> 13:10
 ##### Big 3 (20)
 ##### Lunch (30)
@@ -71,7 +71,7 @@
 ### 17:40 -> 18:00
 ##### Big 3 (20)
 
-### 18:00 -> 19:00
+### 18:00 -> 19:00 
 ##### Swimming or some indoor exercise
 
 ### 19:10 -> 19:30
@@ -81,7 +81,7 @@
 ##### Light reading (Article/Blog based)
 
 ### 19: 45 -> 22:15
-##### Flight as solo dev
+##### Fly as solo dev #solodev
 
 ### 22:15 -> 22:55
 ##### Daily evening (20m)
