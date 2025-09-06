@@ -65,7 +65,7 @@
 ##### ELSA Speaking (20)
 ### 13:10 -> 17:40
 ##### Fly as solo dev #solodev
-##### 17:30: Review weekly
+##### 17:30: Review weekly #daily-review
 
 ### 17:40 -> 18:00
 ##### Big 3 (20)
@@ -84,7 +84,7 @@
 
 ### 22:15 -> 22:55
 ##### Daily evening (20m)
-##### Big 3 (10)
+##### Big 3 (10m) #Health
 #### Review daily (10m)
 
 ### 23:00 -> 6:30
