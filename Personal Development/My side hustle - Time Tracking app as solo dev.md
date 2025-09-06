@@ -1,17 +1,12 @@
 ### My Time budget
-### 🗓 Weekday (Mon–Fri)
+#### 🗓 Weekday (Mon–Fri)
 - **2h45m per day** × 5 days  
     ➡️ **13h45m total**
-### 🗓 Saturday
+#### 🗓 Saturday
 - **8h10m**
-### 🗓 Sunday
-
+#### 🗓 Sunday
 - **6h05m**
-    
-
----
-
-### 📊 Whole Week (Mon–Sun)
-
+#### 📊 Whole Week (Mon–Sun)
 - **31h40m total for #solodev**  
     ➡️ That’s ~**18.9% of your entire week**
+### My plan for each day of the time
