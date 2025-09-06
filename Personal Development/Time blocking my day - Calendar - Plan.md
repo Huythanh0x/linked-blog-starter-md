@@ -1,7 +1,7 @@
 ## Weekdays #Weekdays
 ### 6:30 -> 7:15
-##### Daily(20m) 
-##### Breakfast(20m)
+##### Daily(20m)  #daily 
+##### Breakfast(20m) #daily 
 
 ### 7:15 -> 8:15
 ##### English with TOEIC #english 
@@ -15,7 +15,7 @@
 
 ### 12:00 -> 13:10
 ##### Big 3 (20) #health 
-##### Lunch (30)
+##### Lunch (30) #daily 
 ##### ELSA Speaking (20) #english 
 ### 13:10 -> 17:40
 ##### Doing task #office 
@@ -28,7 +28,7 @@
 ##### Swimming or some indoor exercise #heath 
 
 ### 19:10 -> 19:30
-#### Dinner
+#### Dinner #daily 
 
 ### 19:30 -> 19:45
 ##### Light reading (Article/Blog based) #solodev 
@@ -37,7 +37,7 @@
 ##### Fly as solo dev #solodev
 
 ### 22:15 -> 22:55
-##### Daily evening (20m)
+##### Daily evening (20m) #daily 
 ##### Big 3 (10) #health 
 #### Review daily (10m)
 
@@ -46,8 +46,8 @@
 
 ## Weekends #Weekends
 ### 6:30 -> 7:15
-##### Daily(20m) 
-##### Breakfast(20m)
+##### Daily(20m) #daily 
+##### Breakfast(20m) #daily 
 
 ### 7:15 -> 8:15
 ##### English with TOEIC #english
@@ -61,7 +61,7 @@
 ##### Fly as solo dev #solodev
 ### 12:00 -> 13:10
 ##### Big 3 (20) #heath 
-##### Lunch (30)
+##### Lunch (30) #daily 
 ##### ELSA Speaking (20) #english 
 ### 13:10 -> 17:40
 #### For Saturday
@@ -78,7 +78,7 @@
 ##### Swimming or some indoor exercise #heath 
 
 ### 19:10 -> 19:30
-#### Dinner
+#### Dinner #daily 
 
 ### 19:30 -> 19:45
 ##### Light reading (Article/Blog based) #solodev 
@@ -87,7 +87,7 @@
 ##### Fly as solo dev #solodev
 
 ### 22:15 -> 22:55
-##### Daily evening (20m)
+##### Daily evening (20m) #daily 
 ##### Big 3 (10m) #Health
 #### Review daily (10m) #daily-review 
 
