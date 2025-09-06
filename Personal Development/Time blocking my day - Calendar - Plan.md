@@ -38,3 +38,4 @@
 ### 22:15 -> 22:45
 ##### Daily evening (20)
 ##### Big 3 (10)
+#### Review daily (10)
