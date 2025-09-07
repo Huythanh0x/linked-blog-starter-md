@@ -10,5 +10,3 @@
 - **31h40m total for #solodev**  
     ➡️ That’s ~**18.9% of your entire week**
 ### My plan for each day of the time
-
-
