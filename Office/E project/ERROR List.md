@@ -1,44 +1,22 @@
-Understood ✅  
-Since the `ERROR_KEY` and `CODE` are duplicates in all your constants, we can simplify the tables to only:
-
-- **ERROR_KEY**
-    
-- **Message English**
-    
-- **Message Japanese** (empty for you to fill in)
-    
-
-Here’s the cleaned-up **Markdown format**:
-
----
-
 ## COMMON
 
-```markdown
-| ERROR_KEY | Message English | Message Japanese |
-|-----------|-----------------|------------------|
-| INTERNAL_SERVER_ERROR | Internal server error | |
-| UNAUTHORIZED | Unauthorized | |
-| FORBIDDEN | Forbidden | |
-| MEMBERSHIP_NOT_FOUND | Membership not found | |
-| MEMBERSHIP_ALREADY_EXISTS | Membership already exists | |
-```
-
----
+| ERROR_KEY                 | Message English           | Message Japanese |
+| ------------------------- | ------------------------- | ---------------- |
+| INTERNAL_SERVER_ERROR     | Internal server error     |                  |
+| UNAUTHORIZED              | Unauthorized              |                  |
+| FORBIDDEN                 | Forbidden                 |                  |
+| MEMBERSHIP_NOT_FOUND      | Membership not found      |                  |
+| MEMBERSHIP_ALREADY_EXISTS | Membership already exists |                  |
 
 ## SERVER_ERRORS
 
-```markdown
-| ERROR_KEY | Message English | Message Japanese |
-|-----------|-----------------|------------------|
-| GEN_PERSONALITY_ERROR | Failed to generate personas | |
-```
-
----
+| ERROR_KEY             | Message English             | Message Japanese |
+| --------------------- | --------------------------- | ---------------- |
+| GEN_PERSONALITY_ERROR | Failed to generate personas |                  |
 
 ## INVALID
 
-```markdown
+
 | ERROR_KEY | Message English | Message Japanese |
 |-----------|-----------------|------------------|
 | INVALID_PAGER | Invalid pager | |
@@ -67,13 +45,13 @@ Here’s the cleaned-up **Markdown format**:
 | TRAINING_MESSAGE_NOT_FOUND | No messages found for this training | |
 | NO_TRANSCRIPT_CONTENT | No transcript content provided for VOICE training | |
 | ELEVENLABS_CONCURRENCY_LIMIT | Too many concurrent ElevenLabs sessions. | |
-```
+
 
 ---
 
 ## NOT_FOUND
 
-```markdown
+
 | ERROR_KEY | Message English | Message Japanese |
 |-----------|-----------------|------------------|
 | NOT_FOUND | Not found | |
@@ -87,13 +65,13 @@ Here’s the cleaned-up **Markdown format**:
 | TRAINING_DETAILS_NOT_FOUND | Training details not found | |
 | PRODUCT_NOT_FOUND | Product not found | |
 | PERSONALITY_NOT_FOUND | Personality not found | |
-```
+
 
 ---
 
 ## AUTH
 
-```markdown
+
 | ERROR_KEY | Message English | Message Japanese |
 |-----------|-----------------|------------------|
 | TOKEN_EXPIRED | Token expired | |
@@ -102,13 +80,13 @@ Here’s the cleaned-up **Markdown format**:
 | TENANT_NOT_FOUND | Tenant not found | |
 | TENANT_OWNER_INACTIVE | Tenant owner is inactive | |
 | USER_INACTIVE | User is inactive | |
-```
+
 
 ---
 
 ## ErrorMessage (enum)
 
-```markdown
+
 | ERROR_KEY | Message English | Message Japanese |
 |-----------|-----------------|------------------|
 | INVALID_PAGER | Pager is invalid | |
@@ -116,34 +94,34 @@ Here’s the cleaned-up **Markdown format**:
 | HEADER_NOT_VALID | Invalid Header | |
 | INTERNAL_SERVER_ERROR | Internal server error | |
 | INVALID_ARGUMENTS | Invalid Arguments | |
-```
+
 
 ---
 
 ## SuccessMessage (enum)
 
-```markdown
+
 | ERROR_KEY | Message English | Message Japanese |
 |-----------|-----------------|------------------|
 | SUCCESS | Successful | |
-```
+
 
 ---
 
 ## TRAINING_MSG
 
-```markdown
+
 | ERROR_KEY | Message English | Message Japanese |
 |-----------|-----------------|------------------|
 | TRAINING_SYSTEM_MSG_TIMEOUT | Training session has been automatically finished due to timeout. | |
-```
+
 
 ---
 
 ## PERSONALITY_GENERATE_ERROR_MSG
 
-```markdown
+
 | ERROR_KEY | Message English | Message Japanese |
 |-----------|-----------------|------------------|
 | PERSONALITY_GENERATE_ERROR_MSG | Failed to generate personalities | |
-```
+
