@@ -165,9 +165,19 @@ SELECT COUNT(*) AS total_details FROM training_details d JOIN trainings t ON t."
 SQL
 ```
 
-###
+### Query all Trainings and Details by email
 ```sql
-
+SELECT
+t."trainingId",
+td.status,
+td.score,
+(td."scoreQuestion" + td."scoreClosing" + td."scoreLogical" + td."scoreSuggestion" + td."scoreListening") / 5.0 as average_detailed_score,
+td.*
+FROM users u
+JOIN trainings t ON t."userId" = u."userId"
+LEFT JOIN training_details td ON td."trainingId" = t."trainingId"
+WHERE u.email = 'tuantm+1@vitalify.asia'
+AND (td.status != 0 OR td.status IS NULL);
 ```
 # Feature
 ### Login
