@@ -164,6 +164,10 @@ SELECT COUNT(*) AS total_trainings FROM trainings t JOIN users u ON u."userId"=t
 SELECT COUNT(*) AS total_details FROM training_details d JOIN trainings t ON t."trainingId"=d."trainingId" JOIN users u ON u."userId"=t."userId" WHERE u.email LIKE 'demo_user_%@example.com';
 SQL
 ```
+
+###
+```sh
+```
 # Feature
 ### Login
 - Integrate the Google Auth Service
