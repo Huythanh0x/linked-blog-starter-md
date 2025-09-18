@@ -179,6 +179,8 @@ LEFT JOIN training_details td ON td."trainingId" = t."trainingId"
 WHERE u.email = 'tuantm+1@vitalify.asia'
 AND (td.status != 0 OR td.status IS NULL);
 ```
+
+### Query user DB 
 # Feature
 ### Login
 - Integrate the Google Auth Service
