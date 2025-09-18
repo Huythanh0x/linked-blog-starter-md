@@ -182,11 +182,11 @@ AND (td.status != 0 OR td.status IS NULL);
 
 ### Query user DB by email
 ```SQL
-SELECT tenant_owners.*
-FROM tenant_owners
-JOIN memberships ON memberships."tenantOwnerId" = tenant_owners."tenantOwnerId"
-JOIN members ON members."memberId" = memberships."memberId"
-WHERE members.email = 'tuantm+1@vitalify.asia';
+	SELECT tenant_owners.*
+	FROM tenant_owners
+	JOIN memberships ON memberships."tenantOwnerId" = tenant_owners."tenantOwnerId"
+	JOIN members ON members."memberId" = memberships."memberId"
+	WHERE members.email = 'tuantm+1@vitalify.asia';
 ```
 # Feature
 ### Login
