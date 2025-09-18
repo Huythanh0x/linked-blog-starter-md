@@ -180,7 +180,10 @@ WHERE u.email = 'tuantm+1@vitalify.asia'
 AND (td.status != 0 OR td.status IS NULL);
 ```
 
-### Query user DB 
+### Query user DB by email
+```SQL
+
+```
 # Feature
 ### Login
 - Integrate the Google Auth Service
