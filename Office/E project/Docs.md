@@ -88,9 +88,6 @@ UNION ALL
 SELECT 'training_role_personality', COUNT(*) FROM \"enjoyworks_tenant\".training_role_personality
 
 UNION ALL
-SELECT 'owners', COUNT(*) FROM \"enjoyworks_tenant\".owners
-
-UNION ALL
 SELECT 'chat_messages', COUNT(*) FROM \"enjoyworks_tenant\".chat_messages
 
 UNION ALL
