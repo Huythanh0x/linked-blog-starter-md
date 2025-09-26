@@ -230,7 +230,7 @@ WHERE "tenantOwnerId" = '0c6144ce-ab0b-4182-9e78-8e251309dff6';
 
 #### Drop schema DB
 ```SQL
-DROP SCHEMA IF EXISTS "thanhvh_vitalify_asia_e88b76279e" CASCADE;
+DROP SCHEMA IF EXISTS "hommatest_gmail_com_6bdd739174" CASCADE;
 ```
 
 #### Delete postgres user
