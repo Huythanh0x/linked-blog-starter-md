@@ -275,7 +275,7 @@ DO $$
 
 DECLARE
 
-search_email constant text := 'thanhvh@vitalify.asia'; -- EDIT THIS EMAIL ONLY
+search_email constant text := 'hommatest@gmail.com'; -- EDIT THIS EMAIL ONLY
 
 found_tenant_owner_id uuid;
 
