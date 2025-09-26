@@ -183,7 +183,7 @@ SELECT tenant_owners.*
 	FROM tenant_owners
 	JOIN memberships ON memberships."tenantOwnerId" = tenant_owners."tenantOwnerId"
 	JOIN members ON members."memberId" = memberships."memberId"
-	WHERE members.email IN ('hommatest@gmail.com', 'thanhvh+user@vitalify.asia');
+	WHERE members.email IN ('hommatest@gmail.com');
 ```
 
 ### Delete user/tenant (member,  membership, users and related data to users)
