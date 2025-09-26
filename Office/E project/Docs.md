@@ -209,7 +209,7 @@ WHERE "email" IN ('hommatest@gmail.com');
 START TRANSACTION;
 
 DELETE FROM "tenant_signup_requests"
-WHERE "email" IN ('thanhvh@vitalify.asia', 'thanhvh+user@vitalify.asia');
+WHERE "email" IN ('hommatest@gmail.com');
 
 --COMMIT;
 ```
