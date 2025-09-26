@@ -195,8 +195,7 @@ DELETE FROM "memberships"
 WHERE "memberId" IN (
 SELECT "memberId"
 FROM "members"
-WHERE "email" IN ('trangiahon92@gmail.com', 'hontg+1@vitalify.asia', 'hommatest@gmail.com')
-);
+WHERE "email" IN ('thanhvh@vitalify.asia', 'thanhvh+user@vitalify.asia');
 
   
 
@@ -204,8 +203,7 @@ WHERE "email" IN ('trangiahon92@gmail.com', 'hontg+1@vitalify.asia', 'hommatest@
 
 DELETE FROM "members"
 
-WHERE "email" IN ('trangiahon92@gmail.com', 'hontg+1@vitalify.asia', 'hommatest@gmail.com');
-
+WHERE "email" IN ('thanhvh@vitalify.asia', 'thanhvh+user@vitalify.asia');
   
 
 -- If verification fails, you can rollback with ROLLBACK;
