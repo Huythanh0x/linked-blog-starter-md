@@ -219,11 +219,11 @@ START TRANSACTION;
 
 -- Step 1: Delete tenant connections first (they reference tenant owners)
 DELETE FROM "tenant_connections" 
-WHERE "tenantOwnerId" = '0c6144ce-ab0b-4182-9e78-8e251309dff6';
+WHERE "tenantOwnerId" = '10530eb7-e114-4e65-b55c-f4c72af1e282';
 
 -- Step 2: Delete tenant owner
 DELETE FROM "tenant_owners" 
-WHERE "tenantOwnerId" = '0c6144ce-ab0b-4182-9e78-8e251309dff6';
+WHERE "tenantOwnerId" = '10530eb7-e114-4e65-b55c-f4c72af1e282';
 
 COMMIT;
 ```
