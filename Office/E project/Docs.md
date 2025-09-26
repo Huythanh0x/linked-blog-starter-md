@@ -251,6 +251,8 @@ WHERE "email" IN ('trangiahon92@gmail.com', 'hontg+1@vitalify.asia');
 
 --COMMIT;
 ```
+
+#### Delete tenantDB (connection, DB, ownerID, )
 # Feature
 ### Login
 - Integrate the Google Auth Service
