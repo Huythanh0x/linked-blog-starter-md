@@ -239,6 +239,362 @@ DROP OWNED BY user_hommatest_gmail_com_6bdd739174;
 DROP USER user_hommatest_gmail_com_6bdd739174;
 
 ```
+### Drop tenant data completely (all in one)
+```
+-- ==============================================================================
+
+-- AUTOMATED TENANT DELETION SCRIPT
+
+-- ==============================================================================
+
+-- REQS: Takes an email input only and systematically removes:
+
+-- - Database schema & database user
+
+-- - All related members and memberships
+
+-- - Tenant connections
+
+-- - Tenant owner and requests
+
+-- ==============================================================================
+
+  
+
+-- STEP 1: Edit this line and change the email to delete
+
+-- \set_target_email 'hommatest@gmail.com'
+
+-- Then run the entire script
+
+  
+
+-- ========== ANONYMUS BLOCK TO DISCOVER ALL RELATIONSHIPS ==========
+
+DO $$
+
+DECLARE
+
+search_email constant text := 'thanhvh@vitalify.asia'; -- EDIT THIS EMAIL ONLY
+
+found_tenant_owner_id uuid;
+
+discovered_schema text;
+
+discovered_db_user text;
+
+all_tenant_user_emails text[] := '{}';
+
+all_members_to_delete text[];
+
+tenant_email_item text;
+
+process_start time := now();
+
+-- Counters for final report
+
+memberships_deleted int := 0;
+
+members_deleted int := 0;
+
+connections_deleted int := 0;
+
+owners_deleted int := 0;
+
+schemas_dropped int := 0;
+
+users_dropped int := 0;
+
+BEGIN
+
+RAISE NOTICE '==== Starting complete tenant deletion for: % ====', search_email;
+
+  
+
+-- ==================== STEP 1: DISCOVER TENANT STRUCTURE ====================
+
+RAISE NOTICE 'Step 1: Discovering tenant structure...';
+
+-- Get the tenant owner ID from email
+
+SELECT
+
+to_owner."tenantOwnerId"
+
+INTO found_tenant_owner_id
+
+FROM "tenant_owners" to_owner
+
+JOIN "memberships" ms ON ms."tenantOwnerId" = to_owner."tenantOwnerId"
+
+JOIN "members" m ON ms."memberId" = m."memberId"
+
+WHERE m."email" = search_email;
+
+IF found_tenant_owner_id IS NULL THEN
+
+RAISE NOTICE '❌ No tenant owner found for email: %. Exiting...', search_email;
+
+RETURN;
+
+END IF;
+
+RAISE NOTICE '✅ Found tenant owner: %', found_tenant_owner_id;
+
+-- Get schema and database user info
+
+SELECT
+
+tc."schemaName",
+
+tc."userName"
+
+INTO discovered_schema, discovered_db_user
+
+FROM "tenant_connections" tc
+
+WHERE tc."tenantOwnerId" = found_tenant_owner_id;
+
+RAISE NOTICE '✅ Schema found: % | DB User: %', discovered_schema, discovered_db_user;
+
+  
+
+-- ==================== STEP 2: DISCOVER ALL USERS ====================
+
+RAISE NOTICE 'Step 2: Discovering all users in tenant database...';
+
+IF discovered_schema IS NOT NULL THEN
+
+BEGIN
+
+-- Get all email addresses from the tenant database users table
+
+FOR tenant_email_item IN
+
+EXECUTE FORMAT('SELECT "email" FROM %I."users"', discovered_schema)
+
+LOOP
+
+all_tenant_user_emails := array_append(all_tenant_user_emails, tenant_email_item);
+
+END LOOP;
+
+RAISE NOTICE '✅ Found % tenant users', array_length(all_tenant_user_emails, 1);
+
+EXCEPTION WHEN OTHERS THEN
+
+RAISE NOTICE '⚠️ Could not access tenant database %. May not exist.', discovered_schema;
+
+END;
+
+END IF;
+
+-- ==================== STEP 3: DELETE DATABASE SCHEMA & USER ====================
+
+RAISE NOTICE 'Step 3: Dropping database schema and user...';
+
+-- Drop the schema from tenant
+
+IF discovered_schema IS NOT NULL THEN
+
+BEGIN
+
+EXECUTE 'DROP SCHEMA IF EXISTS "' || discovered_schema || '" CASCADE';
+
+RAISE NOTICE '✅ Dropped schema: %', discovered_schema;
+
+schemas_dropped := 1;
+
+EXCEPTION WHEN OTHERS THEN
+
+RAISE NOTICE '⚠️ Failed to drop schema %: %', discovered_schema, SQLERRM;
+
+END;
+
+END IF;
+
+-- Drop database user associated to tenant
+
+IF discovered_db_user IS NOT NULL THEN
+
+BEGIN
+
+EXECUTE 'DROP OWNED BY ' || discovered_db_user;
+
+EXECUTE 'DROP USER IF EXISTS ' || discovered_db_user;
+
+RAISE NOTICE '✅ Dropped database user: %', discovered_db_user;
+
+users_dropped := 1;
+
+EXCEPTION WHEN OTHERS THEN
+
+RAISE NOTICE '⚠️ Failed to drop user %: %', discovered_db_user, SQLERRM;
+
+END;
+
+END IF;
+
+  
+
+-- ==================== STEP 4: DELETE ALL MEMBER DATA ====================
+
+RAISE NOTICE 'Step 4: Removing all memberships and members...';
+
+-- Combine original email with any tenant database emails discovered
+
+all_members_to_delete := ARRAY[search_email];
+
+IF array_length(all_tenant_user_emails, 1) > 0 THEN
+
+all_members_to_delete := all_members_to_delete || all_tenant_user_emails;
+
+END IF;
+
+-- Remove duplicates
+
+all_members_to_delete := ARRAY(SELECT DISTINCT unnest(all_members_to_delete));
+
+RAISE NOTICE 'Deleting members for emails: %', all_members_to_delete;
+
+-- Delete memberships first (to remove foreign key constraints)
+
+DELETE FROM "memberships"
+
+WHERE "tenantOwnerId" = found_tenant_owner_id;
+
+GET DIAGNOSTICS memberships_deleted = ROW_COUNT;
+
+RAISE NOTICE '✅ Deleted % memberships', memberships_deleted;
+
+-- Delete all member records
+
+DELETE FROM "members"
+
+WHERE "email" = ANY(all_members_to_delete);
+
+GET DIAGNOSTICS members_deleted = ROW_COUNT;
+
+RAISE NOTICE '✅ Deleted % member records', members_deleted;
+
+  
+
+-- ==================== STEP 5: CLEANUP TENANT OWNER DATA ====================
+
+RAISE NOTICE 'Step 5: Removing tenant owner and signup pre-registration...';
+
+-- Delete signup requests (sometimes verify before deleting)
+
+IF EXISTS (SELECT FROM "tenant_signup_requests" WHERE "email" = search_email) THEN
+
+DELETE FROM "tenant_signup_requests" WHERE "email" = search_email;
+
+RAISE NOTICE '✅ Deleted signup request for %', search_email;
+
+ELSE
+
+RAISE NOTICE 'No signup request found for %', search_email;
+
+END IF;
+
+-- Delete tenant connections one-liner
+
+DELETE FROM "tenant_connections" WHERE "tenantOwnerId" = found_tenant_owner_id;
+
+GET DIAGNOSTICS connections_deleted = ROW_COUNT;
+
+RAISE NOTICE '✅ Deleted % tenant connection ''s', connections_deleted;
+
+-- Delete tenant owner
+
+DELETE FROM "tenant_owners" WHERE "tenantOwnerId" = found_tenant_owner_id;
+
+GET DIAGNOSTICS owners_deleted = ROW_COUNT;
+
+RAISE NOTICE '✅ Deleted % tenant owner records', owners_deleted;
+
+  
+
+-- ==================== STEP 6: VERIFY SUCCESS ====================
+
+RAISE NOTICE 'Step 6: Performing verification...';
+
+-- Check an extra member association remaining
+
+IF EXISTS (
+
+SELECT 1 FROM "members"
+
+WHERE "email" = search_email
+
+) THEN
+
+RAISE NOTICE '⚠️ WARNING: Member/s still exist in email %', search_email;
+
+END IF;
+
+IF EXISTS (
+
+SELECT 1
+
+FROM "tenant_owners" to_check
+
+WHERE to_check."tenantOwnerId" = found_tenant_owner_id
+
+) THEN
+
+RAISE NOTICE '⚠️ WARNING: Tenant owner still exists!';
+
+END IF;
+
+RAISE NOTICE '==== SUCCESS SUMMARY ====';
+
+RAISE NOTICE 'Members shortened: %', members_deleted;
+
+RAISE NOTICE 'Memberships cleared: %', memberships_deleted;
+
+RAISE NOTICE 'Owners removed: %', owners_deleted;
+
+RAISE NOTICE 'Schema dropped : %', schemas_dropped;
+
+RAISE NOTICE 'Database users revoke: %', users_dropped;
+
+RAISE NOTICE 'Total time elapsed: %', NOW() - process_start;
+
+IF (
+
+members_deleted > 0
+
+OR memberships_deleted > 0
+
+OR owners_deleted > 0
+
+OR schemas_dropped > 0
+
+OR users_dropped > 0
+
+) THEN
+
+RAISE NOTICE '🎯 TENANT WIPING COMPLETED SUCCESSFULLY FOR %', search_email;
+
+ELSE
+
+RAISE NOTICE '⚠️ NOTHING TO DELETE OR PROCESS ';
+
+END IF;
+
+  
+
+-- At this point, nothing related to the "grouped tenant" should remain
+
+END $$;
+
+  
+
+-- You can also set ::email_to_delete directly if your database shell supports vars:
+
+SELECT NULL AS status_after_deletion;
+```
 # Feature
 ### Login
 - Integrate the Google Auth Service
