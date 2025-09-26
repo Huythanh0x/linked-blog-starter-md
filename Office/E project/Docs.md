@@ -231,9 +231,6 @@ WHERE "tenantOwnerId" = '0c6144ce-ab0b-4182-9e78-8e251309dff6';
 #### Drop schema DB
 ```SQL
 DROP SCHEMA IF EXISTS "thanhvh_vitalify_asia_e88b76279e" CASCADE;
-
-  (SELECT COUNT(*) FROM information_schema.schemata WHERE schema_name = 'thanhvh_vitalify_asia_e88b76279e') as remaining_schema;
---COMMIT;
 ```
 # Feature
 ### Login
