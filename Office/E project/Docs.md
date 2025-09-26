@@ -231,7 +231,7 @@ SELECT "memberId"
 
 FROM "members"
 
-WHERE "email" IN ('trangiahon92@gmail.com', 'hontg+1@vitalify.asia')
+WHERE "email" IN ('trangiahon92@gmail.com', 'hontg+1@vitalify.asia', ')
 
 );
 
