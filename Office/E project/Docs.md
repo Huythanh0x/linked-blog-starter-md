@@ -177,7 +177,7 @@ WHERE u.email = 'tuantm+1@vitalify.asia'
 AND (td.status != 0 OR td.status IS NULL);
 ```
 
-### Query user DB by email
+### Query tenantowner DB by email
 ```SQL
 SELECT tenant_owners.*
 	FROM tenant_owners
