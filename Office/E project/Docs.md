@@ -183,7 +183,7 @@ SELECT tenant_owners.*
 	FROM tenant_owners
 	JOIN memberships ON memberships."tenantOwnerId" = tenant_owners."tenantOwnerId"
 	JOIN members ON members."memberId" = memberships."memberId"
-	WHERE members.email IN ('thanhvh@vitalify.asia', 'thanhvh+user@vitalify.asia');
+	WHERE members.email IN ('hommatest@gmail.com', 'thanhvh+user@vitalify.asia');
 ```
 
 ### Delete user/tenant (member,  membership, users and related data to users)
@@ -195,12 +195,12 @@ DELETE FROM "memberships"
 WHERE "memberId" IN (
     SELECT "memberId"
     FROM "members"
-    WHERE "email" IN ('thanhvh@vitalify.asia', 'thanhvh+user@vitalify.asia')
-);  -- <-- This closing parenthesis was missing
+    WHERE "email" IN ('hommatest@gmail.com')
+);
 
 -- Delete members
 DELETE FROM "members"
-WHERE "email" IN ('thanhvh@vitalify.asia', 'thanhvh+user@vitalify.asia');
+WHERE "email" IN ('hommatest@gmail.com');
 --COMMIT;
 ```
 
