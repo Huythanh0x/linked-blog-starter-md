@@ -179,7 +179,7 @@ AND (td.status != 0 OR td.status IS NULL);
 
 ### Query user DB by email
 ```SQL
-	SELECT tenant_owners.*
+ SELECT tenant_owners.*
 	FROM tenant_owners
 	JOIN memberships ON memberships."tenantOwnerId" = tenant_owners."tenantOwnerId"
 	JOIN members ON members."memberId" = memberships."memberId"
@@ -189,14 +189,6 @@ AND (td.status != 0 OR td.status IS NULL);
 ### Delete user/tenant (member,  membership, users and related data to users)
 #### Delete member and memberships (tenant and user)
 ```SQL
--- SQL Script to safely delete members and their memberships by email addresses
-
--- Emails: trangiahon92@gmail.com, hontg+1@vitalify.asia
-
--- This script uses transactions to ensure data integrity
-
-  
-
 START TRANSACTION;
 
   
