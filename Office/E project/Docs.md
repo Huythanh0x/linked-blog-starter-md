@@ -235,6 +235,8 @@ DROP SCHEMA IF EXISTS "thanhvh_vitalify_asia_e88b76279e" CASCADE;
 
 #### Delete postgres user
 ```SQL
+DROP OWNED BY user_thanhvh_vitalify_asia_e88b76279e;
+DROP USER user_thanhvh_vitalify_asia_e88b76279e;
 
 ```
 # Feature
