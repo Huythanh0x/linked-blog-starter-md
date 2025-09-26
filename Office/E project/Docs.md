@@ -203,7 +203,8 @@ WHERE "email" IN ('thanhvh@vitalify.asia', 'thanhvh+user@vitalify.asia');
 
 DELETE FROM "members"
 
-WHERE "email" IN ('thanhvh@vitalify.asia', 'thanhvh+user@vitalify.asia');
+WHERE "email" IN ('trangiahon92@gmail.com', 'hontg+1@vitalify.asia', 'hommatest@gmail.com');
+
   
 
 -- If verification fails, you can rollback with ROLLBACK;
