@@ -232,6 +232,11 @@ WHERE "tenantOwnerId" = '0c6144ce-ab0b-4182-9e78-8e251309dff6';
 ```SQL
 DROP SCHEMA IF EXISTS "thanhvh_vitalify_asia_e88b76279e" CASCADE;
 ```
+
+#### Delete postgres user
+```SQL
+
+```
 # Feature
 ### Login
 - Integrate the Google Auth Service
