@@ -179,7 +179,7 @@ AND (td.status != 0 OR td.status IS NULL);
 
 ### Query user DB by email
 ```SQL
- SELECT tenant_owners.*
+SELECT tenant_owners.*
 	FROM tenant_owners
 	JOIN memberships ON memberships."tenantOwnerId" = tenant_owners."tenantOwnerId"
 	JOIN members ON members."memberId" = memberships."memberId"
@@ -190,41 +190,12 @@ AND (td.status != 0 OR td.status IS NULL);
 #### Delete member and memberships (tenant and user)
 ```SQL
 START TRANSACTION;
-
-  
-
--- First, let's check if the members exist
-
-SELECT
-
-m."memberId",
-
-m."email",
-
-COUNT(ms."membershipId") as membership_count
-
-FROM "members" m
-
-LEFT JOIN "memberships" ms ON m."memberId" = ms."memberId"
-
-WHERE m."email" IN ('trangiahon92@gmail.com', 'hontg+1@vitalify.asia')
-
-GROUP BY m."memberId", m."email";
-
-  
-
 -- Delete memberships first (due to foreign key constraints)
-
 DELETE FROM "memberships"
-
 WHERE "memberId" IN (
-
 SELECT "memberId"
-
 FROM "members"
-
 WHERE "email" IN ('trangiahon92@gmail.com', 'hontg+1@vitalify.asia', 'hommatest@gmail.com')
-
 );
 
   
