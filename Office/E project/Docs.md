@@ -204,6 +204,15 @@ WHERE "email" IN ('thanhvh@vitalify.asia', 'thanhvh+user@vitalify.asia');
 --COMMIT;
 ```
 
+####
+```SQL
+START TRANSACTION;
+
+DELETE FROM "tenant_signup_requests"
+WHERE "email" IN ('thanhvh@vitalify.asia', 'thanhvh+user@vitalify.asia');
+
+--COMMIT;
+```
 #### Delete tenantDB (connection, and tenant owner ) 
 ```SQL
 START TRANSACTION;
@@ -242,20 +251,6 @@ DROP SCHEMA IF EXISTS "SCHEMA_NAME_HERE" CASCADE;
 -- If verification shows non-zero counts, run ROLLBACK;
 
 -- If everything shows zeros, commit the transaction:
-
---COMMIT;
-```
-####
-```SQL
-START TRANSACTION;
-
-  
-
-DELETE FROM "tenant_signup_requests"
-
-WHERE "email" = 'hommatest@gmail.com';
-
-  
 
 --COMMIT;
 ```
