@@ -206,28 +206,16 @@ WHERE "email" IN ('thanhvh@vitalify.asia', 'thanhvh+user@vitalify.asia');
 
 #### Delete tenantDB (connection, and tenant owner ) 
 ```SQL
--- SQL Script to delete tenant connections and tenant owners by tenantOwnerId
--- Replace 'YOUR_TENANT_OWNER_ID_HERE' with the actual tenantOwnerId
--- This script uses transactions to ensure data integrity
-
 START TRANSACTION;
 
 -- Step 1: Delete tenant connections first (they reference tenant owners)
 DELETE FROM "tenant_connections" 
-WHERE "tenantOwnerId" = '4a099ed5-0e70-4f5d-b622-870f2cb18402';
+WHERE "tenantOwnerId" = '5878a9dd-3f8e-45a6-b7e6-2d4ea61d81f6';
 
 -- Step 2: Delete tenant owner
 DELETE FROM "tenant_owners" 
-WHERE "tenantOwnerId" = '4a099ed5-0e70-4f5d-b622-870f2cb18402';
+WHERE "tenantOwnerId" = '5878a9dd-3f8e-45a6-b7e6-2d4ea61d81f6';
 
--- Step 3: Verify deletions
-SELECT 
-    'COMPLETION CHECK' as status,
-    (SELECT COUNT(*) FROM "tenant_owners" WHERE "tenantOwnerId" = '4a099ed5-0e70-4f5d-b622-870f2cb18402') as remaining_tenant_owner,
-    (SELECT COUNT(*) FROM "tenant_connections" WHERE "tenantOwnerId" = '4a099ed5-0e70-4f5d-b622-870f2cb18402') as remaining_tenant_connections;
-
--- If verification shows non-zero counts, run ROLLBACK;
--- If everything shows zeros, commit the transaction:
 -- COMMIT;
 ```
 
