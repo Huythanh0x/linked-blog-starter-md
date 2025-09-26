@@ -185,6 +185,8 @@ AND (td.status != 0 OR td.status IS NULL);
 	JOIN members ON members."memberId" = memberships."memberId"
 	WHERE members.email = 'tuantm+1@vitalify.asia';
 ```
+
+### Delete user (member,  membership, users and related data to users)
 # Feature
 ### Login
 - Integrate the Google Auth Service
