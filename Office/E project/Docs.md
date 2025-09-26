@@ -204,7 +204,7 @@ WHERE "email" IN ('hommatest@gmail.com');
 --COMMIT;
 ```
 
-####
+#### Tenant Sign up
 ```SQL
 START TRANSACTION;
 
