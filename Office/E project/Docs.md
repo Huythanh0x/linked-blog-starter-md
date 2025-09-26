@@ -190,27 +190,17 @@ SELECT tenant_owners.*
 #### Delete member and memberships (tenant and user)
 ```SQL
 START TRANSACTION;
--- Delete memberships first (due to foreign key constraints)
+-- Delete membersips
 DELETE FROM "memberships"
 WHERE "memberId" IN (
-SELECT "memberId"
-FROM "members"
-WHERE "email" IN ('thanhvh@vitalify.asia', 'thanhvh+user@vitalify.asia');
+    SELECT "memberId"
+    FROM "members"
+    WHERE "email" IN ('thanhvh@vitalify.asia', 'thanhvh+user@vitalify.asia')
+);  -- <-- This closing parenthesis was missing
 
-  
-
--- Delete the members (only after memberships are deleted)
-
+-- Delete members
 DELETE FROM "members"
-
-WHERE "email" IN ('trangiahon92@gmail.com', 'hontg+1@vitalify.asia', 'hommatest@gmail.com');
-
-  
-
--- If verification fails, you can rollback with ROLLBACK;
-
--- If everything looks good, commit with:
-
+WHERE "email" IN ('thanhvh@vitalify.asia', 'thanhvh+user@vitalify.asia');
 --COMMIT;
 ```
 
