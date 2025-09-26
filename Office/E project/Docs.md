@@ -230,28 +230,9 @@ WHERE "tenantOwnerId" = '0c6144ce-ab0b-4182-9e78-8e251309dff6';
 
 #### Drop schema DB
 ```SQL
--- SQL Script to delete tenant connections, tenant owners AND drop schema by tenantOwnerId
+DROP SCHEMA IF EXISTS "thanhvh_vitalify_asia_e88b76279e" CASCADE;
 
--- Replace 'YOUR_TENANT_OWNER_ID_HERE' with the actual tenantOwnerId
-
--- Replace 'SCHEMA_NAME_HERE' with the actual schema name
-
--- This script uses transactions to ensure data integrity
-
-  
-
-START TRANSACTION;
-
-  
-DROP SCHEMA IF EXISTS "SCHEMA_NAME_HERE" CASCADE;
-
-  
-(SELECT COUNT(*) FROM information_schema.schemata WHERE schema_name = 'SCHEMA_NAME_HERE') as remaining_schema;
-
--- If verification shows non-zero counts, run ROLLBACK;
-
--- If everything shows zeros, commit the transaction:
-
+  (SELECT COUNT(*) FROM information_schema.schemata WHERE schema_name = 'thanhvh_vitalify_asia_e88b76279e') as remaining_schema;
 --COMMIT;
 ```
 # Feature
