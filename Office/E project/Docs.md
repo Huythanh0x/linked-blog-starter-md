@@ -201,7 +201,7 @@ WHERE "memberId" IN (
 -- Delete members
 DELETE FROM "members"
 WHERE "email" IN ('hommatest@gmail.com');
---COMMIT;
+COMMIT;
 ```
 
 #### Tenant Sign up
@@ -211,7 +211,7 @@ START TRANSACTION;
 DELETE FROM "tenant_signup_requests"
 WHERE "email" IN ('hommatest@gmail.com');
 
---COMMIT;
+COMMIT;
 ```
 #### Delete tenantDB (connection, and tenant owner ) 
 ```SQL
@@ -225,7 +225,7 @@ WHERE "tenantOwnerId" = '0c6144ce-ab0b-4182-9e78-8e251309dff6';
 DELETE FROM "tenant_owners" 
 WHERE "tenantOwnerId" = '0c6144ce-ab0b-4182-9e78-8e251309dff6';
 
--- COMMIT;
+COMMIT;
 ```
 
 #### Drop schema DB
