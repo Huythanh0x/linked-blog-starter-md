@@ -235,8 +235,8 @@ DROP SCHEMA IF EXISTS "hommatest_gmail_com_6bdd739174" CASCADE;
 
 #### Delete postgres user
 ```SQL
-DROP OWNED BY user_thanhvh_vitalify_asia_e88b76279e;
-DROP USER user_thanhvh_vitalify_asia_e88b76279e;
+DROP OWNED BY user_hommatest_gmail_com_6bdd739174;
+DROP USER user_hommatest_gmail_com_6bdd739174;
 
 ```
 # Feature
