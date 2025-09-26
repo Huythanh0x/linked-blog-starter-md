@@ -186,7 +186,71 @@ AND (td.status != 0 OR td.status IS NULL);
 	WHERE members.email = 'tuantm+1@vitalify.asia';
 ```
 
-### Delete user (member,  membership, users and related data to users)
+### Delete user/tenant (member,  membership, users and related data to users)
+#### Delete member and memberships (tenant and user)
+```SQL
+-- SQL Script to safely delete members and their memberships by email addresses
+
+-- Emails: trangiahon92@gmail.com, hontg+1@vitalify.asia
+
+-- This script uses transactions to ensure data integrity
+
+  
+
+START TRANSACTION;
+
+  
+
+-- First, let's check if the members exist
+
+SELECT
+
+m."memberId",
+
+m."email",
+
+COUNT(ms."membershipId") as membership_count
+
+FROM "members" m
+
+LEFT JOIN "memberships" ms ON m."memberId" = ms."memberId"
+
+WHERE m."email" IN ('trangiahon92@gmail.com', 'hontg+1@vitalify.asia')
+
+GROUP BY m."memberId", m."email";
+
+  
+
+-- Delete memberships first (due to foreign key constraints)
+
+DELETE FROM "memberships"
+
+WHERE "memberId" IN (
+
+SELECT "memberId"
+
+FROM "members"
+
+WHERE "email" IN ('trangiahon92@gmail.com', 'hontg+1@vitalify.asia')
+
+);
+
+  
+
+-- Delete the members (only after memberships are deleted)
+
+DELETE FROM "members"
+
+WHERE "email" IN ('trangiahon92@gmail.com', 'hontg+1@vitalify.asia');
+
+  
+
+-- If verification fails, you can rollback with ROLLBACK;
+
+-- If everything looks good, commit with:
+
+--COMMIT;
+```
 # Feature
 ### Login
 - Integrate the Google Auth Service
