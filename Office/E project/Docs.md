@@ -241,7 +241,7 @@ WHERE "email" IN ('trangiahon92@gmail.com', 'hontg+1@vitalify.asia', 'hommatest@
 
 DELETE FROM "members"
 
-WHERE "email" IN ('trangiahon92@gmail.com', 'hontg+1@vitalify.asia');
+WHERE "email" IN ('trangiahon92@gmail.com', 'hontg+1@vitalify.asia', 'hommatest@gmail.com');
 
   
 
