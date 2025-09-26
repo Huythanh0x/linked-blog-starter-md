@@ -240,7 +240,7 @@ DROP USER user_hommatest_gmail_com_6bdd739174;
 
 ```
 ### Drop tenant data completely (all in one)
-```
+```SQL
 -- ==============================================================================
 
 -- AUTOMATED TENANT DELETION SCRIPT
