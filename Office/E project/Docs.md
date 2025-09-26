@@ -305,6 +305,20 @@ DROP SCHEMA IF EXISTS "SCHEMA_NAME_HERE" CASCADE;
 
 --COMMIT;
 ```
+####
+```SQL
+START TRANSACTION;
+
+  
+
+DELETE FROM "tenant_signup_requests"
+
+WHERE "email" = 'hommatest@gmail.com';
+
+  
+
+--COMMIT;
+```
 # Feature
 ### Login
 - Integrate the Google Auth Service
