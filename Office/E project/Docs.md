@@ -183,7 +183,7 @@ AND (td.status != 0 OR td.status IS NULL);
 	FROM tenant_owners
 	JOIN memberships ON memberships."tenantOwnerId" = tenant_owners."tenantOwnerId"
 	JOIN members ON members."memberId" = memberships."memberId"
-	WHERE members.email = 'tuantm+1@vitalify.asia';
+	WHERE members.email IN ('thanhvh@vitalify.asia', 'thanhvh+user@vitalify.asia');
 ```
 
 ### Delete user/tenant (member,  membership, users and related data to users)
