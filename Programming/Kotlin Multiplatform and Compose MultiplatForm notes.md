@@ -9,3 +9,9 @@
 - FastLane
 - Payment
 - Ads
+### How to build the project for multi target
+#### Android
+Run on the UI
+IOS 
+Run on The UI
+### SqlDelight commands
