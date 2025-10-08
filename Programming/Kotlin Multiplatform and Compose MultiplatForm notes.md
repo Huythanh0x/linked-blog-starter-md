@@ -1,5 +1,5 @@
 #KMP #CPM #KotlinMultiplatForm #ComposeMultiplatform
-# Key components
+# Project components
 - Compose Navigation 
 - Firebase (3rd lib) -> Auth, Push Notification, Database, Crash analytics
 - SqlDelight (or RoomDB)
