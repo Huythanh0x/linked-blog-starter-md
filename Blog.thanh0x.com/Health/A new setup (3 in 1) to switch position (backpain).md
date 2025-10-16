@@ -27,7 +27,7 @@ I accidentially broke my LG QHD monitor so I find a new one (old 4k from my form
 - Easy to use (in this set up)
 - Does have to move the hand around (just your finger)
 - Quite big for my hand, and required the 3D  based to make it comfortable to use
-There is a 2.8" [[Toggl Arduino - Time Tracking anywhere]]put inmy eye-sight so that I can quickly glance and tell that how long have I been a a position
+There is a 2.8" [[Toggl Arduino - Time Tracking anywhere]]put inmy eye-sight so that I can quickly glance and tell that how long have I been lying still. THis is important as I have [[Herniated dis at the age of 23 as developer]]
 ### Seating
 Nothing special, since I took back the sapce and can have a use it to setup my desk.
 It's quite small to I put strong hard big panel on top. Then I could easily switch betweenn lying and seating within my room. Right.
