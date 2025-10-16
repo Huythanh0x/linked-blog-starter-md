@@ -9,4 +9,6 @@ Before opening the app, adjust your local date time to a future in a day. So for
 Sample: I can not explicitly mentioned it as there is no available reference for it. But it tried it with one of the app I'm using [[All the apps I am using]]
 ### Network manipulation
 ##### One Time check
+Mock Json one time and it upgraded to the premium user and be there forever.
 ##### Every day check
+Mock json and have always o
