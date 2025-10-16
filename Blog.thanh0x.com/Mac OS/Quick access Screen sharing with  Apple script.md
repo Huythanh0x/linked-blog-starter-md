@@ -1,1 +1,1 @@
-So apple introduce this feature to 
+So apple introduce this feature to let use [remote control] another apple device (macbook , macmini). And since I have 2. And I constnatly switch between them but still want to work on the old session.
