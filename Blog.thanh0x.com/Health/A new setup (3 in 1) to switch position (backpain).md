@@ -27,11 +27,14 @@ I accidentially broke my LG QHD monitor so I find a new one (old 4k from my form
 - Easy to use (in this set up)
 - Does have to move the hand around (just your finger)
 - Quite big for my hand, and required the 3D  based to make it comfortable to use
+##### 2.8" Toggl Arduino Time Tracking
 There is a 2.8" [[Toggl Arduino - Time Tracking anywhere]]put in my eye-sight so that I can quickly glance and tell that how long have I been lying still. THis is important as I have [[Herniated dis at the age of 23 as developer]] And this is an effective way for my to tackle the real cause of my pain
 ### Seating
 Nothing special, since I took back the space and can have a use it to setup my desk.
 It's quite small to I put strong hard big panel on top. Then I could easily switch betweenn lying and seating within my room. Right.
 But according to this research <link>, standing is much ease for the spine than seating. SO we go to the next position
+##### My Macbook as main machine
+My company give it for all employee
 
 
 ### Standing
