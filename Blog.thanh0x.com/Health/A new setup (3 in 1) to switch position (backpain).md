@@ -40,7 +40,7 @@ Use sidecar  feature for this purpose, sometimes required me to wired connect. B
 **Note** I have build [[Quick command to use Ipad as Second monitor (Sidecar - Apple script)]] to quickly connect to Ipad and convert it to 2nd instead of manually setting every time
 
 ##### Cheapest alunium machenic keyboard M1W (2023)
-My first goode 
+My first decent macenic keyboard. I use this while seating down and doing some Blogging stuff. As this is the best keyboard I have and seating is most effective psotion to w
 
 
 ### Standing
