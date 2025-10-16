@@ -39,6 +39,9 @@ My company give it for all employee, m1 8GB ram. Yeah you read it right 8GB of R
 Use sidecar  feature for this purpose, sometimes required me to wired connect. But most of the time just wirelessly
 **Note** I have build [[Quick command to use Ipad as Second monitor (Sidecar - Apple script)]] to quickly connect to Ipad and convert it to 2nd instead of manually setting every time
 
+##### Cheapest alunium machenic keyboard M1W (2023)
+My first goode 
+
 
 ### Standing
 Put a smaller table of top and Have a decitated set of keyboard/mouse for 2 position(built-in key board for the mac) and external while seating
