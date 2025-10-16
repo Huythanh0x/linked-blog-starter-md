@@ -52,4 +52,4 @@ It have built-in speaker, larger to easier to click on item.
 
 ### Standing
 Put a smaller table of top and that's.
-Basically the same as 
+I use basically the same setup as seating but standing and have to adjust the monitor (macbook/ipad) angle.
