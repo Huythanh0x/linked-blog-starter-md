@@ -24,7 +24,9 @@ I accidentially broke my LG QHD monitor so I find a new one (old 4k from my form
 - Trackpoint (super effecive as I'm lying down)
 - Expensive and quite hard to find (I ordered it from japanese)
 ##### Logitech M575 track ball
-- 
+- Easy to use (in this set up)
+- Does have to move the hand around (just your finger)
+- Quite big for my hand, and required the 3D  based to make it comfortable to use
 ### Seating
 Nothing special, since I took back the sapce and can have a use it to setup my desk.
 It's quite small to I put strong hard big panel on top. Then I could easily switch betweenn lying and seating within my room. Right.
