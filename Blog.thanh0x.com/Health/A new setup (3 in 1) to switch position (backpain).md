@@ -46,8 +46,9 @@ My first decent macenic keyboard. I use this while seating down and doing some B
 The same form as Master 3s but smaller and super comfortable. Quite heavy when switch from G304 (another really good mouse)
 Have lot of button to config too. 
 
-##### 2.8" Toggl Arduino Time Tracking
-
+##### 5" Toggl Arduino Time Tracking
+Of course, I need a screen to show how long I have been standing. ANd this one is much bigger than 2.8" as I usually use this as input too.
+It have b
 
 ### Standing
 Put a smaller table of top and Have a decitated set of keyboard/mouse for 2 position(built-in key board for the mac) and external while seating
