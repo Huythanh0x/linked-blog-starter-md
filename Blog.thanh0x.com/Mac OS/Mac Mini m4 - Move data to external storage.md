@@ -1,5 +1,8 @@
 The base model (16-256) is a bargain. And 16GB ram is comfortable for most user, but the storage at 256 is still so limited. Increase to 512 is to expensive (200 dollars), while with that 200$ I could have 2TB setup in which have the not noticable performance as internal drive.
 Once you have the External drive, you need to choose which way to intergate to your system. There are 3 ways and I would go to each of them 
+
+</table of contents></>
+
 ### 1. ln -s (My old approach)
 ##### Only move certain folders (usually not important) to the external drive.
 ##### Cause a lot of issues sometimes
@@ -20,3 +23,5 @@ The internal drive still can be max out and not usable in some cases and <mark s
 **Note My 2TB NVME died and lost everything and the drive was bend due to the heat**
 ##### Quite not safe in my opinion (connect), the SSD fail for example.
 
+
+So as I list out 3 op
