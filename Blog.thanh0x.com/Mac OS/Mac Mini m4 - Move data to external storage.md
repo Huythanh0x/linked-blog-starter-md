@@ -2,7 +2,8 @@
 ##### Only move certain folders (usually not important) to the external drive.
 ##### Cause a lot of issues sometimes
 + such as move the wrong folder and not link it back correctly the related app could be malfunction. <mark style="background: #BBFABBA6;">Still can boot and use the device but not related apps</mark>
-##### Not maximize the 
+##### Not maximize the external storage as some big file cannot move (Library/Caches)
+The internal drie still can be max out and not usuabe
 **Note of command with absolute path**
 
 ### 2. Having an user profile on the external storage
