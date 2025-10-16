@@ -7,5 +7,5 @@ I tried this but failed as I have not set up the right angle and might be discof
 ##### Then move the entire setup to my bed also table. 
 - The air condition
 - But quite not stable as the time go by
-- A wast of big space which I can ut
+- A wast of big space which I can utilaize to have to exercise or stand to work
 ##### ANd end up with mounting to the Wall.
