@@ -3,14 +3,14 @@
 ##### Cause a lot of issues sometimes
 + such as move the wrong folder and not link it back correctly the related app could be malfunction. <mark style="background: #BBFABBA6;">Still can boot and use the device but not related apps</mark>
 ##### Not maximize the external storage as some big file cannot move (Library/Caches)
-The internal drie still can be max out and not usuabe
+The internal drive still can be max out and not usable in some cases and <mark style="background: #FF5582A6;">required restart</mark>
 **Note of command with absolute path**
 
 ### 2. Having an user profile on the external storage
 ##### Still usable in case of failed SSD
 ##### All data are in one disk and doesn't cause not found path issue
 
-
+##### Maximize the usae of the 
 ### 3. Booth from external drive (Not suitable for most)
 ##### This require a fast speed SSD and enclosure (NVME with thunderbolt 4 enclosure) 
 
