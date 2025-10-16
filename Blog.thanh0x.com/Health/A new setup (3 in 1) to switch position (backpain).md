@@ -13,7 +13,11 @@ I tried this but failed as I have not set up the right angle and might be discof
 - Regain the space to have a set up for the desk (stand, seat)
 #### Setup
 ##### Dual monitor
-I accidenti broke my LG QHD monitor so I find a new one (old 4k from my former leader)
+I accidentially broke my LG QHD monitor so I find a new one (old 4k from my former leader)
+
+##### ARM and mounting (the core of this setup)
+- NB 80 and NB 180
+##### Thinkpad keyboard
 ### Seating
 Nothing special, since I took back the sapce and can have a use it to setup my desk.
 It's quite small to I put strong hard big panel on top. Then I could easily switch betweenn lying and seating within my room. Right.
