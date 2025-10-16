@@ -20,5 +20,6 @@ We got to this step when all above is not possible. For some reason
 + The file are not found to delete, so they store the trial date some where which we cannot found
 + The network reponse have a hash or token which verify client/server. Which we can not mock
 ##### Inject the code
-
-##### Reverse Engineering and recompile with modified logic
+Quite easy and usually works on Windows, Android or Jailbr
+##### Reverse Engineering and recompile with modified logic (Hard or SuperHard)
+Depends
