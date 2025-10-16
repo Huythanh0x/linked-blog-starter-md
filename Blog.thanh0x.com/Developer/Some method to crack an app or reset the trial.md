@@ -7,13 +7,15 @@ Sample:
 ##### Adjust expired date
 Before opening the app, adjust your local date time to a future in a day. So for example the app let you have 7 days of trial. When change the time to 30 days later and open the app, it trigger the app to think that the date of expired is 37 (30+7) later. Then you revert your local time and enjoy extended trial time
 Sample: I can not explicitly mentioned it as there is no available reference for it. But it tried it with one of the app I'm using [[All the apps I am using]]
-### Network manipulation ()
+### Network manipulation (medium)
 ##### One Time check
 Mock Json one time and it upgraded to the premium user and be there forever.
 ##### Every day check
 Mock json and have always on to return valid verify reponse each time the app request to the server
 
-### Manipulate the code
-We got to this step when all above is 
+### Manipulate the code (hard-super hard)
+We got to this step when all above is not possible. For some reason
++ The file are not found to delete, so they store the trial date some where which we cannot found
++ The network reponse have a hash
 ##### Inject the code
 ##### Reverse Engineering and recompile with modified logic
