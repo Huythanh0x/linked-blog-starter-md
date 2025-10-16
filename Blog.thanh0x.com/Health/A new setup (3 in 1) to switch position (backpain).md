@@ -34,7 +34,9 @@ Nothing special, since I took back the space and can have a use it to setup my d
 It's quite small to I put strong hard big panel on top. Then I could easily switch betweenn lying and seating within my room. Right.
 But according to this research <link>, standing is much ease for the spine than seating. SO we go to the next position
 ##### My Macbook as main machine
-My company give it for all employee
+My company give it for all employee, m1 8GB ram. Yeah you read it right 8GB of RAM for mobile dev in 2025
+##### My Ipad gen 9 (2021) as secondary monitor
+Use sidecar  feature for this 
 
 
 ### Standing
