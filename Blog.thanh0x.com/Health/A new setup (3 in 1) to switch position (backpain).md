@@ -1,5 +1,5 @@
 
-#### Lying upward 
+### Lying upward 
 I tried this but failed as I have not set up the right angle and might be discofort to use at first. Then found Pirate King Video and setup again.
 ##### Old setup
 ##### At firs mount it at my living room (into the table). 
@@ -11,3 +11,5 @@ I tried this but failed as I have not set up the right angle and might be discof
 ##### ANd end up with mounting to the Wall.
 - More Stable, higher. Permanant [[I could only WFH]]
 - Regain the space to have a set up for the desk (stand, seat)
+### Seating and Standing
+Nothing special, since I took back the sapce and can 
