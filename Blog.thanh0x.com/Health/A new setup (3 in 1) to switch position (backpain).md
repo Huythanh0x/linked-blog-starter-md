@@ -5,4 +5,7 @@ I tried this but failed as I have not set up the right angle and might be discof
 ##### At firs mount it at my living room (into the table). 
 - Try it and love it but so hot outside
 ##### Then move the entire setup to my bed also table. 
+- The air condition
+- But quite not stable as the time go by
+- A wast of big space which I can ut
 ##### ANd end up with mounting to the Wall.
