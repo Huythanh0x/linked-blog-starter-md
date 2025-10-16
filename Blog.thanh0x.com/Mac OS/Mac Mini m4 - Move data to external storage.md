@@ -1,5 +1,5 @@
 The base model (16-256) is a bargain. And 16GB ram is comfortable for most user, but the storage at 256 is still so limited. Increase to 512 is to expensive (200 dollars), while with that 200$ I could have 2TB setup in which have the not noticable performance as internal drive.
-But once you have the drive/enclosure. You have to choose how to split and put those data
+Once you have the External drive, you need to choose which way to intergate to your system. There are 3 ways and I would go to each of them 
 ### 1. ln -s (My old approach)
 ##### Only move certain folders (usually not important) to the external drive.
 ##### Cause a lot of issues sometimes
