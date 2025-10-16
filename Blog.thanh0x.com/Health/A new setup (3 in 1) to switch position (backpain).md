@@ -12,4 +12,5 @@ I tried this but failed as I have not set up the right angle and might be discof
 - More Stable, higher. Permanant [[I could only WFH]]
 - Regain the space to have a set up for the desk (stand, seat)
 ### Seating and Standing
-Nothing special, since I took back the sapce and can 
+Nothing special, since I took back the sapce and can have a use it to setup my desk.
+And at that desk I put a smaller table on top so I 
