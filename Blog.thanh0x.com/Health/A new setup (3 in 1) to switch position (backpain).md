@@ -36,7 +36,8 @@ But according to this research <link>, standing is much ease for the spine than 
 ##### My Macbook as main machine
 My company give it for all employee, m1 8GB ram. Yeah you read it right 8GB of RAM for mobile dev in 2025
 ##### My Ipad gen 9 (2021) as secondary monitor
-Use sidecar  feature for this 
+Use sidecar  feature for this purpose, sometimes required me to wired connect. But most of the time just wirelessly
+**Note** I have build [[]]
 
 
 ### Standing
