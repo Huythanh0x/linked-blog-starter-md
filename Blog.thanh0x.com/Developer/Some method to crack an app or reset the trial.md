@@ -10,12 +10,15 @@ Sample: I can not explicitly mentioned it as there is no available reference for
 ### Network manipulation (medium)
 ##### One Time check
 Mock Json one time and it upgraded to the premium user and be there forever.
+```Sample code of MITM
+```
 ##### Every day check
 Mock json and have always on to return valid verify reponse each time the app request to the server
 
-### Manipulate the code (hard-super hard)
+### Manipulate the code (medium-hard-super hard)
 We got to this step when all above is not possible. For some reason
 + The file are not found to delete, so they store the trial date some where which we cannot found
-+ The network reponse have a hash
++ The network reponse have a hash or token which verify client/server. Which we can not mock
 ##### Inject the code
+
 ##### Reverse Engineering and recompile with modified logic
