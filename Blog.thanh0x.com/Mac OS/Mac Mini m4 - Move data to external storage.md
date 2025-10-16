@@ -1,3 +1,4 @@
+The base model (16-256) is a bargain. And 16GB ram is comfortable for most user, but the storage at 256 is still so limit
 ### 1. ln -s (My old approach)
 ##### Only move certain folders (usually not important) to the external drive.
 ##### Cause a lot of issues sometimes
@@ -10,7 +11,7 @@ The internal drive still can be max out and not usable in some cases and <mark s
 ##### Still usable in case of failed SSD
 ##### All data are in one disk and doesn't cause not found path issue
 
-##### Maximize the usae of the 
+##### Maximize the usae of the external disk (could be 1tb or 2Tb)
 ### 3. Booth from external drive (Not suitable for most)
 ##### This require a fast speed SSD and enclosure (NVME with thunderbolt 4 enclosure) 
 
