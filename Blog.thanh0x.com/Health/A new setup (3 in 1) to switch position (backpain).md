@@ -14,4 +14,7 @@ I tried this but failed as I have not set up the right angle and might be discof
 ### Seating
 Nothing special, since I took back the sapce and can have a use it to setup my desk.
 It's quite small to I put strong hard big panel on top. Then I could easily switch betweenn lying and seating within my room. Right.
-But according to this research <link>, standing is much ease for the spine than seat
+But according to this research <link>, standing is much ease for the spine than seating. SO we go to the next 
+
+### Standing
+Put a smaller table of top 
