@@ -1,4 +1,4 @@
-#blog
+#blog-layout 
 The base model (16-256) is a bargain. And 16GB ram is comfortable for most user, but the storage at 256 is still so limited. Increase to 512 is to expensive (200 dollars), while with that 200$ I could have 2TB setup in which have the not noticable performance as internal drive.
 Once you have the External drive, you need to choose which way to intergate to your system. There are 3 ways and I would go to each of them 
 
