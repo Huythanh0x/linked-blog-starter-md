@@ -21,7 +21,8 @@ I accidentially broke my LG QHD monitor so I find a new one (old 4k from my form
 ##### Thinkpad keyboard
 - Super Light
 - Decent typing expericen
-- Trackpoint()
+- Trackpoint (super effecive as I'm lying down)
+- Expensive and quite hard to find ()
 ### Seating
 Nothing special, since I took back the sapce and can have a use it to setup my desk.
 It's quite small to I put strong hard big panel on top. Then I could easily switch betweenn lying and seating within my room. Right.
