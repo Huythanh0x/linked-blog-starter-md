@@ -17,7 +17,11 @@ I accidentially broke my LG QHD monitor so I find a new one (old 4k from my form
 
 ##### ARM and mounting (the core of this setup)
 - NB 80 and NB 180
+- My father handmade mounting pattern
 ##### Thinkpad keyboard
+- Super Light
+- Decent typing expericen
+- Trackpoint()
 ### Seating
 Nothing special, since I took back the sapce and can have a use it to setup my desk.
 It's quite small to I put strong hard big panel on top. Then I could easily switch betweenn lying and seating within my room. Right.
