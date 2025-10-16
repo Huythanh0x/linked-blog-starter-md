@@ -43,7 +43,10 @@ Use sidecar  feature for this purpose, sometimes required me to wired connect. B
 My first decent macenic keyboard. I use this while seating down and doing some Blogging stuff. As this is the best keyboard I have and seating is most effective psotion to work
 
 ##### Logitech m720, really good mouse with lot of programmatic buttons
-The same form as Master 3s but smaller and super comforta
+The same form as Master 3s but smaller and super comfortable. Quite heavy when switch from G304 (another really good mouse)
+Have lot of button to config too. 
+
+##### 2.8" Toggl Arduino Time Tracking
 
 
 ### Standing
