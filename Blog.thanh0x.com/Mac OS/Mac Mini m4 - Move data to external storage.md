@@ -24,4 +24,5 @@ The internal drive still can be max out and not usable in some cases and <mark s
 ##### Quite not safe in my opinion (connect), the SSD fail for example.
 
 
-So as I list out 3 options above, the option 2 is the most optimal one. The first option is ease of use
+So as I list out 3 options above, the option 2 is the most optimal one. The first option is ease of use.
+Reference and guide for each way
