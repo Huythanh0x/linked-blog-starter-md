@@ -3,5 +3,9 @@
 ##### Cause a lot of issues sometimes
 + such as move the wrong folder and not link it back correctly the related app could be malfunction.
 **Note of command with absolute path**
-### 3. Booth from external drive (Not )
-This require a fast speed SSD and enclosure (NVME with thunderbolt 4 enclosure) and it usually hot too.
+### 3. Booth from external drive (Not suitable for most)
+##### This require a fast speed SSD and enclosure (NVME with thunderbolt 4 enclosure) 
+
+#####  Heating issue
+##### Quite not safe in my opinion (connect), the SSD fail for example.
+
