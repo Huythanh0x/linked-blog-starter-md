@@ -37,7 +37,7 @@ But according to this research <link>, standing is much ease for the spine than 
 My company give it for all employee, m1 8GB ram. Yeah you read it right 8GB of RAM for mobile dev in 2025
 ##### My Ipad gen 9 (2021) as secondary monitor
 Use sidecar  feature for this purpose, sometimes required me to wired connect. But most of the time just wirelessly
-**Note** I have build [[]]
+**Note** I have build [[Quick command to use Ipad as Second monitor (Sidecar - Apple script)]] to quickly connect to Ipad and convert it to 2nd instead of manually setting every time
 
 
 ### Standing
