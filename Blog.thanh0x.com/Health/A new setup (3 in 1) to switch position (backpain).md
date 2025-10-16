@@ -48,7 +48,8 @@ Have lot of button to config too.
 
 ##### 5" Toggl Arduino Time Tracking
 Of course, I need a screen to show how long I have been standing. ANd this one is much bigger than 2.8" as I usually use this as input too.
-It have b
+It have built-in speaker, larger to easier to click on item.
 
 ### Standing
-Put a smaller table of top and Have a decitated set of keyboard/mouse for 2 position(built-in key board for the mac) and external while seating
+Put a smaller table of top and that's.
+Basically the same as 
