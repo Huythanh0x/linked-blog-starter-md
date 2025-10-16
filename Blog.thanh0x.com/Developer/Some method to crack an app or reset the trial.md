@@ -11,4 +11,4 @@ Sample: I can not explicitly mentioned it as there is no available reference for
 ##### One Time check
 Mock Json one time and it upgraded to the premium user and be there forever.
 ##### Every day check
-Mock json and have always o
+Mock json and have always on to return valid verify reponse each time the app request to the server
