@@ -22,7 +22,9 @@
 #### Income
 + **Main source** Monthly: 715$ →Annually: 8580$
 ~~- **Bonus** Monthly: 70$ -> Annually: 840$~~
-### My family saving
+### Borrow
++ **5m** when support uncle
++ **11.3** when stocks
 Damn it 70$ Toeic
 ---
 Total: *250m* VND
