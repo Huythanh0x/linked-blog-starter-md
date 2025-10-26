@@ -620,5 +620,26 @@ SELECT NULL AS status_after_deletion;
 > Estimation
 - Google Auth integration: 2h
 
+### Run Unit test with Docker compose
+```sh
+# delete existing local code and DB
+docker compose down
+rm -rf ./docker;rm -rf ./dist
 
+# copy the .env.test
+cp .env .env.back
+cp env/.env.test .env
+
+# build docker and running test
+docker-compose -f ./docker-compose-test.yml up -d
+docker exec app-graphql yarn test:ut
+
+# delete docker-compose.test buid
+docker-compose -f ./docker-compose-test.yml down
+docker rmi app-graphql:latest
+
+# revert back the .env
+cp .env.back .env
+
+```
 
