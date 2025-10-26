@@ -27,7 +27,7 @@
 + **11.3** when stocks
 Damn it 70$ Toeic
 ---
-Total: *250m* VND
+Total: 
 #### Recursive fee
 > So basically for my daily live to `sevive` purpose only. I need to spend **36000** vnd
 
