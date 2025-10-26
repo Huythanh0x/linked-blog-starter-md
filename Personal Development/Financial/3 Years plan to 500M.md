@@ -3,7 +3,7 @@
 > I would take roughly **3 years** to reach 500M
 ### Current balance: {100M}
 
-- Gold: **46m**
+- Gold: **5x14m** + **11**
 - USD (coin): **39m**
 - [[Stock]]: **3.1m**
 - Savings (Bank): **10m**
