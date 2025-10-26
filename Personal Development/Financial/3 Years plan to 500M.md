@@ -3,8 +3,8 @@
 > I would take roughly **3 years** to reach 500M
 ### Current balance: {100M}
 
-- Gold: **5x14m** + **11**
-- USD (coin): **42**
+- Gold: **5x14m** + **11m**
+- USD (coin): **42m**
 - [[Stock]]: **0m**
 - Savings (Bank): **5m**
 - Debt by relative:
@@ -14,14 +14,15 @@
 	- Bank: **11.2m**
 	- Cash: **6m**
 	~~- Mom: send **1m** to hospital to support~~
-	~~- Brother: **2.5m** to support uncle
+	~~- Brother: **2.5m** to support uncle~~
 ### My family saving
 - My mother: **45m**
 - My brother: **45m**
 ### Current status (Aug 2025)
 #### Income
 + **Main source** Monthly: 715$ →Annually: 8580$
-- **Bonus** Monthly: 70$ -> Annually: 840$
+~~- **Bonus** Monthly: 70$ -> Annually: 840$~~
+Damn it
 ---
 Total: *250m* VND
 #### Recursive fee
