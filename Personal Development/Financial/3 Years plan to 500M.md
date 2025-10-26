@@ -4,8 +4,8 @@
 ### Current balance: {100M}
 
 - Gold: **5x14m** + **11**
-- USD (coin): **39m**
-- [[Stock]]: **3.1m**
+- USD (coin): **42**
+- [[Stock]]: **0m**
 - Savings (Bank): **10m**
 - Debt by relative:
 	- Grandma: **10m**
