@@ -6,15 +6,15 @@
 - Gold: **5x14m** + **11**
 - USD (coin): **42**
 - [[Stock]]: **0m**
-- Savings (Bank): **10m**
+- Savings (Bank): **5m**
 - Debt by relative:
 	- Grandma: **10m**
 	- Uncle: **20m**
 - Current Balance:
-	- Bank: **1.2m**
-	- Cash: **0m**
-	- Mom: send **1m** to hospital to support
-	- Brother: **2.5m** to support uncle
+	- Bank: **11.2m**
+	- Cash: **6m**
+	~~- Mom: send **1m** to hospital to support~~
+	~~- Brother: **2.5m** to support uncle
 ### My family saving
 - My mother: **45m**
 - My brother: **45m**
