@@ -632,7 +632,7 @@ cp env/.env.test .env
 
 # build docker and running test
 docker-compose -f ./docker-compose-test.yml up -d
-docker exec app-graphql yarn test:ut
+docker exec app-graphql yarn test:docker
 
 # delete docker-compose.test buid
 docker-compose -f ./docker-compose-test.yml down
