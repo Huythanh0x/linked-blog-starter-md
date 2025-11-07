@@ -30,3 +30,6 @@ pnpm --filter @repo/schema seed:master:local
 ```sh
 pnpm dev:local
 ```
+
+### My official line creds (personal test)
+#### 
